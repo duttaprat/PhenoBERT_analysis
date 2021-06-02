@@ -1,2 +1,2 @@
-# PhnoBERT_analysis
+# PhenoBERT_analysis
 Lin score
