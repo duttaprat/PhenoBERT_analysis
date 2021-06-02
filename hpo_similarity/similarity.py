@@ -187,7 +187,12 @@ class ICSimilarity(CalculateSimilarity):
             
             # cache the most informative IC value, so we only compute this once
             # per pair of HPO terms.
-            most_informative = max(ic_values)
+            # most_informative = max(ic_values)
+            ## this 'try' block is added for the PMCID code for the obsolete hpoid
+            try:
+                most_informative = max(ic_values)
+            except ValueError:
+                return 0
             self.most_informative[terms] = most_informative
             self.most_informative[(term_2, term_1)] = most_informative
         
@@ -205,7 +210,7 @@ class ICSimilarity(CalculateSimilarity):
         Returns:
             the information content value for a single hpo term
         """
-        
+        #print ("###", term)
         if term not in self:
             return 0
         
@@ -213,6 +218,7 @@ class ICSimilarity(CalculateSimilarity):
             term_count = self.get_term_count(term)
             
             # cache the IC, so we don't have to recalculate for the term
+            #print (term_count, self.total_freq)
             self.nodes[term]['info_content'] = -math.log(term_count/self.total_freq)
         
         return self.nodes[term]['info_content']
