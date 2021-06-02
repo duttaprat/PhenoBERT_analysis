@@ -219,6 +219,7 @@ class ICSimilarity(CalculateSimilarity):
             
             # cache the IC, so we don't have to recalculate for the term
             #print (term_count, self.total_freq)
+            print ("##",term_count, self.total_freq)
             self.nodes[term]['info_content'] = -math.log(term_count/self.total_freq)
         
         return self.nodes[term]['info_content']
