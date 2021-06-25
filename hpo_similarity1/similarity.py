@@ -106,6 +106,7 @@ class CalculateSimilarity(DiGraph):
         
         if term not in self.descendant_cache:
             terms = set(self.successors(term))
+            #print ("Terms,", terms)
             
             # recursively extend up the graph until we hit the top node
             extra = [ self.get_descendants(x) for x in terms ]
@@ -114,6 +115,20 @@ class CalculateSimilarity(DiGraph):
             self.descendant_cache[term] = terms
         
         return self.descendant_cache[term]
+
+    def get_immediate_descendants(self, term):
+        """ finds the set of subterms that descend from a top level HPO term
+        
+        Args:
+            term: hpo term to find descendants of
+        
+        Returns:
+            set of descendant HPO terms
+        """
+        
+        terms = set(self.successors(term))
+        
+        return terms
     
     def get_ancestors(self, bottom_term):
         """ finds the set of subterms that are ancestors of a HPO term
@@ -219,7 +234,7 @@ class ICSimilarity(CalculateSimilarity):
             
             # cache the IC, so we don't have to recalculate for the term
             #print (term_count, self.total_freq)
-            print ("##",term_count, self.total_freq)
+            #print ("##",term_count, self.total_freq)
             self.nodes[term]['info_content'] = -math.log(term_count/self.total_freq)
         
         return self.nodes[term]['info_content']
