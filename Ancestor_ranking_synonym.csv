@@ -1,0 +1,11 @@
+HPO_ID,Sentence,Ancestor,Rank,Remarks
+HP:0025461,Any anomaly of cell structure.,HP:0025354,3,Definition
+HP:0031352,An unpleasant sensation of tightness or pressure in the chest.,HP:0025142,4,Definition
+HP:0000464,An abnormality of the neck.,HP:0000152,0,Synonym
+HP:0031863,The presence of an infectious agent in the blood circulation.,HP:0001939,25,Synonym
+HP:0001928,"An abnormality of the process of blood coagulation. That is, altered ability or inability of the blood to clot.",HP:0001871,5,Synonym
+HP:0009088,Impairment in the physical production of speech sounds.,HP:0001608,0,Synonym
+HP:0041079,"The percentage of fat as a part of total body weight below the norm, usually defined as less than 14% for females and less than 8% for males.",HP:0001507,0,Synonym
+HP:0012379,An altered ability of any enzyme or their cofactors to act as catalysts. This term includes changes due to altered levels of an enzyme.,HP:0001939,3,Synonym
+HP:0011024,An abnormality of the gastrointestinal tract.,HP:0025031,1,Definition
+HP:0100685,"An abnormality of Sharpey's fibers (bone fibers, or perforating fibers), which are a matrix of connective tissue consisting of bundles of strong collagenous fibres connecting periosteum to bone.",HP:0003549,1,Definition

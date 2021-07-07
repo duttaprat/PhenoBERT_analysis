@@ -1,0 +1,76 @@
+Sentence,Description,Score,HPO_ID,Remarks
+Any anomaly of cell structure.,Growth issue,0.68798828125,HP:0001507,Synonym
+Any anomaly of cell structure.,Abnormality of prenatal development or birth,0.671875,HP:0001197,Synonym
+Any anomaly of cell structure.,Cancer,0.62646484375,HP:0002664,Synonym
+Any anomaly of cell structure.,Abnormal cellular phenotype,0.61181640625,HP:0025354,Definition
+Any anomaly of cell structure.,Genitourinary tract anomalies,0.6083984375,HP:0000119,Synonym
+Any anomaly of cell structure.,Limb anomaly,0.607421875,HP:0040064,Synonym
+Any anomaly of cell structure.,Abnormality of the hematopoietic system,0.6025390625,HP:0001871,Synonym
+Any anomaly of cell structure.,Ear anomaly,0.6015625,HP:0000598,Synonym
+Any anomaly of cell structure.,Abnormal growth,0.59619140625,HP:0001507,Synonym
+Any anomaly of cell structure.,Abnormality of the haematopoietic system,0.5947265625,HP:0001871,Synonym
+Any anomaly of cell structure.,Organ abnormality,0.59130859375,HP:0000118,Synonym
+Any anomaly of cell structure.,Abnormality of connective tissue,0.5908203125,HP:0003549,Definition
+Any anomaly of cell structure.,Growth abnormality,0.5908203125,HP:0001507,Synonym
+Any anomaly of cell structure.,Tumor,0.587890625,HP:0002664,Synonym
+Any anomaly of cell structure.,Skeletal anomalies,0.587890625,HP:0000924,Synonym
+Any anomaly of cell structure.,Phenotypic abnormality,0.587890625,HP:0000118,Definition
+Any anomaly of cell structure.,Abnormality of blood and blood-forming tissues,0.58251953125,HP:0001871,Synonym
+Any anomaly of cell structure.,Tumour,0.5810546875,HP:0002664,Synonym
+Any anomaly of cell structure.,Urogenital anomalies,0.5732421875,HP:0000119,Synonym
+Any anomaly of cell structure.,Oncology,0.57275390625,HP:0002664,Synonym
+Any anomaly of cell structure.,Oncological abnormality,0.57177734375,HP:0002664,Synonym
+Any anomaly of cell structure.,Abnormality of the integument,0.56005859375,HP:0001574,Definition
+Any anomaly of cell structure.,Abnormality of metabolism/homeostasis,0.55859375,HP:0001939,Definition
+Any anomaly of cell structure.,Abnormality of the genitourinary system,0.55419921875,HP:0000119,Definition
+Any anomaly of cell structure.,Neoplasia,0.55322265625,HP:0002664,Synonym
+Any anomaly of cell structure.,Genitourinary abnormality,0.55322265625,HP:0000119,Synonym
+Any anomaly of cell structure.,Cardiovascular abnormality,0.55126953125,HP:0001626,Synonym
+Any anomaly of cell structure.,Metabolism abnormality,0.55126953125,HP:0001939,Synonym
+Any anomaly of cell structure.,Abnormality of the immune system,0.546875,HP:0002715,Definition
+Any anomaly of cell structure.,Cardiovascular disease,0.54296875,HP:0001626,Synonym
+Any anomaly of cell structure.,Neoplasm,0.54052734375,HP:0002664,Definition
+Any anomaly of cell structure.,Abnormality of the breast,0.54052734375,HP:0000769,Definition
+Any anomaly of cell structure.,Abnormality of the nervous system,0.5400390625,HP:0000707,Synonym
+Any anomaly of cell structure.,Abnormality of head or neck,0.5380859375,HP:0000152,Synonym
+Any anomaly of cell structure.,Abnormality of the GU system,0.53564453125,HP:0000119,Synonym
+Any anomaly of cell structure.,Immunological abnormality,0.5341796875,HP:0002715,Synonym
+Any anomaly of cell structure.,Abnormal tissue mass,0.5341796875,HP:0002664,Synonym
+Any anomaly of cell structure.,Respiratory abnormality,0.53369140625,HP:0002086,Synonym
+Any anomaly of cell structure.,Abnormality of the musculature,0.53271484375,HP:0003011,Definition
+Any anomaly of cell structure.,Abnormality of the endocrine system,0.5283203125,HP:0000818,Definition
+Any anomaly of cell structure.,Abnormality of the cardiovascular system,0.521484375,HP:0001626,Synonym
+Any anomaly of cell structure.,Abnormality of the voice,0.51806640625,HP:0001608,Synonym
+Any anomaly of cell structure.,Genitourinary tract malformation,0.51806640625,HP:0000119,Synonym
+Any anomaly of cell structure.,Muscular abnormality,0.515625,HP:0003011,Synonym
+Any anomaly of cell structure.,Abnormality of the skeletal system,0.51513671875,HP:0000924,Synonym
+Any anomaly of cell structure.,Abnormality of the respiratory system,0.513671875,HP:0002086,Definition
+Any anomaly of cell structure.,Brain and/or spinal cord issue,0.51123046875,HP:0000707,Synonym
+Any anomaly of cell structure.,Genitourinary disease,0.50830078125,HP:0000119,Synonym
+Any anomaly of cell structure.,Abnormality of the digestive system,0.50732421875,HP:0025031,Definition
+Any anomaly of cell structure.,Abnormal limbs,0.50341796875,HP:0040064,Synonym
+Any anomaly of cell structure.,Abnormality of the eye,0.5029296875,HP:0000478,Definition
+Any anomaly of cell structure.,Hematologic disease,0.5009765625,HP:0001871,Synonym
+Any anomaly of cell structure.,Abnormality of the ear,0.499755859375,HP:0000598,Synonym
+Any anomaly of cell structure.,Voice abnormality,0.497314453125,HP:0001608,Synonym
+Any anomaly of cell structure.,Head and neck abnormality,0.494873046875,HP:0000152,Synonym
+Any anomaly of cell structure.,Laboratory abnormality,0.494140625,HP:0001939,Synonym
+Any anomaly of cell structure.,Constitutional symptom,0.49365234375,HP:0025142,Definition
+Any anomaly of cell structure.,Abnormal eye,0.493408203125,HP:0000478,Synonym
+Any anomaly of cell structure.,Hematological abnormality,0.4892578125,HP:0001871,Synonym
+Any anomaly of cell structure.,Urogenital abnormalities,0.488525390625,HP:0000119,Synonym
+Any anomaly of cell structure.,Skeletal abnormalities,0.488037109375,HP:0000924,Synonym
+Any anomaly of cell structure.,Abnormality of limbs,0.48779296875,HP:0040064,Synonym
+Any anomaly of cell structure.,Eye disease,0.486083984375,HP:0000478,Synonym
+Any anomaly of cell structure.,Abnormality of the thoracic cavity,0.47802734375,HP:0045027,Definition
+Any anomaly of cell structure.,Endocrine system disease,0.4736328125,HP:0000818,Synonym
+Any anomaly of cell structure.,Fractured trunk,0.45947265625,HP:0041158,Definition
+Any anomaly of cell structure.,Genitourinary dysplasia,0.459228515625,HP:0000119,Synonym
+Any anomaly of cell structure.,Neurological abnormality,0.45751953125,HP:0000707,Synonym
+Any anomaly of cell structure.,bone trunk,0.45751953125,HP:0041158,Synonym
+Any anomaly of cell structure.,bone pelvic region of trunk,0.45654296875,HP:0041161,Synonym
+Any anomaly of cell structure.,Neurologic abnormalities,0.4501953125,HP:0000707,Synonym
+Any anomaly of cell structure.,bone thoracic segment of trunk,0.430908203125,HP:0041054,Synonym
+Any anomaly of cell structure.,Fractured pelvic region of trunk,0.42333984375,HP:0041161,Definition
+Any anomaly of cell structure.,Dysmelia,0.393798828125,HP:0040064,Synonym
+Any anomaly of cell structure.,Fractured thoracic segment of trunk,0.378662109375,HP:0041054,Definition
