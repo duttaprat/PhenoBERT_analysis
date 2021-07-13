@@ -1,0 +1,1000 @@
+HPO_ID,Sentence,Ancestor,Rank,Remarks
+HP:0003187,Underdevelopment of the breast.,HP:0000769,0,Definition
+HP:0002552,Developmental dysplasia of the hair.,HP:0001574,12,Definition
+HP:0000829,A condition caused by a deficiency of parathyroid hormone characterized by hypocalcemia and hyperphosphatemia.,HP:0000818,0,Definition
+HP:0001178,An abnormal hand position characterized by hyperextension of the fourth and fifth fingers at the metacarpophalangeal joints and flexion of the interphalangeal joints of the same fingers such that they are curled towards the palm.,HP:0040064,3,Synonym
+HP:0012346,"An anomaly of a protein glycosylation process, i.e., of a protein modification process that results in the addition of a carbohydrate or carbohydrate derivative unit to a protein amino acid, e.g. the addition of glycan chains to proteins.",HP:0001939,3,Definition
+HP:0031883,An elevated concentration of proinsulin (the prohormone precursor to insulin) to mature insulin in the circulation.,HP:0001939,2,Definition
+HP:0008081,An outward deviation of the foot at the talocalcaneal or subtalar joint.,HP:0040064,4,Synonym
+HP:0410174,"An increased concentration of tropnin T in the blood, which is a cardiac regulatory protein that controls the calcium mediated interaction between actin and myosin. Raised cardiac troponin concentrations are now accepted as the standard biochemical marker for the diagnosis of myocardial infarction.",HP:0001626,0,Synonym
+HP:0012667,An abnormal motion of a segment of the left ventricle during the cardiac cycle.,HP:0001626,0,Synonym
+HP:0032368,An abnormally low blood pH (usually defined as less than 7.35).,HP:0001939,4,Synonym
+HP:0010648,An abnormally increased ability of the skin to permit light to pass through (translucency) such that subcutaneous structures such as veins display an increased degree of visibility.,HP:0001574,2,Definition
+HP:0410399,Detection of lead in the blood.,HP:0001939,6,Synonym
+HP:0032150,Excruciating burning pain in the rectal area that may be triggered by defecation.,HP:0025142,1,Definition
+HP:0032505,Pharyngeal spasms provoked by an attempt to drink.,HP:0000707,4,Synonym
+HP:0012109,A type of glaucomatous optic neuropathy in an eye that has evidence of angle closure (i.e. significant iridotrabecular contact).,HP:0000478,0,Synonym
+HP:0004306,An abnormality of the endocardium.,HP:0001626,1,Synonym
+HP:0005305,"Formation of a blood clot (thrombus) inside a cerebral vein, causing the obstruction of blood flow.",HP:0001871,0,Synonym
+HP:0031216,An elevated concentration of progesterone in the blood.,HP:0000818,1,Synonym
+HP:0001249,"Subnormal intellectual functioning which originates during the developmental period. Intellectual disability, previously referred to as mental retardation, has been defined as an IQ score below 70.",HP:0000707,3,Synonym
+HP:0003508,A kind of short stature in which different regions of the body are shortened to a comparable extent.,HP:0001507,0,Synonym
+HP:0030831,"Abnormal breath sounds characterized by low-pitched, snoring or rattle-like sounds.",HP:0002086,0,Synonym
+HP:0000153,An abnormality of the mouth.,HP:0000152,1,Synonym
+HP:0000826,"The onset of secondary sexual characteristics before a normal age. Although it is difficult to define normal age ranges because of the marked variation with which puberty begins in normal children, precocious puberty can be defined as the onset of puberty before the age of 8 years in girls or 9 years in boys.",HP:0000818,4,Definition
+HP:0031826,"Any anomaly of a reflex, i.e., of an automatic response mediated by the nervous system (a reflex does not need the intervention of conscious thought to occur).",HP:0000707,0,Synonym
+HP:0031961,"Any deviation from the normal value of the serum anion gap, which is calculated from the electrolytes measured in the chemical laboratory, is defined as the sum of serum chloride and bicarbonate concentrations subtracted from the serum sodium concentration.",HP:0001939,0,Synonym
+HP:0011880,"An acute form of disseminated intravascular coagulation. Acute DIC can occur following sudden exposure of blood to procoagulants, with the compensatory hemostatic mechanisms becoming overwhelmed.",HP:0001871,2,Synonym
+HP:0001827,Congenital occlusion of a tube in the genital tract.,HP:0000119,1,Synonym
+HP:0000069,An abnormality of the ureter. The ureter is the duct by which urine passes from the kidney to the bladder.,HP:0000119,2,Synonym
+HP:0003282,Abnormally reduced serum levels of alkaline phosphatase.,HP:0001939,7,Synonym
+HP:0003712,"Hypertrophy (increase in size) of muscle cells (as opposed to hyperplasia, which refers to an increase in the number of muscle cells).",HP:0003011,1,Synonym
+HP:0025482,"An abnormal result of the perchlorate discharge test. In this test, first radioactive iodine is administered, sufficinet time is allowed to pass so that the radioactive iodine is captured by the thyroid,and then, perchlorate is administered orally. The perchlorate displaces non-organified iodide from the thyroid. The perchlorate discharge test is considered positive (abnormal) if there is an abnormally rapid loss of radioactive iodine from the thyroid.",HP:0000818,4,Definition
+HP:0030230,"The presence of disorganized areas called cores in the center of muscle fibers. There is a typical appearance of the biopsy on light microscopy, where the muscle cells have cores that are devoid of mitochondria and specific enzymes. Cores are typically well demarcated and centrally located, but may occasionally be multiple and of eccentric.",HP:0003011,0,Synonym
+HP:0100284,"High frequency discharges in electromyography (EMG) that vary in amplitude and frequency, waxing and waning continuously with firing frequencies ranging from 150/second down to 20/second and producing a sound that has been referred to as a dive bomber sound.",HP:0003011,3,Definition
+HP:0011615,"An abnormality of the pulmonary situs, i.e., of the sidedness of the morphological right and left lungs, which is defined by characteristics such as the number of lobes per lung and the relationship of the pulmonary arteries to their bronchi.",HP:0002086,2,Definition
+HP:0003154,"An abnormal increased in the concentration of corticotropin, also known as adrenocorticotropic hormone (ACTH), in the blood.",HP:0000818,1,Definition
+HP:0025016,A structural anomaly of the tiny blood vessels that connect arterioles with venules and whose walls act as semipermeable membranes that mediate the diffusion of fluids and gases between the blood circulation and body tissues.,HP:0001626,3,Synonym
+HP:0001544,Abnormally prominent umbilicus (belly button).,HP:0025031,9,Definition
+HP:0002186,"A defect in the understanding of complex motor commands and in the execution of certain learned movements, i.e., deficits in the cognitive components of learned movements.",HP:0000707,0,Synonym
+HP:0410013,"Any abnormality of the submandibular region, the region between the mandible and the hyoid bone contains the submandibular and sublingual glands, suprahyoid muscles, submandibular ganglion, and lingual artery.",HP:0000152,0,Synonym
+HP:0002071,"A neurological condition related to lesions of the basal ganglia leading to typical abnormalities including akinesia (inability to initiate changes in activity and perform volitional movements rapidly and easily), muscular rigidity (continuous contraction of muscles with constant resistance to passive movement), chorea (widespread arrhythmic movements of a forcible, rapid, jerky, and restless nature), athetosis (inability to sustain the muscles of the fingers, toes, or other group of muscles in a fixed position), and akathisia (inability to remain motionless).",HP:0000707,1,Synonym
+HP:0033015,Abnormally elevated concentration of cortisol in saliva.,HP:0001939,5,Definition
+HP:0004342,Abnormality of galactoside metabolism. A galactoside is a glycoside (a suger moiety bound to some other moiety) containing galactose.,HP:0001939,0,Synonym
+HP:0011905,"Hemoglobin A (HbA) contains two globin alpha chains and two globin beta chains. HbA is normally the main adult hemoglobin, representing about 96-98 percent of all hemoglobin. This term represents a decreased in the proportion of HbA below this limit, and can be seen in various forms of thalassemia.",HP:0001871,2,Synonym
+HP:0005968,"Disordered thermoregulation characterized by an impaired ability to maintain a balance between heat production and heat loss, with resulting instability of body temperature.",HP:0001939,0,Definition
+HP:0012302,A severe virus infection of the central nervous system by the herpes simplex virus (HSV).,HP:0002715,1,Definition
+HP:0031921,Pain of the gastrocnemius muscle.,HP:0025142,2,Definition
+HP:0030867,"The orbits do not lie on the same horizontal plane, that is, one eye is lower than the other.",HP:0000478,0,Synonym
+HP:0100882,"A rare, benign soft tissue tumor that typically occurs within the first two years of life.",HP:0002664,0,Synonym
+HP:0032508,Habitual insertion of foreign bodies into bodily orifices.,HP:0000707,9,Synonym
+HP:0012627,Deposition of fibrillar material that can be found on all anterior segment structures bathed by aqueous humor.,HP:0000478,1,Synonym
+HP:0002493,"A functional anomaly of the upper motor neuron. The upper motor neurons are neurons of the primary motor cortex which project to the brainstem and spinal chord via the corticonuclear, corticobulbar and corticospinal (pyramidal) tracts. They are involved in control of voluntary movements. Dysfunction leads to weakness, impairment of fine motor movements, spasticity, hyperreflexia and abnormal pyramidal signs.",HP:0000707,1,Synonym
+HP:0410286,"Detection of molindone in the blood, an antipyschotic used for treatment of schizophrenia.",HP:0001939,6,Definition
+HP:0001000,An abnormality of the pigmentation of the skin.,HP:0001574,2,Definition
+HP:0007335,Recurrent episodes of brain dysfunction that may be triggered by factors such as metabolic disturbances or infections.,HP:0000707,4,Synonym
+HP:0030000,Abnormality observed upon electromyography when nerve studied is electrically stimulated six to ten times at 2 or 3 Hertz.,HP:0003011,0,Synonym
+HP:0020182,"A measurable change in circulating levels of Atrial natriuretic peptide hormone, a protein which plays an important role in the regulation of body fluid volume and blood pressure.",HP:0001939,3,Definition
+HP:0005528,A reduced number of hematopoietic cells present in the bone marrow relative to marrow fat.,HP:0001871,2,Synonym
+HP:0032281,"Deviation from the normal quantity of base excess, defined as the amount of strong acid (in millimoles per liter) that needs to be added in vitro to 1 liter of fully oxygenated whole blood to return a blood sample to standard conditions (pH of 7.40, Pco2 of 40 mm Hg, and temperature of 37 degrees C).",HP:0001939,0,Definition
+HP:0012448,Delayed myelination.,HP:0000707,3,Synonym
+HP:0012763,A sudden attack of dyspnea that occurs while the affected person is at rest.,HP:0002086,1,Synonym
+HP:0010859,A kind of breech presentation in which the hips are flexed and the knees are extended.,HP:0001197,2,Synonym
+HP:0008158,Hyperapobetalipoproteinemia is defined as the combination of a normal low density lipoprotein (LDL) cholesterol in the face of an increased LDL apolipoprotein B (apoB) protein.,HP:0001939,1,Synonym
+HP:0000592,An abnormal bluish coloration of the sclera.,HP:0000478,3,Definition
+HP:0025439,Inflammation (due to infection or irritation) of the pharynx.,HP:0000152,8,Synonym
+HP:0031276,"A type of shock characterized by inadequate cardiac preload due to obstructed venous return (e.g. pericardial tamponade, tension pneumothorax, abdominal compartment) or obstruction of arterial blood flow (e.g. pulmonary embolism).",HP:0001626,0,Synonym
+HP:0032487,Abnormally low concentration of feces as assessed by the total number of solute particles per kilogram.,HP:0001939,4,Synonym
+HP:0000925,Any abnormality of the vertebral column.,HP:0000924,2,Synonym
+HP:0030823,Increased dimension of the sclera in the anterior-posterior axis.,HP:0000478,2,Synonym
+HP:0046507,Bradypnea is referring to breathing that is abnormally slow.,HP:0002086,0,Synonym
+HP:0001654,Any structural abnormality of a cardiac valve.,HP:0001626,0,Synonym
+HP:0008967,A type of muscle stiffness that occurs following physical exertion.,HP:0003011,0,Synonym
+HP:0030654,Any cystic lesion associated with the umbilical cord.,HP:0001197,1,Synonym
+HP:0030089,An anomalous amount of protein present in or on the surface of muscle fibers. This feature may be appreciate upon immunohistochemical investigation of muscle biopsy tissue.,HP:0003011,0,Synonym
+HP:0033007,"Architectural distortion is characterized by abnormal displacement of bronchi, vessels, fissures, or septa caused by diffuse or localized lung disease, particularly interstitial fibrosis. This is visible in lung biopsy and CT scans in a distorted appearance and is usually associated with pulmonary fibrosis and accompanied by volume loss.",HP:0002086,1,Synonym
+HP:0000528,Absence of the globe or eyeball.,HP:0000478,0,Definition
+HP:0011534,Abnormality of the spatial relationship of the cardiac segments to other components of the heart.,HP:0001626,0,Synonym
+HP:0003546,A functional motor deficit where individuals whose responses to the challenges of exercise fail to achieve levels considered normal for their age and gender.,HP:0003011,1,Synonym
+HP:0032973,Abnormal type or counts of nucleated immune cells and acellular components in bronchoalveolar lavage (BAL) fluid. BAL us performed with a fiberoptic bronchoscope in the wedged position within a selected bronchopulmonary segment. BAL is commonly used to inform the differential diagnosis of interstitial lung disease or to monitor therapeutic interventions.,HP:0002086,1,Synonym
+HP:0000377,"An abnormality of the pinna, which is also referred to as the auricle or external ear.",HP:0000598,0,Synonym
+HP:0032240,An increased concentration of E selectin in the blood circulation.,HP:0001939,7,Definition
+HP:0008993,An abnormal increase in the amount of intraabdominal fat tissue.,HP:0003549,6,Definition
+HP:0001376,A reduction in the freedom of movement of one or more joints.,HP:0000924,3,Synonym
+HP:0002193,Individuals with Pseudobulbar signs often also demonstrate abnormal behavioral symptoms such as inappropriate emotional outbursts of uncontrolled laughter or weeping etc.,HP:0000707,5,Synonym
+HP:0500181,An increased amount of taurine in the blood.,HP:0001939,3,Definition
+HP:0012276,"Inflammation of the flexor digitorum tendon, often associated with the Kanavel signs: (i) finger held in slight flexion, (ii) fusiform swelling, (iii) tenderness along the flexor tendon sheath, and (iv) pain with passive extension of the digit.",HP:0000924,13,Synonym
+HP:0003809,An abnormally reduced amount of adipose tissue in the thoracic cavity.,HP:0003549,10,Definition
+HP:0005510,A transient reduction in the number of erythroblasts in the circulation.,HP:0001871,0,Synonym
+HP:0011314,An abnormality of size or shape of the long bones.,HP:0000924,5,Synonym
+HP:0031279,An abnormal response to the gonadotropin-releasing hormone (GnRH) stimulation test. This test typically involves intravenous administration of GnRH followed by repeated blood sampling at various time points to measure the levels of luteinizing hormone (LH) and follicle-stimulating hormone (FSH).,HP:0000818,1,Definition
+HP:0003573,Increased concentration of total (conjugated and unconjugated) bilirubin in the blood.,HP:0001939,2,Synonym
+HP:0032169,A type of infection that is regarded as a sign of a pathological susceptibility to infection because of unusual severity or intensity of the infection.,HP:0002715,0,Definition
+HP:0002104,Lack of breathing with no movement of the respiratory muscles and no exchange of air in the lungs. This term refers to a disposition to have recurrent episodes of apnea rather than to a single event.,HP:0002086,0,Synonym
+HP:0031970,Any deviation from the normal concentration of urea nitrogen in the blood.,HP:0001939,7,Synonym
+HP:0002558,Presence of more than two nipples.,HP:0000769,3,Definition
+HP:0031686,An abnormally elevated amount of alpha1-antitrypsin in the feces.,HP:0025031,2,Definition
+HP:0011499,Abnormal dilatation of the iris.,HP:0000478,1,Definition
+HP:0100695,Excess deposit and expansion of adipose tissue in an unusual pattern which cannot be lost through diet and exercise .,HP:0003549,10,Definition
+HP:0000568,A developmental anomaly characterized by abnormal smallness of one or both eyes.,HP:0000478,3,Synonym
+HP:0001769,"A foot for which the measured width is above the 95th centile for age; or, a foot that appears disproportionately wide for its length.",HP:0040064,4,Synonym
+HP:0009926,"Abnormally increased lacrimation, that is, excessive tearing (watering eye).",HP:0000478,0,Synonym
+HP:0500182,A decreased amount of taurine in the blood.,HP:0001939,2,Definition
+HP:0005537,Average platelet volume below the lower limit of the normal reference interval.,HP:0001871,2,Synonym
+HP:0011362,An abnormal amount of hair.,HP:0001574,10,Definition
+HP:0011809,A type of myotonia that worsens with repeated muscle contractions.,HP:0003011,1,Synonym
+HP:0008242,A state of renal tubular unresponsiveness or resistance to the action of aldosterone.,HP:0000818,0,Definition
+HP:0031928,A type of rosette in which a halo of cells surrounds an empty lumen.,HP:0025354,2,Definition
+HP:0012767,A deviation from normal size of the placenta.,HP:0001197,1,Synonym
+HP:0025323,An anomaly of arterial function.,HP:0001626,2,Synonym
+HP:0031793,An increased concentration of leptin in the blood.,HP:0000818,3,Synonym
+HP:0003715,Myofibrillar structural changes characterized by abnormal intracellular accumulation of the intermediate filament desmin and other proteins.,HP:0003011,4,Synonym
+HP:0000525,"An abnormality of the iris, which is the pigmented muscular tissue between the cornea and the lens, that is perforated by an opening called the pupil.",HP:0000478,0,Synonym
+HP:0006510,"An anomaly that is characterized progressive airflow obstruction that is only partly reversible, inflammation in the airways, and systemic effects or comorbities.",HP:0002086,1,Synonym
+HP:0025518,"An abnormality of gaze that can be observed following an acute supranuclear cerebral lesion (e.g., stroke) that is characterized by an acute inability to direct gaze contralateral to the side of the lesion and is accompanied by a tendency for tonic deviation of the eyes toward the side of the lesion.",HP:0000478,0,Definition
+HP:0004446,The presence of erythrocytes with a mouth-shaped (stoma) area of central pallor on peripheral blood smear.,HP:0001871,1,Synonym
+HP:0012899,Difficulty releasing one's grip associated with prolonged first handgrip relaxation times.,HP:0003011,1,Synonym
+HP:0010860,A kind of breech presentation in which the hips are flexed and the knees are flexed.,HP:0001197,2,Synonym
+HP:0002878,A severe form of respiratory insufficiency characterized by inadequate gas exchange such that the levels of oxygen or carbon dioxide cannot be maintained within normal limits.,HP:0002086,0,Synonym
+HP:0001981,The presence of an abnormal number of fragmented red blood cells (schistocytes) in the blood.,HP:0001871,0,Synonym
+HP:0002757,The repeated occurrence of bone fractures (implying an abnormally increased tendency for fracture).,HP:0000924,2,Synonym
+HP:0006921,Stiffness (a condition in which muscles cannot be moved quickly without accompanying pain or spasm) of the axial musculature.,HP:0003011,0,Definition
+HP:0002463,"Language impairment is a deficit in comprehension or production of language that includes reduced vocabulary, limited sentence structure or impairments in written or spoken communication. Language abilities are substantially and quantifiably below age expectations.",HP:0000707,3,Synonym
+HP:0002516,An increase of the pressure inside the cranium (skull) and thereby in the brain tissue and cerebrospinal fluid.,HP:0000707,2,Synonym
+HP:0031689,"The presence of micro-megakaryocytes, hypo-lobed, or non-lobed nuclei in megakaryocytes of all sizes and multiple, widely-separated nuclei.",HP:0001871,0,Synonym
+HP:0031854,"A type of heterotaxy where some paired structures on opposite sides of the left-right axis of the body are symmetrical mirror images of each other, and have the morphology of the normal left-sided structures.",HP:0001507,0,Synonym
+HP:0011675,Any cardiac rhythm other than the normal sinus rhythm. Such a rhythm may be either of sinus or ectopic origin and either regular or irregular. An arrhythmia may be due to a disturbance in impulse formation or conduction or both.,HP:0001626,0,Synonym
+HP:0005922,Any structural anomaly of the hand.,HP:0040064,2,Synonym
+HP:0031406,"Any abnormality in the series of molecular signals initiated by the binding of a cytokine to a receptor on the surface of a cell, and ending with regulation of a downstream cellular process, e.g. transcription.",HP:0002715,3,Definition
+HP:0012732,An abnormality of the anus or rectum.,HP:0025031,7,Definition
+HP:0032450,Detection of arsenic in the blood circulation.,HP:0001939,6,Synonym
+HP:0045047,Presence of an abnormal type of hemoglobin characterized by the subsitution of a glutamic acid residue at position 7 following the initial methionine residue by a valine (the mutation causative of sickle cell disease). The mutation promotes the polymerization of the HbS under conditions of low oxygen concentration. HbS can be identified by multiple methodologies including hemoglobin electrophoresis and high-performance liquid chromatography.,HP:0001871,4,Synonym
+HP:0000570,An abnormality of eye movement characterized by impairment of fast (saccadic) eye movements.,HP:0000478,1,Synonym
+HP:0003240,"Abnormally elevated level of the enzyme phosphoribosyl pyrophosphatesynthetase, which catalyzes the synthesis of PP-ribose-P from ATP and ribose-5-phosphate.",HP:0001939,0,Synonym
+HP:0100725,Thickening and hardening of the epidermis seen with exaggeration of normal skin lines.,HP:0001574,4,Definition
+HP:0010547,"A type of paralysis in which a muscle becomes soft and yields to passive stretching, which results from loss of all or practically all peripheral motor nerves that innervated the muscle. Muscle tone is reduced and the affected muscles undergo extreme atrophy within months of the loss of innervation.",HP:0003011,0,Synonym
+HP:0001460,Absence or underdevelopment of the musculature.,HP:0003011,1,Definition
+HP:0010719,An abnormality of the texture of the hair.,HP:0001574,2,Definition
+HP:0002133,"Status epilepticus is a type of prolonged seizure resulting either from the failure of the mechanisms responsible for seizure termination or from the initiation of mechanisms which lead to abnormally prolonged seizures (after time point t1). It is a condition that can have long-term consequences (after time point t2), including neuronal death, neuronal injury, and alteration of neuronal networks, depending on the type and duration of seizures.",HP:0000707,0,Synonym
+HP:0030061,"A neoplasm arising in the neuroectoderm, the portion of the ectoderm of the early embryo that gives rise to the central and peripheral nervous systems, including some glial cells.",HP:0002664,0,Definition
+HP:0031927,"The tumor cells that form the Flexner-Wintersteiner rosette circumscribe a central lumen that contains small cytoplasmic extensions of the encircling cells; however, unlike the center of the Homer Wright rosette, the central lumen does not contain the fiber-rich neuropil.",HP:0025354,2,Definition
+HP:0012774,"Elevated ratio between the upper and the lower segment of the body, where the lower segment is defined as the length between the top of pubic symphysis to floor, and the upper segment is defined as the top of head to top of pubic symphysis.",HP:0001507,3,Synonym
+HP:0012443,"A structural abnormality of the brain, which has as its parts the forebrain, midbrain, and hindbrain.",HP:0000707,2,Synonym
+HP:0002165,Inward advance of skin over the nail plate.,HP:0001574,3,Definition
+HP:0008850,"Severely slow or limited growth after birth, being four standard deviations or more below age- and sex-related norms.",HP:0001507,0,Synonym
+HP:0010461,Abnormality of the male genital system.,HP:0000119,1,Definition
+HP:0011440,Rhabdomyolysis induced by intake of alcohol.,HP:0003011,15,Definition
+HP:0100305,Ring fibers are formed by a bundle of peripheral myofibrils which are circumferentially oriented such that they encircle the internal portion of the sarcoplasm which is normal in structure and orientation.,HP:0003011,1,Synonym
+HP:0030688,An elevated concentration of glucagon in the blood circulation.,HP:0000818,1,Synonym
+HP:0032043,Pain experienced with swallowing.,HP:0025031,9,Definition
+HP:0004418,Inflammation of a vein associated with venous thrombosis (blood clot formation within the vein).,HP:0001871,3,Synonym
+HP:0000662,Inability to see well at night or in poor light.,HP:0000478,2,Synonym
+HP:0031085,"A reduced concentration of prealbumin in the blood. Prealbumin, also known as transthyretin, has a half-life in plasma of about 2 days, much shorter than that of albumin. Prealbumin is therefore more sensitive to changes in protein-energy status than albumin, and its concentration closely reflects recent dietary intake rather than overall nutritional status.",HP:0001939,0,Definition
+HP:0001898,The presence of an increased mass of red blood cells in the circulation.,HP:0001871,2,Synonym
+HP:0010548,"A localized myotonic contraction in a muscle in reaction to percussion (tapping with the examiner's finger, a rubber percussion hammer, or a similar object).",HP:0003011,1,Synonym
+HP:0000593,"Abnormality of the anterior chamber, which is the space in the eye that is behind the cornea and in front of the iris.",HP:0000478,0,Definition
+HP:0001983,A reduction in the expression of CD43 on the cell surface of lymphocytes.,HP:0002715,4,Definition
+HP:0045048,"An elevated concentration in the blood of hemoglobin A2 (HbA2), which is a normal variant of hemoglobin A that consists of two alpha and two delta chains and is normally present at low levels in adults but may be increased in beta thalassemia.",HP:0001871,0,Synonym
+HP:0001098,Any structural abnormality of the fundus of the eye.,HP:0000478,0,Definition
+HP:0410400,"Absence of the sebaceous gland, the holocrine gland that secretes sebum into the hair follicles, or in hairless areas into ducts.",HP:0001574,7,Definition
+HP:0011389,An abnormality of the function of the inner ear.,HP:0000598,1,Synonym
+HP:0012770,Decreased length of the arm span (length from one end of an individual's arms measured at the fingertips to the other when raised parallel to the ground at shoulder height at a one-hundred eighty degree angle).,HP:0040064,7,Synonym
+HP:0003730,"Spontaneous, repetitive electrical activity demonstrated by electromyography (EMG).",HP:0003011,4,Definition
+HP:0002719,Increased susceptibility to infections.,HP:0002715,5,Definition
+HP:0000360,"Tinnitus is an auditory perception that can be described as the experience of sound, in the ear or in the head, in the absence of external acoustic stimulation.",HP:0000598,0,Synonym
+HP:0000622,Lack of sharpness of vision resulting in the inability to see fine detail.,HP:0000478,1,Definition
+HP:0004831,"Repeated episodes of obstruction of blood flow due to an embolus, i.e., blood clot that has traveled from its point of origin within the blood stream.",HP:0001871,1,Synonym
+HP:0012904,An involuntary and painless delay in the relaxation of skeletal muscle following contraction or electrical stimulation that is induced by exposure to cold.,HP:0003011,0,Definition
+HP:0010651,"An abnormality of the Meninges, including any abnormality of the Dura mater, the Arachnoid mater, and the Pia mater.",HP:0000707,3,Synonym
+HP:0032439,"An abnormally increased sensitivity to airborn particles. This can be diagnosed on the basis of the medical history, taking into account seasonality or a relationship to the concentration of airborn particles in the environment of the affected individual. Aerosol challenge is a gold standard of establishment of the symptom. There exist particle hypersensitivity (diesel exhaust, metals, inorganic material) vs. allergen (including pollen dander, etc) hypersensitivity. The responses are usually different and testing for allergen hypersensitivity is done in concert with serum IgE and or skin testing to the suspected allergen.",HP:0002715,1,Synonym
+HP:0031836,Increased level of catalysis of the reaction: 2 superoxide + 2 H+ = O2 + hydrogen peroxide.,HP:0001939,2,Definition
+HP:0000836,"An abnormality of thyroid physiology characterized by excessive secretion of the thyroid hormones thyroxine (i.e., T4) and/or 3,3',5-triiodo-L-thyronine zwitterion (i.e., triiodothyronine or T3).",HP:0000818,0,Definition
+HP:0030353,A reduced level of insulin-like growth factor 1 (IGF1) in the blood circulation.,HP:0000818,2,Synonym
+HP:0040236,"Increased degradation of fibrin, associated with clot instability and bleeding",HP:0001871,4,Synonym
+HP:0012116,Deviation from normal concentration of albumin in the blood.,HP:0001939,6,Synonym
+HP:0005938,Abnormal arrangement of the structures of the motile cilium.,HP:0002086,4,Definition
+HP:0007281,"A cessation of the development of a child in the areas of motor skills, speech and language, cognitive skills, and social and/or emotional skills.",HP:0000707,4,Synonym
+HP:0410291,Opposing or not responding to instructions or external stimuli.,HP:0000707,1,Synonym
+HP:0031036,A decreased blood concentration of growth hormone binding protein.,HP:0001939,6,Synonym
+HP:0009023,Decreased strength of the abdominal musculature.,HP:0003011,1,Definition
+HP:0030685,"A reduced circulating concentration of adiponectin, a 30-kDa complement C1-related protein that is the most abundant secreted protein expressed in adipose tissue.",HP:0000818,4,Synonym
+HP:0002643,Respiratory difficulty as newborn.,HP:0002086,2,Synonym
+HP:0030149,"Severely decreased cardiac output with evidence of inadequate end-organ perfusion (i.e., tissue hypoxia) in the presence of adequate intravascular volume.",HP:0001626,1,Synonym
+HP:0030895,An anomaly of the muscular contractions that propel food though the gastrointestinal tract.,HP:0025031,2,Definition
+HP:0030207,"Breathing movements in which the chest wall moves in on inspiration and out on expiration, in reverse of the normal movements. It may be seen in children with respiratory distress of any cause, which leads to indrawing of the intercostal spaces during inspiration. Patients with chronic airways obstruction also show indrawing of the lower ribs during inspiration, due to the distorted action of a depressed and flattened diaphragm. Crush injuries of the chest, with fractured ribs and sternum, can lead to a severe degree of paradoxical breathing.",HP:0002086,0,Synonym
+HP:0025502,Increased body weight with a body mass index of 25-29.9 kg per square meter.,HP:0001507,0,Synonym
+HP:0011439,Rhabdomyolysis induced by anesthesia.,HP:0003011,14,Definition
+HP:0011903,"Hemoglobin H (HbH) contains four beta-globin chains. It is normally not present at all in blood, but may make up about 1-40 percent of all hemoglobin in HbH disease, a subform of alpha thalassemia.",HP:0001871,0,Synonym
+HP:0012900,Slowed relaxation of muscles in the face.,HP:0003011,4,Synonym
+HP:0003701,A lack of strength of the proximal muscles.,HP:0003011,1,Definition
+HP:0000765,"Any abnormality of the thorax (the region of the body formed by the sternum, the thoracic vertebrae and the ribs).",HP:0000924,11,Synonym
+HP:0008887,A loss of adipose tissue.,HP:0003549,12,Definition
+HP:0032436,Any deviation from the normal concentration of C-reactive protein in the blood circulation.,HP:0001939,7,Synonym
+HP:0002421,Difficulty to maintain correct position of the head while standing or sitting.,HP:0003011,7,Definition
+HP:0031661,"Any anomaly of the second heart sound (S2), which is produced by aortic (A2) and pulmonic (P2) valve closure. The A2-P2 interval normally increases with inspiration and narrows with expiration.",HP:0001626,1,Synonym
+HP:0001640,Increased size of the heart.,HP:0001626,1,Synonym
+HP:0012119,"Abnormally increased levels of methemoglobin in the blood. In this form of hemoglobin, there is an oxidized ferric iron (Fe +3) rather than the reduced ferrous form (Fe 2+) that is normally found in hemoglobin. Methemoglobin has a reduced affinity for oxygen, resulting in a reduced ability to release oxygen to tissues.",HP:0001871,2,Synonym
+HP:0025534,A congenital lesion of the sclera characterized by unilateral patchy but extensive slate-gray or bluish discoloration of the sclera . The conjunctiva are spared.,HP:0000478,2,Synonym
+HP:0000746,A belief that is pathological and is held despite evidence to the contrary.,HP:0000707,5,Synonym
+HP:0030223,"Perseveration can be defined as the contextually inappropriate and unintentional repetition of a response or behavioral unit. In other words, the observed repetitiveness does not meet the demands of the situation, is not the product of deliberation, and may even unfold despite counterintention. Perseveration can therefore be differentiated from goal-directed and intentional forms of repetition, such as linguistic redundancies designed to enhance communicative or poetic impact.",HP:0000707,2,Synonym
+HP:0100809,Pain or discomfort of the scalp elicited by palpation.,HP:0000152,6,Synonym
+HP:0001980,Abnormal increased number of megaloblasts in the bone marrow.,HP:0001871,1,Synonym
+HP:0009011,"Underdevelopment of the serratus anterior muscle, which is involved in abduction, upward Rotation, and elevation of the scapula.",HP:0003011,3,Definition
+HP:0010861,A kind of breech presentation in which one or both hips are extended and one or both of the fetus' feet are pointing down and entering the birth canal.,HP:0001197,0,Synonym
+HP:0005185,"A reduced ejection fraction and an enlarged left ventricle chamber, the latter by an increased resistance to filling with increased filling pressures. Systolic dysfunction is clinically associated with left ventricular failure in the presence of marked cardiomegaly.",HP:0001626,0,Synonym
+HP:0012485,An anomaly of the invaginations of the surface membrane that form the open canalicular system (OCS). The OCS serve as the pathway for transport of substances into the cells and as conduits for the discharge of alpha granule products secreted during the platelet release reaction.,HP:0001871,1,Synonym
+HP:0009064,Generalized degenerative changes of the fat tissue.,HP:0003549,2,Definition
+HP:0025096,Unprovoked explosive pathological sneezing.,HP:0002086,5,Synonym
+HP:0012773,"Decreased ratio between the upper and the lower segment of the body, where the lower segment is defined as the length between the top of pubic symphysis to floor, and the upper segment is defined as the top of head to top of pubic symphysis. Consider the term Disproportionate tall stature (HP:0001519) if tall stature is also present.",HP:0001507,0,Synonym
+HP:0032532,Abnormally increased level of 4-hydroxybutyric acid in the cerebrospinal fluid (CSF).,HP:0001939,4,Definition
+HP:0031386,"The presence of abnormally high numbers of micromegakaryocytes in the bone marrow. Micromegakaryocytes are mononuclear diploid cells, with a nucleus similar in size to that of a myeloblast or promyelocyte with the cell being less than 30 micrometers in diameter.",HP:0001871,3,Synonym
+HP:0002098,"Difficulty in breathing. The physical presentation of respiratory distress is generally referred to as labored breathing, while the sensation of respiratory distress is called shortness of breath or dyspnea.",HP:0002086,0,Synonym
+HP:0012079,Any anomaly of the conduction of motor nerve impulses in the central nervous system.,HP:0000707,0,Synonym
+HP:0020219,A motor seizure is a type of seizure that is characterized at onset by involvement of the skeletal musculature. The motor event could consist of an increase (positive) or decrease (negative) in muscle contraction to produce a movement.,HP:0000707,2,Synonym
+HP:0001548,"Excessive postnatal growth which may comprise increased weight, increased length, and/or increased head circumference.",HP:0001507,0,Synonym
+HP:0040243,Abnormally increased length of time required for an in vitro clot to dissolve in the absence of the normal plasmin inhibitors. This test is a clinical assay used to measure fibrinolysis. The euglobulin fraction of plasma is precipitated and used to form clot by addition of thrombin; after clot forms the rate of clot breakdown (fibrinolysis) can be monitored.,HP:0001871,1,Synonym
+HP:0002014,Abnormally increased frequency of loose or watery bowel movements.,HP:0025031,4,Definition
+HP:0003209,A decreased rate of pyruvate carboxylase activity.,HP:0001939,1,Synonym
+HP:0031503,Waking up at night gasping for breath.,HP:0002086,3,Synonym
+HP:0020141,"An abnormal blood pressure discrepancy between the upper and lower extremities with the blood pressure measured in the legs being much higher than the blood pressure measure in the arms. In healthy individuals, ankle systolic blood pressures are only slightly higher than the systolic blood pressure measured in the arm.",HP:0001626,0,Synonym
+HP:0005855,The presence of bone fractures in the prenatal period that are diagnosed at birth or before.,HP:0000924,5,Synonym
+HP:0030808,"The cuticle (properly known as the eponychium, or the medial nail fold or the proximal nail fold), is the thickened layer of skin surrounding fingernails and toenails. Its function is to protect the area between the nail and epidermis from exposure to bacteria. This term refers to the presence of and irregular edge or outline of the cuticle.",HP:0001574,4,Definition
+HP:0005520,A chronic form of disseminated intravascular coagulation in which a persistent weak or intermittent activating stimulus is present and destruction and production of coagulation factors and platelets are balanced.,HP:0001871,1,Synonym
+HP:0000843,Excessive production of parathyroid hormone (PTH) by the parathyroid glands.,HP:0000818,0,Synonym
+HP:0001808,Nails that easily break.,HP:0001574,8,Definition
+HP:0012701,"A sudden, irresistible need to have a bowel movement.",HP:0025031,5,Definition
+HP:0010929,An abnormality of cation homeostasis.,HP:0001939,0,Definition
+HP:0001945,Elevated body temperature due to failed thermoregulation.,HP:0001939,6,Definition
+HP:0100853,"Underdevelopment of the areola, the circular area of pigmented skin surrounding the nipple.",HP:0000769,2,Definition
+HP:0011768,Abnormal embryonic development of the parathyroid gland.,HP:0000818,3,Definition
+HP:0410202,Detection of barbiturate metabolites such as phenobarbital in the stool.,HP:0001939,2,Synonym
+HP:0020153,"Beta-1,3-glucan is a major constituent of all of the characterized fungal cell walls, making up between 30-80 percent of the mass of the wall. It is a biomarker of fungal infections such as invasive pulmonary aspergillosis.",HP:0001939,4,Synonym
+HP:0001410,Reduced ability of the liver to perform its functions.,HP:0025031,5,Definition
+HP:0031851,A reduction below the normal ratio of the volume of red blood cells to the total volume of blood.,HP:0001871,0,Synonym
+HP:0020142,"An abnormal blood pressure discrepancy between the upper and lower extremities with the blood pressure measured in the arms being much higher than the blood pressure measure in the legs. In healthy individuals, ankle systolic blood pressures are only slightly higher than the systolic blood pressure measured in the arm.",HP:0001626,0,Synonym
+HP:0031515,"Any anomaly of meiosis, a type of cell division that reduces the number of chromosomes in the parent cell by half and produces four gamete cells.",HP:0000119,3,Synonym
+HP:0100240,The abnormal fusion of neighboring bones across a joint.,HP:0000924,5,Synonym
+HP:0033010,Abnormally high concentration of coproporphyrin 3 in feces,HP:0001939,4,Synonym
+HP:0011452,An abnormality of the function of the middle ear.,HP:0000598,1,Synonym
+HP:0032378,"Hypersensitivity that is observed within 1 hr of exposures. A variety of adverse reactions can occur within minutes to hours of exposure to a drug. Some can be related to the pharmacological action of the drug (WHO Adverse Reaction Terminology type A for augmented) and usually have a low mortality. Others are not readily predictable based on the structure and pharmacological action of the drug and have a relatively high mortality risk (Type B for bizarre). The most serious form of immediate onset drug hypersensitivity reaction, anaphylaxis. Other reactions including itching,dizziness/light-headedness, nausea, chest discomfort but without any objective skin features, physical signs or physiological compromise. Skin only reactions include generalized erythema, urticaria or angioedema without any sentinel features (see below) of other organ involvement.",HP:0002715,8,Synonym
+HP:0012254,"A malignant tumor of the bone which always arises in the medullary tissue, occurring more often in cylindrical bones.",HP:0002664,0,Synonym
+HP:0008772,The presence of aplasia or developmental hypoplasia of all or part of the external ear.,HP:0000598,1,Synonym
+HP:0100660,A movement disorder which consists of effects including diminished voluntary movements and the presence of involuntary movements.,HP:0000707,2,Synonym
+HP:0003324,"Generalized weakness or decreased strength of the muscles, affecting both distal and proximal musculature.",HP:0003011,0,Definition
+HP:0012702,"A repeated, painful urge to defecate without excreting stool.",HP:0025031,3,Definition
+HP:0031299,An abnormal increase in magnitude of the pressure in the left atrium.,HP:0001626,0,Synonym
+HP:0010837,Decreased concentration of ceruloplasmin in the blood.,HP:0001939,5,Synonym
+HP:0003443,A reduction in the size of nerve terminals.,HP:0000707,2,Synonym
+HP:0410201,Detection of barbiturate metabolites such as phenobarbital in the hair.,HP:0001939,3,Synonym
+HP:0012903,Slowed relaxation of muscles in the arm.,HP:0003011,2,Synonym
+HP:0030191,An anomaly in the communication from a neuron to a target across a synapse in the peripheral nervous system.,HP:0000707,0,Synonym
+HP:0032253,"A type of granuloma characterized morphologically by the predominance of Langerhans cells with characteristic grooved, folded, indented nuclei in the appropriate milieu that includes variable numbers of eosinophils and histiocytes including multinucleated forms, often appearing similar to osteoclasts or touton like giant cells, neutrophils and small lymphocytes. The concentration of the eosinophilic infiltrate varies from scattered mature cells to sheet-like masses of cells. Occasionally, areas of bone necrosis may interrupt the cellular infiltrate. The foamy cells may also be amassed in clumps, which are of no clinical significance because these clumps represent phagocytosis of lipid debris.",HP:0002715,1,Definition
+HP:0002062,"Any structural abnormality of the pyramidal tract, whose chief element, the corticospinal tract, is the only direct connection between the brain and the spinal cord. In addition to the corticospinal tract, the pyramidal system includes the corticobulbar, corticomesencephalic, and corticopontine tracts.",HP:0000707,0,Synonym
+HP:0030396,"Platelets are replete with secretory granules, which are critical to normal platelet function. Among the three types of platelet secretory granules - alpha-granules, dense granules, and lysosomes - the alpha-granule is the most abundant. Granule contents must be released from their intracellular repository in order to achieve their physiologic function, and this term refers to a functional defect in granule secretion.",HP:0001871,3,Synonym
+HP:0000852,"A condition characterized by resistance to the action of parathyroid hormone, in which there is hypocalcemia, hyperphosphatemia, and (appropriately) high levels of parathyroid hormone.",HP:0000818,0,Definition
+HP:0100285,"An electromyographic finding associated with erratic or absent neuromuscular transmission with erratic, moment-to-moment changes in the shape of the motor unit potential (MUP).",HP:0003011,2,Definition
+HP:0003155,Abnormally increased serum levels of alkaline phosphatase activity.,HP:0001939,5,Synonym
+HP:0032036,"An abnormality in perception of contrast. Spatial contrast is a physical dimension referring to the light-dark transition of a border or an edge in an image that delineates the existence of a pattern or an object. Contrast sensitivity refers to a measure of how much contrast a person requires to see a target. Contrast-sensitivity measurements differ from acuity measurements; acuity is a measure of the spatial-resolving ability of the visual system under conditions of very high contrast, whereas contrast sensitivity is a measure of the threshold contrast for seeing a target.",HP:0000478,2,Synonym
+HP:0001948,Depletion of acid or accumulation base in the body fluids.,HP:0001939,2,Synonym
+HP:0002101,Defects in the formation of pulmonary lobes.,HP:0002086,3,Definition
+HP:0030805,Lack of the lunula at the base of a nail. The lunula is the crescent-shaped whitish area of the bed of a fingernail or toenail.,HP:0001574,5,Definition
+HP:0005507,"Normal adult hemoglobin is composed of two chains each of alpha and beta globin. Hb Barts (Hemoglobin Barts) is a tetramer with four gamma globin chains, and is essentially pathognomonic for one or another form of alpha thalassemia. Hb Barts has an extremely high affinity for oxygen, resulting in almost no oxygen delivery to the tissues.",HP:0001871,2,Synonym
+HP:0001805,Nail that appears thick when viewed on end.,HP:0001574,12,Definition
+HP:0011904,"Hemoglobin F (HbF) contains two globin alpha chains and two globin gamma chains. It is the main form of hemoglobin in the fetus during the last seven months of intrauterine development and in the half year of postnatal life. In adults it normally makes up less than one percent of all hemoglobin. This term refers to an increase in HbF above this limit. In beta thalassemia major, it may represent over 90 percent of all hemoglobin, and in beta thalassemia minor it may make up between 0.5 to 4 percent.",HP:0001871,2,Synonym
+HP:0032527,The position of the umbilicus (belly button) is abnormally low (inferior).,HP:0025031,9,Definition
+HP:0032158,An unusual infection classified by the affected body part.,HP:0002715,6,Definition
+HP:0032119,A type of glaucomatous optic neuropathy occuring in the presence of a narrow anterior chamber angle.,HP:0000478,0,Synonym
+HP:0009020,An abnormally increased tendency towards muscle fatigue induced by physical exercise.,HP:0003011,0,Synonym
+HP:0500184,Any deviation from the normal concentration of amino acids in the cerebrospinal fluid.,HP:0001939,3,Definition
+HP:0031994,"Bronchial breath sounds contain much higher frequency components than normal breath sounds due to alteration of the low pass filtering function of the alveoli, as occurs in consolidation. It is loud, hollow, and high pitch. Expiratory phase is longer than inspiratory phase with the inspiratory-expiratory ratio (I:E) changing from normal 3:1 to 1:2. There is distinct pause between inspiration and expiration due to absent alveolar phase. It is associated with whispering pectoriloquy.",HP:0002086,0,Synonym
+HP:0002644,"An abnormality of the bony pelvic girdle, which is a ring of bones connecting the vertebral column to the femurs.",HP:0000924,3,Synonym
+HP:0009555,Underdevelopment of the pharynx.,HP:0000152,13,Synonym
+HP:0033014,Abnormally reduced concentration of cortisol in saliva.,HP:0001939,4,Definition
+HP:0005560,Normal hemoglobin synthesis is characterized by production of equal amounts of alpha and beta globins. This term refers to a deviation from this pattern and is the main characteristic of the various forms of thalassemia.,HP:0001871,2,Synonym
+HP:0011974,Replacement of bone marrow by fibrous tissue.,HP:0001871,2,Synonym
+HP:0011968,"Impaired ability to eat related to problems gathering food and getting ready to suck, chew, or swallow it.",HP:0025031,2,Definition
+HP:0001824,Reduction inexisting body weight.,HP:0001507,0,Synonym
+HP:0005513,"Increased megakaryocyte number, i.e., of platelet precursor cells, present in the bone marrow.",HP:0001871,0,Synonym
+HP:0031660,Abnormally increased volume of the first heart sound.,HP:0001626,1,Synonym
+HP:0410203,Detection of barbiturate metabolites such as phenobarbital in the gastric fluid.,HP:0001939,2,Synonym
+HP:0012901,Slowed relaxation of muscles in the jaw.,HP:0003011,2,Definition
+HP:0012244,Anomaly of primary or secondary sexual development or characteristics.,HP:0000119,1,Synonym
+HP:0002376,"Loss of developmental skills, as manifested by loss of developmental milestones.",HP:0000707,5,Synonym
+HP:0002103,"An abnormality of the pulmonary pleura, the thin, transparent membrane which covers the lungs and lines the inside of the chest walls.",HP:0002086,2,Synonym
+HP:0032276,Abnormally increased prominence of the fat pad underneath the heal. This feature can be appreciated in figure 1 of PMID:26769062.,HP:0040064,17,Synonym
+HP:0009805,"A form of heart failure characterized by reduced cardiac output. This may be seen in patients with heart failure owing to ischemic heart disease, hypertension, cardiomyopathy, and other causes.",HP:0001626,0,Synonym
+HP:0031361,"Intralysosomal, osmiophilic, lamellated and sometimes concentric cytoplasmic inclusions comprised of broad transversely-stacked myelinoid membranes and said to resemble a zebra in electron microscopic images.",HP:0025354,1,Definition
+HP:0410065,An increase in the level of hippuric acid in the blood.,HP:0001939,5,Definition
+HP:0025531,"The Harlequin phenomenon consists of a sudden change in skin colour, resulting in two different body colours, one on each half of the body.",HP:0001574,2,Definition
+HP:0004366,An abnormality of glycolysis.,HP:0001939,1,Definition
+HP:0011731,An abnormality of the concentration of cortisol in the blood.,HP:0000818,1,Definition
+HP:0410290,Detection of norpropoxyphene in urine.,HP:0001939,4,Synonym
+HP:0032308,An elevated concentration of procalcitonin in the blood circulation.,HP:0000818,4,Synonym
+HP:0008572,A malformation of the auricle of the ear.,HP:0000598,1,Synonym
+HP:0030780,"An anomaly of the protein C anticoagulant pathway, which serves as a major system for controlling thrombosis, limiting inflammatory responses, and potentially decreasing endothelial cell apoptosis in response to inflammatory cytokines and ischemia. A natural anticoagulant system denoted the protein C pathway exerts its anticoagulant effect by regulating the activity of FVIIIa and FVa. The vitamin K-dependent protein C is the key component of the pathway. Activated protein C (APC) cleaves and inhibits coagulation cofactors FVIIIa and FVa, which result in downregulation of the activity of the coagulation system. The endothelial protein C receptor stimulates the T-TM-mediated activation of protein C on the endothelial cell surface. The two cofactors, protein S and the intact form of FV, enhance the anticoagulant activity of APC.",HP:0001871,3,Synonym
+HP:0020082,A type of erythrocyte inclusion composed of denatured hemoglobin.,HP:0001871,1,Synonym
+HP:0045082,"Abnormally decreased weight-to-height squared ratio, calculated by dividing the individual's weight in kilograms by the square of the individual's height in meters and used as an indicator of underweight compared to averages.",HP:0001507,0,Synonym
+HP:0007359,"A focal-onset seizure is a type of seizure originating within networks limited to one hemisphere. They may be discretely localized or more widely distributed, and may originate in subcortical structures.",HP:0000707,0,Synonym
+HP:0002460,Reduced strength of the musculature of the distal extremities.,HP:0003011,1,Definition
+HP:0009758,Pyramidal skinfold extending from the base to the top of the nails is a rare and distinctive anomaly seen in popliteal pterygia syndrome.,HP:0001574,9,Definition
+HP:0025532,"With the pathergy test, a small, sterile needle is inserted into the skin of the forearm. The site of injectionis circuled and observed after one and two days. If a small red bump or pustule at the site of needle insertion occurs, the pathergy test is considered to have a positive (abnormal) result.",HP:0001574,10,Definition
+HP:0005656,A foot deformity resulting due to an abnormality affecting the muscle and soft tissue. In contrast if the bones of the foot are affected the term structural foot deformity applies.,HP:0040064,7,Synonym
+HP:0001388,Lack of stability of a joint.,HP:0000924,7,Synonym
+HP:0008386,Aplasia or developmental hypoplasia of the nail.,HP:0001574,9,Definition
+HP:0030339,"A reduction of the circulating level of a gonadotropin, that is, of a protein hormone secreted by gonadotrope cells of the anterior pituitary of vertebrates. The primary gonadotropins are luteinizing hormone (LH) and follicle-stimulating hormone (FSH).",HP:0000818,0,Definition
+HP:3000025,An abnormality of a ciliary ganglion.,HP:0000707,5,Synonym
+HP:0020081,"A type of erythrocyte inclusion characterized by basophilic stippling of erythrocytes, that is, by numerous very small coarse or fine blue granules within the cytoplasm with the additional stipulation that the stippled particles are due to iron granules (demonstrable by the Prussian blue stain).",HP:0001871,0,Synonym
+HP:0012771,Increased length of the arm span (length from one end of an individual's arms measured at the fingertips to the other when raised parallel to the ground at shoulder height at a one-hundred eighty degree angle).,HP:0040064,7,Synonym
+HP:0011145,"A seizure that occurs in the context of a brain insult (systemic, toxic, or metabolic) and may not recur when the underlying cause has been removed or the acute phase has elapsed.",HP:0000707,0,Synonym
+HP:0000517,An abnormality of the lens.,HP:0000478,1,Definition
+HP:0000549,Any deviation from the normal motor coordination of the eyes that allows for bilateral fixation on a single object.,HP:0000478,0,Definition
+HP:0500116,Detection of barbiturate metabolites such as Phenobarbital in blood.,HP:0001939,2,Synonym
+HP:0025479,Neglecting one's own needs and well-being.,HP:0000707,4,Synonym
+HP:0020179,A deviation from the normal concentration of haptoglobin in the blood circulation.,HP:0001939,7,Definition
+HP:0002411,"Myokymia consists of involuntary, fine, continuous, undulating contractions that spread across the affected striated muscle.",HP:0000707,9,Synonym
+HP:0031841,"Detection of methadone or its metabolite 2-ethylidene-1,5-dimethyl-3,3- diphenylpyrrolidine (EDDP) in urine.",HP:0001939,2,Synonym
+HP:0012703,Abnormality in the space in the meninges beneath the arachnoid membrane and above the pia mater that contains the cerebrospinal fluid.,HP:0000707,4,Synonym
+HP:0100851,An abnormality of emotional behaviour.,HP:0000707,8,Synonym
+HP:0100323,"Juvenile aseptic necrosis comprises a group of orthopedic diseases characterized by interruption of the blood supply of a bone, followed by localized bony necrosis most often of the epiphyses of bones of children or teenagers.",HP:0000924,3,Synonym
+HP:0031930,"A type of rosette that is similar to the Homer Wright rosette, but the central fiber-rich neuropil island is larger and more irregular.",HP:0025354,4,Definition
+HP:0011854,Accumulation of blood in the peritoneal cavity owing to internal hemorrhage.,HP:0025031,8,Definition
+HP:0000853,An enlargement of the thyroid gland.,HP:0000818,1,Definition
+HP:0005374,An immunodeficiency characterized by defective cell-mediated immunity or humoral immunity.,HP:0002715,2,Synonym
+HP:0002063,"Continuous involuntary sustained muscle contraction. When an affected muscle is passively stretched, the degree of resistance remains constant regardless of the rate at which the muscle is stretched. This feature helps to distinguish rigidity from muscle spasticity.",HP:0000707,4,Synonym
+HP:0030807,Nail whose growth pattern or speed deviates from normal.,HP:0001574,22,Definition
+HP:0100287,The presence of reduced conduction velocity of motor nerves on electromyography.,HP:0003011,4,Definition
+HP:0012902,Slowed relaxation of muscles in the leg.,HP:0003011,2,Synonym
+HP:0040206,Any deviation from the normal concentration of neopterin in the blood circulation.,HP:0001939,5,Definition
+HP:0031546,Any anomaly of the progression of electrical impulses through the heart.,HP:0001626,1,Synonym
+HP:0001519,"A tall and slim body build with increased arm span to height ratio (>1.05) and a reduced upper-to-lower segment ratio (<0.85), i.e., unusually long arms and legs. The extremities as well as the hands and feet are unusually slim.",HP:0001507,0,Synonym
+HP:0010460,Abnormality of the female genital system.,HP:0000119,1,Definition
+HP:0004846,Bleeding that persists longer than the normal time following a surgical procedure.,HP:0001871,9,Synonym
+HP:0031126,"Platelets contain contractile proteins (actin and myosin) that induce clot retraction. As the platelets contract, they pull on the surrounding fibrin strands, squeezing serum form the mass, compacting the clot and drawing the ruptured edges of the blood vessel more closely together. Clot retraction is directly proportional to the platelet count and inversely proportional to the fibrinogen concentration.",HP:0001871,3,Synonym
+HP:0012236,An increased concentration of chloride in the sweat.,HP:0001939,8,Definition
+HP:0002172,"A tendency to fall or the inability to keep oneself from falling; imbalance. The retropulsion test is widely regarded as the gold standard to evaluate postural instability, Use of the retropulsion test includes a rapid balance perturbation in the backward direction, and the number of balance correcting steps (or total absence thereof) is used to rate the degree of postural instability. Healthy subjects correct such perturbations with either one or two large steps, or without taking any steps, hinging rapidly at the hips while swinging the arms forward as a counterweight. In patients with balance impairment, balance correcting steps are often too small, forcing patients to take more than two steps. Taking three or more steps is generally considered to be abnormal, and taking more than five steps is regarded as being clearly abnormal. Markedly affected patients continue to step backward without ever regaining their balance and must be caught by the examiner (this would be called true retropulsion). Even more severely affected patients fail to correct entirely, and fall backward like a pushed toy soldier, without taking any corrective steps.",HP:0000707,4,Synonym
+HP:0012196,"An abnormal pattern of respiration characterized by cycles of respiration that are increasingly deeper then shallower with possible periods of apnea. Affected patients may display a 10 to 20 second episode of hypoventilation or apnea, followed by respiration of increased depth and frequency over the course of about one minute. The cycle repeats every 45 seconds to 3 minutes.",HP:0002086,0,Synonym
+HP:0002031,A structural abnormality of the esophagus.,HP:0025031,2,Definition
+HP:0031429,A reduced level of osteocalcin in the blood.,HP:0000818,8,Definition
+HP:0031690,"An infection that is caused by a pathogen that would generally not be able to cause an infection in a host with a normal immune system. Such pathogens take advantage of the opportunity, so to speak, that is provided by a weakened immune system.",HP:0002715,0,Definition
+HP:0008855,"A moderate degree of slow or limited growth after birth, being between three and four standard deviations below age- and sex-related norms.",HP:0001507,0,Synonym
+HP:0008055,"Absence or underdevelopment of the uvea, the pigmented middle layer of the eye consisting of the iris and ciliary body together with the choroid.",HP:0000478,1,Definition
+HP:0007695,"An abnormality of the reflex that controls the diameter of the pupil, in response to the intensity of light that falls on the retina of the eye.",HP:0000478,0,Definition
+HP:0031084,An abnormally high increase in insulin levels following a glucagon stimulation test.,HP:0000818,0,Definition
+HP:0002107,Accumulation of air in the pleural cavity leading to a partially or completely collapsed lung.,HP:0002086,0,Synonym
+HP:0001291,"Structural abnormality affecting one or more of the cranial nerves, which emerge directly from the brain stem.",HP:0000707,6,Synonym
+HP:0001072,Laminar thickening of skin.,HP:0001574,6,Definition
+HP:0032153,A partial dislocation of a joint.,HP:0000924,4,Synonym
+HP:0011723,Defect or defects of the morphogenesis of the right heart identifiable at birth.,HP:0001626,2,Synonym
+HP:0000505,"Visual impairment (or vision impairment) is vision loss (of a person) to such a degree as to qualify as an additional support need through a significant limitation of visual capability resulting from either disease, trauma, or congenital or degenerative conditions that cannot be corrected by conventional means, such as refractive correction, medication, or surgery.",HP:0000478,0,Synonym
+HP:0031374,Reduced strength of the muscles that lift or otherwise move the foot at the ankle.,HP:0003011,1,Definition
+HP:0011789,Reduced sensitivity of thyroid follicle cells to stimulation by biologically active thyroid-stimulating hormone (TSH).,HP:0000818,0,Synonym
+HP:0004948,Abnormal twisting of arteries or veins.,HP:0001626,0,Synonym
+HP:0410146,"An increase in biotinidase level, an enzyme that releases biotin from biocytin, the product of biotin-dependent carboxylases degradation.",HP:0001939,2,Definition
+HP:0410341,An abnormal level of heparan sulfate in the blood.,HP:0001939,6,Definition
+HP:0001382,The ability of a joint to move beyond its normal range of motion.,HP:0000924,4,Synonym
+HP:0004297,An abnormality of the biliary system.,HP:0025031,0,Definition
+HP:0031845,Any deviation from the normal sexual drive or desire for sexual activity.,HP:0000119,1,Synonym
+HP:0032521,"Involuntary, tic-like movements consisted of crossing both arms across the chest and tensing the body or clasping the hands and squeezing the arms to the sides. The movements last a few seconds and may occur in series or flurries, generally accompanied by facial grimacing and occasional grunting.",HP:0000707,2,Synonym
+HP:0011883,An anomaly of alpha or dense granules or platelet lysosomes.,HP:0001871,1,Synonym
+HP:0032346,"Lichen amyloidosis presents with multiple localized or rarely generalized, hyperpigmented grouped papules with a predilection for the shins, calves, ankles, and dorsa of the feet and thighs.",HP:0001939,9,Synonym
+HP:0007500,The presence of fewer than normal sweat glands.,HP:0001574,10,Definition
+HP:0009830,"Peripheral neuropathy is a general term for any disorder of the peripheral nervous system. The main clinical features used to classify peripheral neuropathy are distribution, type (mainly demyelinating versus mainly axonal), duration, and course.",HP:0000707,0,Synonym
+HP:0031908,Abnormally small sized handwriting defined formally as an impairment of a fine motor skill manifesting mainly as a progressive or stable reduction in amplitude during a writing task.,HP:0000707,6,Synonym
+HP:0020085,"An infection resulting from live attenuated vaccines (LAV), that is, a vaccine prepared from living viruses or bacteria that have been weakened under laboratory conditions. LAV vaccines will replicate in a vaccinated individual and produce an immune response but usually cause mild or no disease. are derived from disease-causing pathogens.",HP:0002715,2,Synonym
+HP:0002164,The presence of developmental dysplasia of the nail.,HP:0001574,6,Definition
+HP:0012199,A type of headache characterized by repeated attacks of unilateral pain lasting 15 to 180 minutes and associated with local autonomic signs.,HP:0000707,1,Synonym
+HP:0003334,An abnormal increase in catecholamine concentration in the blood.,HP:0000818,2,Definition
+HP:0009110,"A congenital failure of muscular development of part or all of one or both hemidiaphragms, resulting in superior displacement of abdominal viscera and altered lung development.",HP:0003011,3,Synonym
+HP:0030657,Bleeding from the vessels of the cord with extravasation of blood into the Wharton jelly surrounding the umbilical cord vessels.,HP:0001197,0,Synonym
+HP:0031603,"An abnormally increased amount of time required to clear mucus (and substances contained in the mucus) from the nasal mucosa. The nasal mucociliary clearance (NMC) system functions to transport the mucous layer lining the nasal epithelium towards the naso pharynx by ciliary beating in a metachronous fashion at a frequency of 7-16 Hz. NMC depends upon two principal components: physicochemical qualities and quantities of mucus and the properties of cilia that propel it. NMC is considered to be representative of pulmonary clearance. normal NMC time is determined to be up to 20 minutes. Duration of 30 minutes is considered as the cutoff point that discriminates normal subjects from subjects with impaired NMC. NMC can be measured by determination of the transport time of markers that are placed on the nasal mucosa including saccharine, radioactive markers, and dyes.",HP:0002086,0,Synonym
+HP:0006530,Abnormality of the lung parenchyma extending to the pulmonary interstitium and leading to diffuse pulmonary fibrosis.,HP:0002086,2,Synonym
+HP:0100705,An abnormality of the glia cell.,HP:0000707,4,Synonym
+HP:0012084,Any abnormality of the size of the skeletal muscle cell.,HP:0003011,3,Synonym
+HP:0410173,"An increased concentration of tropnin I in the blood, which is a cardiac regulatory protein that controls the calcium mediated interaction between actin and myosin. Raised cardiac troponin concentrations are now accepted as the standard biochemical marker for the diagnosis of myocardial infarction.",HP:0001626,0,Synonym
+HP:0100601,"An acute and life-threatening complication of pregnancy, which is characterized by the appearance of tonic-clonic seizures, usually in a patient who had developed pre-eclampsia. Eclampsia includes seizures and coma that happen during pregnancy but are not due to preexisting or organic brain disorders.",HP:0001197,0,Synonym
+HP:0031391,An increase above the normal level of major histocompatibility complex class II molecules expressed at the cell surface.,HP:0002715,3,Definition
+HP:0009122,Absence (due to failure to form) or underdevelopment of bones of the axial skeleton.,HP:0000924,2,Synonym
+HP:0032445,"A round circumscribed space within a lung that is surrounded by an epithelial or fibrous wall of variable thickness. A cyst usually has a thin and regular wall (less than 2 mm) and contains air, although some may contain fluid.",HP:0002086,3,Synonym
+HP:0000711,"A state of unease characterized by diffuse motor activity or motion subject to limited control, nonproductive or disorganized behavior, and subjective distress.",HP:0000707,6,Synonym
+HP:0030894,"No fall in mean pulmonary arterial pressure (mPAP) falls by at least 10 mmHg to an absolute value less than 40 mmHg without a degradation in cardiac output (CO) in response to a short-acting vasoactive agent such as adenosine, epoprostenol, or inhaled nitric oxide.",HP:0002086,1,Definition
+HP:0012187,An increased concentration of protoporphyrins in erythrocytes.,HP:0001939,5,Definition
+HP:0009046,Reduced ability to run.,HP:0003011,20,Synonym
+HP:0001894,Increased numbers of platelets in the peripheral blood.,HP:0001871,2,Synonym
+HP:0100283,"Continuous electromyographic activity of motor units at rest, i.e., without voluntary movement of the muscles.",HP:0003011,0,Definition
+HP:0410061,An increase in the level of galactitol in the plasma.,HP:0001939,3,Definition
+HP:0040248,Reduced activity of plasminogen activator inhibitor 1. This protein down-regulates fibrinolysis in the circulation by inhibiting the two major plasminogen activators: tissue-plasminogen activator and urokinase-plasminogen activator.,HP:0001871,3,Synonym
+HP:0001543,"A type of congenital ventral incomplete closure of the abdominal wall in which the intestines and sometimes other organs extend freely into the amniotic fluid space through a small opening in the abdomen, usually to the right of the umbilicus.",HP:0025031,7,Definition
+HP:0031508,Any deviation from the normal range of the hormones produced by the thyroid gland.,HP:0000818,0,Synonym
+HP:0000365,A decreased magnitude of the sensory perception of sound.,HP:0000598,1,Synonym
+HP:0025082,Any structural anomaly of the elastic fibers of the skin. Elastic fibers are the essential extracellular matrix macromolecules comprising an elastin core surrounded by a mantle of fibrillin-rich microfibrils.,HP:0001574,4,Definition
+HP:0010988,An abnormality of the extrinsic pathway (also known as the tissue factor pathway) of the coagulation cascade.,HP:0001871,2,Synonym
+HP:0000764,Progressive deterioration of peripheral axons.,HP:0000707,3,Synonym
+HP:0040176,Any deviation from the normal concentration of a phospholipid in the blood circulation.,HP:0001939,5,Definition
+HP:0100602,Pregnancy-induced hypertension in association with significant amounts of protein in the urine.,HP:0001197,0,Synonym
+HP:0000848,An increased level of renin in the blood.,HP:0000818,5,Definition
+HP:0003445,"The presence of characteristic findings of denervation on electromyography (fibrillations, positive sharp waves, and giant motor unit potentials).",HP:0003011,4,Definition
+HP:0012764,"A sensation of breathlessness in the recumbent position, relieved by sitting or standing.",HP:0002086,0,Synonym
+HP:0410022,"A fish odor in the vaginal area, that is characteristic of bacterial vaginosis (BV), and is due to trimethylamine (TMA).",HP:0025142,14,Definition
+HP:0001952,Glucose intolerance (GI) can be defined as dysglycemia that comprises both prediabetes and diabetes. It includes the conditions of impaired fasting glucose (IFG) and impaired glucose tolerance (IGT) and diabetes mellitus (DM).,HP:0001939,0,Synonym
+HP:0012508,A visual anomaly in which images appear distorted. A grid of straight lines appears wavy and parts of the grid may appear blank.,HP:0000478,5,Definition
+HP:0011514,"An abnormality of binocular vision, that is of the ability to synthesize the visual inputs from both eyes to a single image with perception of depth.",HP:0000478,0,Synonym
+HP:0002750,A decreased rate of skeletal maturation. Delayed skeletal maturation can be diagnosed on the basis of an estimation of the bone age from radiographs of specific bones in the human body.,HP:0000924,0,Synonym
+HP:0003738,The occurrence of an unusually high amount of muscle pain following exercise.,HP:0025142,3,Definition
+HP:0003789,Multiple small zones of sarcomeric disorganization and lack of oxidative activity (known as minicores) in muscle fibers.,HP:0003011,1,Synonym
+HP:0031466,A maladaptive personality trait characterized by moderate or greater impairment in personality (self /interpersonal) functioning.,HP:0000707,11,Synonym
+HP:0410010,Any abnormality of the somatic nerve plexus.,HP:0000707,1,Synonym
+HP:0032448,A condition in which production of hydrochloric acid in the stomach is absent.,HP:0025031,0,Definition
+HP:0100578,Localized loss of fat tissue.,HP:0003549,8,Definition
+HP:0012281,Extravasation of chyle into the peritoneal cavity.,HP:0025031,7,Definition
+HP:0001090,Diffusely large eye (with megalocornea) without glaucoma.,HP:0000478,1,Synonym
+HP:0025152,Lack of visual responsiveness or decrease in visual capabilities suggesting a lack of visual responsiveness or decrease in visual capabilities in an infant or young child in which visual behavior fails to meet normal developmental milestones.,HP:0000478,3,Synonym
+HP:0005363,A general term referring to a defect in immunity resulting from impaired antibody production.,HP:0002715,0,Definition
+HP:0100778,"Increased level of cryoglobulins in the blood. Cryoglobulins are abnormal immunoglobulins, especially IGG or IGM, that precipitate spontaneously when serum is cooled below 37 degrees Celsius.",HP:0002715,0,Synonym
+HP:0030846,An anomaly of venous function.,HP:0001626,6,Synonym
+HP:0032563,Presence of teardrop-shaped red blood cells.,HP:0001871,2,Synonym
+HP:0031819,Increased waist-to-hip ratio (WHR) is a measurement above the average for the dimensionless ratio of the circumference of the waist to that of the hips. WHR is calculated as waist measurement divided by hip measurement.,HP:0001507,3,Synonym
+HP:0025066,"A reduction from normal of the mean corpuscular volume, or mean cell volume (MCV) of red blood cells (usually defined as an MCV below 80 femtoliters).",HP:0001871,1,Synonym
+HP:0040247,Abnormally decreased length of time required for an in vitro clot to dissolve in the absence of the normal plasmin inhibitors. This test is a clinical assay used to measure fibrinolysis. The euglobulin fraction of plasma is precipitated and used to form clot by addition of thrombin; after clot forms the rate of clot breakdown (fibrinolysis) can be monitored.,HP:0001871,1,Synonym
+HP:0030137,Bleeding that persists for a longer than usual time following circumcision.,HP:0001871,9,Synonym
+HP:0002105,"Coughing up (expectoration) of blood or blood-streaked sputum from the larynx, trachea, bronchi, or lungs.",HP:0002086,0,Synonym
+HP:0030801,A decreased ability of the eye to adjust and thereby enable sharp vision of objects at different distances.,HP:0000478,0,Definition
+HP:0410063,An increase in the level of galactonate in the red blood cells.,HP:0001939,5,Definition
+HP:0011419,Separation of the placenta from the uterus wall before delivery.,HP:0001197,0,Synonym
+HP:0032315,The areola (ring of pigmented skin surrounding the nipple) is filled out so as to produce a rounded shape.,HP:0000769,1,Definition
+HP:0032152,"An anomaly of the hair follicles of the skin that typically presents as small, rough, brown folliculocentric papules distributed over characteristic areas of the skin, particularly the outer-upper arms and thighs.",HP:0001574,6,Definition
+HP:0031564,"An anomalous mirror-imaged arrangement of some bronchial structures. Right isomerism is defined as a subset of heterotaxy where some paired structures on opposite sides of the left-right axis of the body are symmetrical mirror images of each other, and have the morphology of the normal right-sided structures (vice versa for left isomerism).",HP:0001507,0,Synonym
+HP:0001231,An abnormality of the fingernails.,HP:0001574,1,Definition
+HP:0030817,"Severe nail curvature, causing the tip of the nail to point downwards with respect to the axis of the finger. Beaked nails are caused by resorption of the distal digit.",HP:0001574,8,Definition
+HP:0005959,An impairment of gluconeogenesis.,HP:0001939,2,Definition
+HP:0500109,Detection of barbiturate metabolites such as Phenobarbital in urine.,HP:0001939,2,Synonym
+HP:0031630,Any structural anomaly located between the pleura and the chest wall.,HP:0002086,6,Synonym
+HP:0000975,Abnormal excessive perspiration (sweating) despite the lack of appropriate stimuli like hot and humid weather.,HP:0001574,10,Definition
+HP:0001873,A reduction in the number of circulating thrombocytes.,HP:0001871,2,Synonym
+HP:0031482,A wall motion abnormality observed upon left ventricular contraction that affects a specific region of the left ventricle.,HP:0001626,0,Synonym
+HP:0009071,Chronic muscle inflammation accompanied by muscle weakness.,HP:0003011,1,Synonym
+HP:0410205,Any deviation from the normal concentration of nicotinurate in the blood.,HP:0001939,6,Synonym
+HP:0012331,A structural abnormality of the autonomic nervous system.,HP:0000707,0,Synonym
+HP:0012047,A visual defect characterized by the inability to see as clearly in bright light as in dim light. The word hemeralopia literally means day blindness.,HP:0000478,0,Synonym
+HP:0003737,A type of myopathy associated with mitochondrial disease and characterized by findings on biopsy such as ragged red muscle fibers.,HP:0003011,0,Synonym
+HP:0030655,"An entwining of a segment of umbilical cord, usually without obstructing fetal circulation and commonly result from fetal slippage through a loop of the cord.",HP:0001197,0,Synonym
+HP:0000855,"Increased resistance towards insulin, that is, diminished effectiveness of insulin in reducing blood glucose levels.",HP:0001939,2,Synonym
+HP:0031855,"A type of heterotaxy where some paired structures on opposite sides of the left-right axis of the body are symmetrical mirror images of each other, and have the morphology of the normal right-sided structures.",HP:0001507,0,Synonym
+HP:0100845,An acute hypersensitivity reaction due to exposure to a previously encountered antigen.,HP:0002715,0,Definition
+HP:0000481,"Any abnormality of the cornea, which is the transparent tissue at the front of the eye that covers the iris, pupil, and anterior chamber.",HP:0000478,0,Definition
+HP:0012332,A functional abnormality of the autonomic nervous system.,HP:0000707,0,Synonym
+HP:0100671,Abnormal structure or form of trabecular bone.,HP:0000924,4,Synonym
+HP:0010996,Any deviation from the normal concentration of a monocarboxylic acid in the blood circulation.,HP:0001939,0,Definition
+HP:0000520,An eye that is protruding anterior to the plane of the face to a greater extent than is typical.,HP:0000478,1,Definition
+HP:0012524,A deviation from the normal discoid platelet shape.,HP:0001871,3,Synonym
+HP:0003710,Sudden and involuntary contractions of one or more muscles brought on by physical exertion.,HP:0003011,2,Synonym
+HP:0012393,An allergy is an immune response or reaction to substances that are usually not harmful.,HP:0002715,0,Synonym
+HP:0032523,An abnormal increase in the thickness (diameter) of a tendon.,HP:0000924,22,Synonym
+HP:0011390,A structural anomaly of the internal part of the ear.,HP:0000598,0,Synonym
+HP:0012705,An anomaly of metabolism in the brain identified by magnetic resonance spectroscopy (MRS).,HP:0000707,2,Synonym
+HP:0000649,"An anomaly of visually evoked potentials (VEP), which are electrical potentials, initiated by brief visual stimuli, which are recorded from the scalp overlying the visual cortex.",HP:0000478,3,Synonym
+HP:0001941,Abnormal acid accumulation or depletion of base.,HP:0001939,3,Definition
+HP:0000617,An abnormality of eye movement characterized by impaired smooth-pursuit eye movements.,HP:0000478,1,Synonym
+HP:0030830,"Crackles are discontinuous, explosive, and nonmusical adventitious lung sounds normally heard in inspiration and sometimes during expiration. Crackles are usually classified as fine and coarse crackles based on their duration, loudness, pitch, timing in the respiratory cycle, and relationship to coughing and changing body position.",HP:0002086,0,Synonym
+HP:0032179,"An abnormal concentration of globulins in the blood. Albumin makes up more than half of the total protein present in serum. The remaining blood proteins except albumin and fibrinogen (which is not in serum) are referred to as globulins. The globulin fraction includes hundreds of serum proteins including carrier proteins, enzymes, complement, and immunoglobulins. Most of these are synthesized in the liver, although the immunoglobulins are synthesized by plasma cells. Globulins are divided into four groups by electrophoresis. The four fractions are alpha1, alpha2, beta and gamma, depending on their migratory pattern between the anode and the cathode.",HP:0001939,5,Definition
+HP:0033074,Amelioration of anemia upon treatment with a steroid medication.,HP:0001871,0,Synonym
+HP:0000512,Any abnormality of the electrical responses of various cell types in the retina as measured by electroretinography.,HP:0000478,0,Definition
+HP:0005518,Larger than normal size of erythrocytes.,HP:0001871,3,Synonym
+HP:0012269,Any anomaly in the amount of glycogen in muscle tissue.,HP:0003011,2,Synonym
+HP:0008282,An increased amount of unconjugated (indirect) bilurubin in the blood.,HP:0001939,3,Definition
+HP:0007700,Abnormal development (dysgenesis) of the anterior segment of the eye globe. These structures are mainly of mesenchymal origin.,HP:0000478,1,Synonym
+HP:0000601,"Interpupillary distance less than 2 SD below the mean (alternatively, the appearance of an decreased interpupillary distance or closely spaced eyes).",HP:0000478,0,Synonym
+HP:0012649,A abnormal increase in the inflammatory response to injury or infection.,HP:0002715,5,Definition
+HP:0001369,Inflammation of a joint.,HP:0000924,23,Synonym
+HP:0031705,A compensatory head posture occurs when the head is deviated out of the normal primary straight head position in order to compensate for an ocular problem.,HP:0000478,0,Definition
+HP:0410171,Increased concentration of cotinine in urine.,HP:0001939,6,Synonym
+HP:0010865,"An enduring pattern of uncooperative, defiant, and hostile behavior toward authority figures that does not involve major antisocial violations, is not accounted for by the child's developmental stage, and results in significant functional impairment. A certain level of oppositional behavior is common in children and adolescents.",HP:0000707,3,Synonym
+HP:0025083,An increased amount of desmosine measure in the skin. Desmosine is a cross-linking amino acid formed from lysyl residues in elastin.,HP:0001574,6,Definition
+HP:0030267,Deposition of calcium salts in the fibrous sheet that connects the radius and the ulna.,HP:0040064,21,Synonym
+HP:0011356,An abnormality of the skin that is restricted to a particular body region.,HP:0001574,4,Definition
+HP:0032674,"A cutaneous wound is a defined as a disruption of normal anatomic structure and function of the skin that occured owing to an injury of the skin. Wound healing is a dynamic, interactive processinvolving soluble mediators, blood cells, extracellularmatrix, and parenchymal cells. Wound healing has three phases: inflammation, tissue formation, and tissue remodeling, that overlap in time.",HP:0001574,5,Definition
+HP:0003458,"The presence of abnormal electromyographic patterns indicative of myopathy, such as small-short polyphasic motor unit potentials.",HP:0003011,2,Synonym
+HP:0020207,Seizures precipitated by exogenous stimuli.,HP:0000707,1,Synonym
+HP:0008073,An abnormally high concentration of serum conjugated estriol as compared to normal values for gestational-age.,HP:0001197,0,Synonym
+HP:0011355,A lesion of the skin that is located in a specific region rather than being generalized.,HP:0001574,4,Definition
+HP:0011112,"Abnormality of the cytokine levels in the blood, i.e., an abnormality of any of the non-antibody proteins made by inflammatory leukocytes and some non-leukocytic cells that affect the behavior of other cells.",HP:0002715,2,Synonym
+HP:0012803,Inequality of refractive power of the two eyes.,HP:0000478,1,Definition
+HP:0020062,An abnormal reduction below normal hemoglobin concentration in the circulation.,HP:0001871,2,Synonym
+HP:0000467,Decreased strength of the neck musculature.,HP:0003011,1,Definition
+HP:0033083,An elevated level of farnesol in the blood circulation.,HP:0001939,3,Definition
+HP:0008942,An acute form of rhabdomyolysis.,HP:0003011,18,Definition
+HP:0006558,Decreased activity of complex III of the mitochondrion in the liver.,HP:0025031,9,Definition
+HP:0500113,Detection of opioids or opioid metabolites in urine.,HP:0001939,2,Synonym
+HP:0001513,Accumulation of substantial excess body fat.,HP:0001507,0,Synonym
+HP:0002797,Osteolysis refers to the destruction of bone through bone resorption with removal or loss of calcium.,HP:0000924,3,Synonym
+HP:0000551,An anomaly in the ability to discriminate between or recognize colors.,HP:0000478,8,Definition
+HP:0001328,"Impairment of certain skills such as reading or writing, coordination, self-control, or attention that interfere with the ability to learn. The impairment is not related to a global deficiency of intelligence.",HP:0000707,3,Synonym
+HP:0008846,"Intrauterine growth retardation that is 4 or more standard deviations below average, corrected for sex and gestational age.",HP:0001507,0,Synonym
+HP:0031138,A deviation from the normal circulating concentration of B-type natriuretic peptide (BNP).,HP:0001939,5,Definition
+HP:0012228,"A type of headache that last hours with continuous pain of mild or moderate intensity, bilateral location, a pressing/tightening (non-pulsating) quality and that is not aggravated by routine physical activity such as walking or climbing stairs.",HP:0000707,4,Synonym
+HP:0011004,"An abnormality of the systemic arterial tree, which consists of the aorta and other systemic arteries.",HP:0001626,0,Synonym
+HP:0009058,An abnormal accumulation of lipids in skeletal muscle.,HP:0003011,5,Synonym
+HP:0011124,An abnormality of the morphology of the epidermis.,HP:0001574,3,Definition
+HP:0025550,An increase above the normal concentration of ribitol in the blood.,HP:0001939,3,Definition
+HP:0032000,"An abnormal breath sound that is nonmusical, short and explosive. It is grating, rubbing, creaky, or leathery in character and present in both phases of respiration. Typically the expiratory component mirrors the inspiratory component. It occurs due to inflamed pleural surface rubbing each other during breathing. Clinically, it is important to differentiate it from crackles",HP:0002086,0,Synonym
+HP:0031493,A tumor that arises from a gland cell.,HP:0002664,0,Synonym
+HP:0003536,An abnormality of Krebs cycle metabolism that is characterized by a decreased rate of fumarate hydratase activity.,HP:0001939,0,Synonym
+HP:0001508,Failure to thrive (FTT) refers to a child whose physical growth is substantially below the norm.,HP:0001507,0,Synonym
+HP:0500108,"Detection of cocaine or its major metabolite, benzoylecgonine, in urine.",HP:0001939,1,Synonym
+HP:0003107,Any deviation from the normal concentration of cholesterol in the blood circulation.,HP:0001939,5,Definition
+HP:0000709,A condition characterized by changes of personality and thought patterns often accompanied by hallucinations and delusional beliefs.,HP:0000707,4,Synonym
+HP:0004444,The presence of erythrocytes that are sphere-shaped.,HP:0001871,2,Synonym
+HP:0010995,Any deviation from the normal concentration of a dicarboxylic acid in the blood circulation.,HP:0001939,1,Definition
+HP:0006516,"Hypersensitivity pneumonitis involves inhalation of an antigen. This leads to an exaggerated immune response and a following inflammation of the alveoli within the lungs. The main feature of chronic hypersensitivity pneumonitis on lung biopsies is expansion of the interstitium by lymphocytes accompanied by an occasional multinucleated giant cell or loose granuloma. After exposure to the provoking antigen, following symptoms can be seen: fever, chills, malaise, cough, hemoptysis, chest tightness, dyspnea, rash, swelling and headache and can be completely reversible, based on the duration of the illness, categorized as acute (HP:0011009), subacute (HP:0011011), and chronic (HP:0011010).",HP:0002086,0,Synonym
+HP:0030057,The presence of an antibody in the blood circulation that is directed against the organism's own cells or tissues.,HP:0002715,3,Synonym
+HP:0032490,"Abnormally low fecal pH, i.e., abnormal acidity of feces.",HP:0001939,5,Definition
+HP:0005947,Reduced tendency to respond to a reduced concentration of oxygen in the blood by increasing respiration.,HP:0002086,0,Definition
+HP:0002921,An abnormality of the cerebrospinal fluid (CSF).,HP:0000707,1,Synonym
+HP:0032936,Unintentional reexperiencing a traumatic event comprising symptoms are usually sensory impressions and emotional responses from the trauma that appear to lack a time perspective and a context.,HP:0000707,1,Synonym
+HP:0030764,"Brown or blue-gray discoloration of the skin that can present on the axillary and inguinal areas, face, palms or soles. In addition, blue-black discoloration can be apparent on skin overlying cartilage in which the pigment is deposited, such as the ears. This is a characteristic manifestation of alkaptonuria, which is an autosomal recessively inherited deficiency of homogentisic acid oxidase that results in accumulation of homogentisic acid in collagenous structures. The sclerae are also typically involved.",HP:0001574,14,Definition
+HP:0020037,A postural abnormality characterized by the inability to stand without external support despite having sufficient muscle strength.,HP:0000707,9,Synonym
+HP:0002883,"Hyperventilation refers to an increased pulmonary ventilation rate that is faster than necessary for the exchange of gases. Hyperventilation can result from increased frequency of breathing, an increased tidal volume, or both, and leads to an excess intake of oxygen and the blowing off of carbon dioxide.",HP:0002086,0,Synonym
+HP:0031274,A state of shock characterized by decreased circulating blood volume in relation to total vascular capacity. This type of shock is characterized by a reduction of diastolic filling pressures.,HP:0001626,0,Synonym
+HP:0032178,"A dermatosis characterized by generalized shiny, enamel-like, hyperpigmented scales in an irregular pattern. The scales may peel or desquamate, rather like old, sun-baked blistered paint, often with areas of underlying hypopigmentation. This has led to the terms peeling paint or flaky paint dermatosis (See the Figure in PMID:24285001).",HP:0001574,8,Definition
+HP:0031552,Reduced level of a protein that is normally present on the fibroblast surface as assessed by flow cytometry.,HP:0025354,2,Definition
+HP:0011347,An abnormality involving the movement of the eye outwards.,HP:0000478,1,Definition
+HP:0030656,Focal dilation of the umbilical vein.,HP:0001197,0,Synonym
+HP:0002723,"An absence of the phase of elevated metabolic activity, during which oxygen consumption increases, that occurs in neutrophils, monocytes, and macrophages shortly after phagocytosing material. An enhanced uptake of oxygen leads to the production, by an NADH dependent system, of hydrogen peroxide (H2O2), superoxide anions and hydroxyl radicals, which play a part in microbiocidal activity.",HP:0002715,2,Definition
+HP:0002789,Very rapid breathing.,HP:0002086,3,Synonym
+HP:0002562,Placement of the nipples at a lower than normal location.,HP:0000769,1,Definition
+HP:0040215,An abnormal concentration of insulin in the blood.,HP:0000818,3,Definition
+HP:0005339,An abnormality of the complement system.,HP:0002715,2,Definition
+HP:0030720,Cyst on the surface of the placenta consisting of amnion and chorion.,HP:0001197,0,Synonym
+HP:0001196,Decreased length of the umbilical cord.,HP:0001197,1,Synonym
+HP:0006298,Prolonged bleeding post dental extraction sufficient to require medical intervention.,HP:0001871,8,Synonym
+HP:0003202,The presence of skeletal muscular atrophy (which is also known as amyotrophy).,HP:0003011,0,Synonym
+HP:0031872,"Birbeck granules (BG) are cytoplasmic organelles that are only found in Langerhans cells (LC). The function of BG is still not completely understood, although most studies point toward an active role in receptor-mediated endocytosis and participation in the antigen-processing/presenting function of LC. This feature refers to the absence of BG in LC, a feature that can be documented by means of electron microscopy.",HP:0025354,0,Definition
+HP:0032940,"A disruption and/or discontinuity in the normal integration of consciousness, memory, identity, emotion, perception, body representation, motor control, and behavior. Clinical presentations of dissociation may include a wide variety of symptoms, including experiences of depersonalization, derealisation, emotional numbing, flashbacks of traumatic events, absorption, amnesia, voice hearing, interruptions in awareness, and identity alteration.",HP:0000707,5,Synonym
+HP:0003112,The presence of an abnormal decrease or increase of one or more amino acids in the blood circulation.,HP:0001939,2,Definition
+HP:0410307,Detection of methadone and its metabolites in the stool.,HP:0001939,3,Synonym
+HP:0030429,A benign but highly vascular nasopharyngeal neoplasm. The tumor originates from the sphenopalatine foramen and involves both the pterygopalatine fossa and the posterior nasal cavity.,HP:0002664,0,Synonym
+HP:0031951,Seizures that occur while the affected individual is sleeping.,HP:0000707,2,Synonym
+HP:0030724,A fluid-filled sac (cyst) located within the central nervous system.,HP:0000707,1,Synonym
+HP:0032107,A condition characterized by a loss or deficiency of the stem cells in the limbus that are vital for re-population of the corneal epithelium and to the barrier function of the limbus.,HP:0000478,0,Definition
+HP:0001671,An anomaly of the intra-atrial or intraventricular septum.,HP:0001626,3,Synonym
+HP:0012657,"A functional brain anomaly detectable by positron emission tomography (PET). PET scanning is a method for functional brain imaging, and its measurements reflect the amount of brain activity in the various regions of the brain.",HP:0000707,3,Synonym
+HP:0010219,A foot deformity resulting due to an abnormality affecting the bones of the foot (as well as muscle and soft tissue). In contrast if only the muscle and soft tissue are affected the term positional foot deformity applies.,HP:0040064,6,Synonym
+HP:0012648,An abnormal reduction in the inflammatory response to injury or infection.,HP:0002715,4,Definition
+HP:0032347,"A type of cutaneous amyloidosis that is characterized by hyperpigmented patches with indefinite margins composed of grayish brown macules, often with a reticulated or rippled appearance. Lesions may present as a hyperpigmented patch composed of small brown macules in a rippled or reticulated pattern.",HP:0001939,13,Synonym
+HP:0002480,"Central nervous system dysfunction in association with liver failure and characterized clinically (depending on degree of severity) by lethargy, confusion, nystagmus, decorticate posturing, spasticity, and bilateral Babinski reflexes.",HP:0000707,1,Synonym
+HP:0500032,Abnormality of the structure and branching of the dendrites of a neuron.,HP:0000707,3,Synonym
+HP:0025201,"A deviation from the normal concentration in blood of an apolipoprotein, i.e., of a protein that binds lipids to form lipoprotein and is thereby responsible for the transport of lipids in the blood and lymph circulation.",HP:0001939,2,Definition
+HP:0001705,An obstruction to the forward flow of blood in the outflow tract of the right ventricle.,HP:0001626,0,Synonym
+HP:0002625,"Formation of a blot clot in a deep vein. The clot often blocks blood flow, causing swelling and pain. The deep veins of the leg are most often affected.",HP:0001871,4,Synonym
+HP:0031465,"A structural anomaly of vasa vasorum, which are defined as small blood vessels that supply or drain the walls of larger arteries and veins, delivering nutrients and oxygen as well as removing systemic waste products.",HP:0001626,1,Synonym
+HP:0003740,Myotonia that occurs after a period of rest and decreases with continuing exercise.,HP:0003011,0,Synonym
+HP:0031034,A deviation from the normal blood concentration of the insulin like growth factor binding protein acid labile subunit (IGFALS; Entrez Gene ID 3483). The acid-labile subunit (IGFALS) acts in the insulin-like growth (IGF) system by binding circulating IGF1 in a ternary complex with binding protein (IGFBP)-3 to prevent IGF1 from crossing the endothelial barrier.,HP:0001939,6,Definition
+HP:0005387,"A group of phenotypically heterogeneous genetic disorders characterized by profound deficiencies of T- and B-cell function, which predispose the patients to both infectious and noninfectious complications.",HP:0002715,0,Synonym
+HP:0001332,"An abnormally increased muscular tone that causes fixed abnormal postures. There is a slow, intermittent twisting motion that leads to exaggerated turning and posture of the extremities and trunk.",HP:0000707,9,Synonym
+HP:0032996,Any deviation from the normal concentration of cystatin C in serum or plasma.,HP:0001939,5,Synonym
+HP:0031658,The third heart sound (S3) is related to rapid filling in diastole. S3 can be a normal finding in children and adolescents but suggests heart failure in older patients.,HP:0001626,0,Synonym
+HP:0011434,An abnormally low concentration of maternal serum human chorionic gonadotropin as compared to normal values for gestational-age.,HP:0001197,0,Synonym
+HP:0004398,An ulcer of the gastrointestinal tract.,HP:0025031,0,Definition
+HP:0031002,Inflammation of a nerve.,HP:0000707,3,Synonym
+HP:0031428,An elevated level of osteocalcin in the blood.,HP:0000818,6,Synonym
+HP:0031542,Muscle fibers contain one or more vacuoles (membrane-bound cavity) associated with collections of membranes arranged in a whorl-like (spiral or circular) manner.,HP:0003011,0,Synonym
+HP:0000542,Reduced ability to move the eye in the direction of the nose.,HP:0000478,1,Definition
+HP:0025160,"A temper tantrum is an emotional outburst usually triggered by a sense of frustration and manifested as whining and crying, screaming, kicking, hitting, and breath holding. Temper tantrums are normal in toddlers and young children and usually happen between the ages of one to three years. Temper tantrums may be considered abnormal if they occur at an unusually high frequency, are of unusual severity, or occur at an old age than usual.",HP:0000707,3,Synonym
+HP:0200067,Repeated episodes of abortion (Expulsion of the product of fertilization before completing the term of gestation) without deliberate interference.,HP:0001197,0,Synonym
+HP:0032065,"Any deviation from the normal concentration of bicarbonate, HCO3[-], in the circulation.",HP:0001939,0,Definition
+HP:0100270,"An abnormality resulting from a defect or disruption of dorsoventral patterning that normally happens during early development of the limbs. A disruption of the normal development of the dorsoventral axis may lead to a variable spectrum of different phenotypic abnormalities that may affect the nails and or palmar and dorsal side of the hands and/or feet, ultimately changing the normal dorsoventral appearance of the affected limbs.",HP:0040064,3,Synonym
+HP:0005548,A reduced count of megakaryocytes.,HP:0001871,2,Synonym
+HP:0032434,Separation of the umbilical cord occurs at an abnormally late timepoint.,HP:0001197,0,Synonym
+HP:0032348,"A type of cutaneous amyloidosis that is characterized clinically by waxy, purpuric plaques and nodules and histologically by amyloid deposits in the dermis and subcutaneous tissue.",HP:0001939,14,Synonym
+HP:0030907,"Severe head pain with sudden onset, reaching its maximum intensity in less than one minute and lasting from one hour to ten days.",HP:0000707,6,Synonym
+HP:0032892,"Seizure associated with a presumed or proven infection (excluding infection of the central nervous system) or inflammatory state without an alternative precipitant such as metabolic derangement, and regardless of the presence or absence of a fever.",HP:0000707,0,Synonym
+HP:0020063,An abnormal elevation above normal hemoglobin concentration in the circulation.,HP:0001871,2,Synonym
+HP:0001520,The term large for gestational age applies to babies whose birth weight lies above the 90th percentile for that gestational age.,HP:0001507,0,Synonym
+HP:0032092,"Left ventricular outflow tract (LVOT) obstruction can occur at the valvular, subvalvular, or supravalvular level. In general, there is an obstruction to forward flow which increases afterload, and if untreated, can result in hypertrophy, dilatation, and eventual failure of the left ventricle.",HP:0001626,0,Synonym
+HP:0011113,"An abnormality in the production or cellular release of a cytokine (i.e., any of the non-antibody proteins made by inflammatory leukocytes and some non-leukocytic cells that affect the behavior of other cells).",HP:0002715,3,Definition
+HP:0000366,An abnormality of the nose.,HP:0000152,5,Synonym
+HP:0200000,Different levels of maturation of different bones.,HP:0000924,2,Synonym
+HP:0012200,"An anomaly of clotting factor II, which is known as prothrombin, a vitamin K-dependent proenzyme that functions in the blood coagulation cascade.",HP:0001871,0,Synonym
+HP:0031030,"An increased blood concentration of carcinoma antigen 125 (CA-125). CA-125, also known as mucin 16, can exhibit increased blood levels in certain types of cancer.",HP:0001939,12,Synonym
+HP:0002143,An abnormality of the spinal cord (myelon).,HP:0000707,1,Synonym
+HP:0000616,Abnormal (non-physiological) constriction of the pupil.,HP:0000478,0,Definition
+HP:0009045,Rhabdomyolysis induced by exercise.,HP:0003011,12,Definition
+HP:0500112,Detection of amphetamine or its metabolites in urine.,HP:0001939,3,Synonym
+HP:0012433,An abnormality of actions or reactions of a person taking place during interactions with others.,HP:0000707,4,Synonym
+HP:0000752,"Hyperactivity is a state of constantly being unusually or abnormally active, including in situations in which it is not appropriate.",HP:0000707,1,Synonym
+HP:0030269,An elevated level of insulin-like growth factor 1 (IGF1) in the blood circulation.,HP:0000818,2,Synonym
+HP:0007687,A unilateral form of ptosis.,HP:0000478,3,Synonym
+HP:0003449,Sudden and involuntary contractions of one or more muscles brought on by exposure to cold temperatures.,HP:0003011,0,Definition
+HP:0009775,"Annular constrictions around the digits, limbs, or trunk, occurring congenitally (sometimes causing intrauterine autoamputation) and also associated with a wide variety of disorders. Constrictive amniotic bands are the result of primary amniotic rupture, which can lead to entanglement of fetal tissue (especially limbs) in fibrous amniotic strands.",HP:0001197,0,Synonym
+HP:0025403,A habitual positioning of the body with the head and upper back bent forward.,HP:0000707,22,Synonym
+HP:0010989,An abnormality of the intrinsic pathway (also known as the contact activation pathway) of the coagulation cascade.,HP:0001871,2,Synonym
+HP:0031817,An abnormally decreased concentration of parathyroid hormone.,HP:0000818,0,Definition
+HP:0500164,An abnormality of carbon dioxide (CO2) in the arterial blood.,HP:0002086,5,Synonym
+HP:0001816,Nail that appears thin when viewed on end.,HP:0001574,9,Definition
+HP:0100576,"A transient visual disturbance that is typically caused by a circulatory, ocular or neurological underlying condition.",HP:0000478,0,Synonym
+HP:0002152,An increased concentration of proteins in the blood.,HP:0001939,6,Definition
+HP:0025230,Inflammation of a tendon.,HP:0000924,19,Synonym
+HP:0100753,"A mental disorder characterized by a disintegration of thought processes and of emotional responsiveness. It most commonly manifests as auditory hallucinations, paranoid or bizarre delusions, or disorganized speech and thinking, and it is accompanied by significant social or occupational dysfunction. The onset of symptoms typically occurs in young adulthood, with a global lifetime prevalence of about 0.3-0.7%.",HP:0000707,3,Synonym
+HP:0040217,"An increased concentration of hemoglobin A1c (HbA1c), which is the product of nonenzymatic attachment of a hexose molecule to the N-terminal amino acid of the hemoglobin molecule. This reaction is dependent on blood glucose concentration, and therefore reflects the mean glucose concentration over the previous 8 to 12 weeks. The HbA1c level provides a better indication of long-term glycemic control than one-time blood or urinary glucose measurements.",HP:0001871,6,Synonym
+HP:0008071,Increased blood pressure during a pregnancy.,HP:0001197,1,Synonym
+HP:0040249,Reduced level of plasminogen activator inhibitor 1 antigen.,HP:0001871,4,Synonym
+HP:0000743,Primitive reflexes traditionally held to be a sign of disorders that affect the frontal lobes.,HP:0000707,0,Synonym
+HP:0001708,"Reduced ability of the right ventricle to perform its function (to receive blood from the right atrium and to eject blood into the pulmonary artery), often leading to pitting peripheral edema, ascites, and hepatomegaly.",HP:0001626,0,Synonym
+HP:0008233,An reduced concentration of progesterone in the blood.,HP:0000818,1,Definition
+HP:0002633,Inflammation of blood vessel.,HP:0001626,0,Synonym
+HP:0003736,The lysosomal-vacuolar pathway has a role in the controlled intracellular digestion of macromolecules such as protein complexes and organelles. This feature refers to the presence of an abnormally increased number of autophagic vacuoles in muscle tissue.,HP:0003011,1,Synonym
+HP:0008186,The presence of large polyhedral cells with eosinophilic granular cytoplasm and enlarged nuclei in the adrenal cortex.,HP:0000818,0,Synonym
+HP:0012776,A structural anomaly of the ciliary body.,HP:0000478,4,Definition
+HP:0012491,An anomaly of the intracellular membrane complexes known as the dense tubular system.,HP:0001871,3,Synonym
+HP:0011417,Increased length of the umbilical cord.,HP:0001197,1,Synonym
+HP:0030511,Difficulty in seeing moving objects.,HP:0000478,1,Synonym
+HP:0500111,"Detection of benzodiazepine metabolites, primarily nordiazepam, oxazepam, and temazepam, in urine.",HP:0001939,0,Synonym
+HP:0000751,"An abnormal shift in patterns of thinking, acting, or feeling.",HP:0000707,13,Synonym
+HP:0100871,"An abnormality of the palm, that is, of the front of the hand.",HP:0040064,8,Synonym
+HP:0032345,"An abnormal increased in the amount of the carbohydrate antigen 19-9, a recognizable sialo-ganglioside in the blood circulation.",HP:0001939,7,Definition
+HP:0030819,Nails that slope upward at the free edge.,HP:0001574,15,Definition
+HP:0000846,Insufficient production of steroid hormones (primarily cortisol) by the adrenal glands.,HP:0000818,0,Definition
+HP:0030858,"A recurrent pattern of behavior that is characeterized by the failure to resist an impulse, drive, or temptation to perform an act that is harmful to the person or to others. The repetitive engagement in these behaviors ultimately interferes with functioning in other domains.",HP:0000707,4,Synonym
+HP:0025112,Decreased tolerance to sound.,HP:0000707,13,Synonym
+HP:0031553,Reduced level of a protein that is normally present on the granulocyte surface as assessed by flow cytometry.,HP:0025354,2,Definition
+HP:0001713,An abnormality of a cardiac ventricle.,HP:0001626,1,Synonym
+HP:0410145,"A decrease in the biotinidase level, an enzyme that releases biotin from biocytin, the product of biotin-dependent carboxylases degradation.",HP:0001939,2,Definition
+HP:0030058,"An irreversible distortion of the morphology of an erythrocyte such that the cells are elongated and curved, resembling the blade of a sickle (the hand-held agricultural tool traditionally used to harvest grains).",HP:0001871,1,Synonym
+HP:0100543,Abnormality in the process of thought including the ability to process information.,HP:0000707,5,Synonym
+HP:0410050,"A decrease in the level of 1,5 anhydroglucitol in the serum. 1,5-Anhydrosorbitol is a validated marker of short-term glycemic control. This substance is derived mainly from food, is well absorbed in the intestine, and is distributed to all organs and tissues.",HP:0001939,1,Definition
+HP:0100493,A decreased concentration of ammonia in the blood.,HP:0001939,6,Definition
+HP:0005168,An abnormal increase in magnitude of the pressure in the right atrium.,HP:0001626,0,Synonym
+HP:0012509,"An abnormally decreased amount of thyroxin-binding globulin (TBG) in blood. TBG is responsible for carrying the thyroid hormones thyroxine (T4) and 3,5,3'-triiodothyronine (T3) in the bloodstream.",HP:0001939,3,Synonym
+HP:0008189,Decreased sensitivity toward insulin.,HP:0001939,2,Synonym
+HP:0007838,A progressive form of ptosis.,HP:0000478,6,Synonym
+HP:0030331,A reduced ability of the skin of the fingertips to wrinkle when exposed to stimuli such as soaking in water or application of EMLA cream (the fingertip remains smooth).,HP:0001574,5,Definition
+HP:0032550,"Howell-Jolly bodies are small, intra-erythrocytic remnants of erythrocyte nuclei. These inclusions are solitary in each erythrocyte and strongly basophilic. These are often confused with overlying platelets, but can be distinguished by the presence of a halo around overlying platelets.",HP:0001871,0,Synonym
+HP:0032025,"A reduced concentration of circulating alpha-1 antitrypsin, which is a 52-kDa glycoprotein mainly synthesised and secreted by hepatocytes into the bloodstream. Alpha-1 antitrypsin is a serine-proteinase inhibitor that it is crucial in maintaining protease-antiprotease homeostasis in the lungs.",HP:0001939,0,Definition
+HP:0008404,Onychodystrophy (nail dystrophy) refers to nail changes apart from changes of the color (nail dyschromia) and involves partial or complete disruption of the various keratinous layers of the nail plate.,HP:0001574,3,Definition
+HP:0010315,Absence or underdevelopment of the diaphragm.,HP:0003011,5,Definition
+HP:0012195,Uneven rhythm of breathing.,HP:0002086,4,Synonym
+HP:0031001,"A nerve fascicle or fasciculus is a small bundle of axons, enclosed by the perineurium. A minifascule refers to a group of thinly myelinated and unmyelinated axons surrounded by a delicate perineurium, and with a smaller diameter than a normal nerve fascicle.",HP:0000707,2,Synonym
+HP:0011891,Significant maternal haemorrhage/blood loss following deilvery of a child.,HP:0001871,4,Synonym
+HP:0020156,Abnormal structure of the oocyte extracellular matrix region known as teh zona pellucida.,HP:0025354,3,Definition
+HP:0030363,Delivery by Caesarian section representing the first time the mother has delivered by Caesarian section.,HP:0001197,0,Synonym
+HP:0000545,"An abnormality of refraction characterized by the ability to see objects nearby clearly, while objects in the distance appear blurry.",HP:0000478,1,Definition
+HP:0011895,"A type of anemia related to a reduction in the average life span of red blood cells in the peripheral circulation, which is normally around 120 days.",HP:0001871,0,Synonym
+HP:0008609,An abnormality of the morphology or structure of the middle ear.,HP:0000598,1,Synonym
+HP:0001335,Involuntary movements of one hand that accompany and mirror intentional movements of the opposite hand.,HP:0000707,3,Synonym
+HP:0011862,"Any structural anomaly of the connective tissue bundles in the extracellular matrix of bone tissue that are composed of collagen, and play a role in tissue strength and elasticity.",HP:0000924,3,Synonym
+HP:0003688,An abnormally reduced activity of the enzyme cytochrome C oxidase in muscle tissue.,HP:0003011,5,Synonym
+HP:0002360,"An abnormality of sleep including such phenomena as 1) insomnia/hypersomnia, 2) non-restorative sleep, 3) sleep schedule disorder, 4) excessive daytime somnolence, 5) sleep apnea, and 6) restlessness.",HP:0000707,3,Synonym
+HP:0032146,Presence of an abnormal type of hemoglobin characterized by the subsitution of a glutamic acid residue at position 7 following the initial methionine residue by a lysine (6GAG>6AAG). The presence of HbC can be determined by hemoglobin electrophoresis.,HP:0001871,3,Synonym
+HP:0030254,Small areas of bleeding (hemorrhage) under the fingernail or toenail.,HP:0001574,8,Definition
+HP:0003130,An abnormality of the myelination of motor and sensory peripheral nerves. These are axons for motor nerves and dendrites for sensory nerves in the strict anatomic sense.,HP:0000707,1,Synonym
+HP:0011146,A dialeptic seizure is a type of seizure characterised predominantly by reduced responsiveness or awareness and with subsequent at least partial amnesia of the event.,HP:0000707,1,Synonym
+HP:0032640,An increased concentration of C-C motif chemokine ligand 18 in the blood circulation.,HP:0001939,6,Definition
+HP:0031755,A functional anomaly of a vertical or horizontal rectus muscle.,HP:0000478,7,Definition
+HP:0002039,A lack or loss of appetite for food (as a medical condition).,HP:0025031,6,Definition
+HP:0005162,Inability of the left ventricle to perform its normal physiologic function. Failure is either due to an inability to contract the left ventricle or the inability to relax completely and fill with blood during diastole.,HP:0001626,0,Synonym
+HP:0010307,Stridor is a high pitched sound resulting from turbulent air flow in the upper airway.,HP:0002086,0,Synonym
+HP:0003782,"A body habitus that is tall, slim and underweight, with long legs and long arms (i.e., arm span exceeds height by 5 cm or more).",HP:0001507,0,Synonym
+HP:0032149,"A episode of severe pain that breaks through (i.e., temporarily exacerbates) a period of persistent pain.",HP:0025142,5,Definition
+HP:0032529,An increased concentration of gamma-aminobutyric acid (GABA) in the blood circulation.,HP:0001939,4,Definition
+HP:0012545,"An decreased concentration of fructose 1,6-bisphosphate aldolase in the serum.",HP:0001939,0,Synonym
+HP:0002791,"A reduction in the amount of air transported into the pulmonary alveoli by breathing, leading to hypercapnia (increase in the partial pressure of carbon dioxide).",HP:0002086,0,Synonym
+HP:0025035,"Anomalous form of the proerythroblast, i.e., the immature, nucleated erythrocyte occupying the stage of erythropoeisis that follows formation of erythroid progenitor cells. This cell is CD71-positive, has both a nucleus and a nucleolus, and lacks hematopoeitic lineage markers.",HP:0001871,1,Synonym
+HP:0031286,Redness surrounding the hair follicles.,HP:0001574,14,Definition
+HP:0011810,A reduced ability to distinguish tactile sensations at points that are very close to one another. This can be tested by using special calipers whose points can be set from 2mm to several centimeters apart.,HP:0000707,10,Synonym
+HP:0002242,An abnormality of the intestine. The closely related term enteropathy is used to refer to any disease of the intestine.,HP:0025031,3,Definition
+HP:0032566,"Enlarged, oval-shaped erythrocytes (red blood cells).",HP:0001871,3,Synonym
+HP:0025063,The anterior abdominal wall is sunken and presents a concave rather than a convex contour.,HP:0025031,7,Definition
+HP:0005616,An abnormally increased rate of skeletal maturation. Accelerated skeletal maturation can be diagnosed on the basis of an estimation of the bone age from radiographs of specific bones in the human body.,HP:0000924,2,Synonym
+HP:0011408,"Intrauterine growth retardation that is at least 3 standard deviations (SD) below average, but not as low as 4 SD, corrected for sex and gestational age.",HP:0001507,1,Synonym
+HP:0020107,An unusual helminthic infection that is regarded as a sign of a pathological susceptibility to infection by a worm (helminth).,HP:0002715,1,Definition
+HP:0003037,Increase in size of one or more joints.,HP:0000924,6,Synonym
+HP:0012289,A tumor (abnormal growth of tissue) of the face.,HP:0002664,1,Synonym
+HP:0012133,"Decreased count of erythroid precursor cells, that is, erythroid lineage cells in the bone marrow.",HP:0001871,1,Synonym
+HP:0020201,"Any structural anomaly of the sarcomere, which is unit of a myofibril in a muscle cell, composed of an array of overlapping thick and thin filaments between two adjacent Z discs.",HP:0003011,0,Synonym
+HP:0001518,"Smaller than normal size according to sex and gestational age related norms, defined as a weight below the 10th percentile for the gestational age.",HP:0001507,0,Synonym
+HP:0040213,Hypopnea is referring to breathing that is abnormally shallow.,HP:0002086,0,Synonym
+HP:0001876,"An abnormal reduction in numbers of all blood cell types (red blood cells, white blood cells, and platelets).",HP:0001871,6,Synonym
+HP:0000980,Abnormally pale skin.,HP:0001574,7,Definition
+HP:0008388,An anomaly of the toenail.,HP:0001574,2,Definition
+HP:0000077,An abnormality of the kidney.,HP:0000119,3,Definition
+HP:0012410,"A type of anemia resulting from suppression of erythropoiesis with little or no abnormality of leukocyte or platelet production. Erythroblasts are virtually absent in bone marrow; however, leukocyte and platelet production show little or no reduction.",HP:0001871,0,Synonym
+HP:0008221,Enlargement of the adrenal gland.,HP:0000818,0,Definition
+HP:0031077,"An anomalous response to the corticotropin releasing hormone (CRH) stimulation test. Normally,CRH is released by the hypothalamus to induce adrenocorticotropic hormone (ACTH) release by the anterior pituitary. In the stimulation test, CRH is administered intravenously and ACTH and cortisol are measured at intervals.",HP:0000818,0,Synonym
+HP:0032929,"Any abnormal structure of a chondrocyte, which is a polymorphic cell that forms cartilage.",HP:0000924,11,Synonym
+HP:0031387,The presence of abnormally high numbers of multinucleated megakaryocytes in the bone marrow.,HP:0001871,1,Synonym
+HP:0002725,"A chronic, relapsing, inflammatory, and often febrile multisystemic disorder of connective tissue, characterized principally by involvement of the skin, joints, kidneys, and serosal membranes.",HP:0002715,5,Definition
+HP:0031238,"A histological alteration of muscle fibers that resembles a necklace (necklace fibers). A substantial proportion of fibers (4-20% in PMID:19084976) show internalized nuclei aligned in a basophilic ring (necklace) at 3 micrometers beneath the sarcolemma. Ultrastructurally, such necklaces consist of myofibrils of smaller diameter, in oblique orientation, surrounded by mitochondria, sarcoplasmic reticulum and glycogen granules.",HP:0003011,0,Synonym
+HP:0004327,Any structural anomaly of the vitreous body.,HP:0000478,1,Definition
+HP:0012339,An increase in the number of calories used per unit time.,HP:0001939,5,Synonym
+HP:0020108,An unusual parasitic infection that is regarded as a sign of a pathological susceptibility to infection by a parasite.,HP:0002715,1,Definition
+HP:0030454,The clinical electro-oculogram (EOG) is an electrophysiological test of function of the outer retina and retinal pigment epithelium (RPE) in which changes in electrical potential across the RPE are recorded during successive periods of dark and light adaptation.,HP:0000478,0,Definition
+HP:0031131,"An abnormality of phosphatidylserine (PS) on activated platelets. PS is normally located on the cytoplasmic face of the resting platelet membrane but appears on the plasma-oriented surface of discrete membrane vesicles that derive from activated platelets. Thrombin, the central molecule of coagulation, is produced from prothrombin by a complex (prothrombinase) between factor Xa and its protein cofactor (factor V(a)) that forms on platelet-derived membranes. This complex enhances the rate of activation of prothrombin to thrombin by roughly 150,000 fold relative to factor X(a) in solution. The negatively charged surface of PS-containing platelet-derived membranes is at least partly responsible for this rate enhancement.",HP:0001871,0,Synonym
+HP:0001806,Detachment of the nail from the nail bed.,HP:0001574,3,Definition
+HP:0010570,An abnormally low concentration of serum alpha-fetoprotein as compared to normal values for gestational-age.,HP:0001197,0,Synonym
+HP:0003103,"An abnormality of compact bone (also known as cortical bone), which forms the dense surface of bones.",HP:0000924,3,Synonym
+HP:0030006,"Abnormality in single fiber EMG recording, a technique that allows identification of action potentials (APs) from individual muscle fibers.",HP:0003011,0,Synonym
+HP:0030053,An induration (hardening) of the skin,HP:0001574,3,Definition
+HP:0003023,Curvature of the shafts of the long bones due to multiple fractures.,HP:0000924,5,Synonym
+HP:0003351,An decreased level of renin in the blood.,HP:0000818,5,Definition
+HP:0001288,"The term gait disturbance can refer to any disruption of the ability to walk. In general, this can refer to neurological diseases but also fractures or other sources of pain that is triggered upon walking. However, in the current context gait disturbance refers to difficulty walking on the basis of a neurological or muscular disease.",HP:0000707,0,Synonym
+HP:0032205,"Galectin-3 is a member of the family of beta-galactoside-binding endogenous lectins. It is a multifunctional factor that binds to distinct ligands and triggers production of matrix metalloproteinases, and thereby plays a role in cardiac fibrosis and remodelling.",HP:0001939,5,Definition
+HP:0410284,"Detection of norpropoxyphene in the blood, a major metabolite of the opioid analgesic drug dextropropoxyphene.",HP:0001939,0,Synonym
+HP:0032460,"Abnormally reduced level of the enzyme phosphoribosyl pyrophosphatesynthetase, which catalyzes the synthesis of PP-ribose-P from ATP and ribose-5-phosphate.",HP:0001939,0,Synonym
+HP:0012547,Anomalous movements of the eyes that occur without the subject wanting them to happen.,HP:0000478,0,Synonym
+HP:0012262,Any anomaly of the normal motility of motile cilia. Evaluation of ciliary beat frequency and ciliary beat pattern requires high-speed videomicroscopy of freshly obtained ciliary biopsies that are maintained in culture media under controlled conditions.,HP:0002086,3,Definition
+HP:0031388,The presence of megakaryocytes in the bone marrow whose nuclei are more lobulated than expected for the size of the nucleus.,HP:0001871,0,Synonym
+HP:0031221,"Any deviation from normal in the amount of uptake on the radioactive iodine uptake (RAIU) test, which utilizes a radioisotope of iodine to measure how much iodine the thyroid gland absorbs from the blood. The radioactive marker is measured 4-6 hours and in some cases also 24 hours after administration of the radioactive marker.",HP:0000818,0,Synonym
+HP:0030794,"An anomolous circulating concentration of the connecting (C) peptide, which links the insulin A and B chains in proinsulin, providing thereby a means to promote their efficient folding and assembly in the endoplasmic reticulum during insulin biosynthesis. After cleavage of proinsulin, C-peptide is stored with insulin in the soluble phase of the secretory granules and is subsequently released in equimolar amounts with insulin, providing a useful independent indicator of insulin secretion.",HP:0001939,1,Definition
+HP:0500173,"A loss of consciousness followed by stiffening and brief clonic movements affecting some or all limbs, often misinterpreted as an epileptic seizure.",HP:0001626,8,Synonym
+HP:0002157,An increased concentration of nitrogen compounds in the blood.,HP:0001939,5,Definition
+HP:0001530,"A mild degree of slow or limited growth after birth, being between two and three standard deviations below age- and sex-related norms.",HP:0001507,0,Synonym
+HP:0003687,An abnormality in which the nuclei of sarcomeres take on an abnormally central localization (or in which this feature is found in an increased proportion of muscle cells).,HP:0003011,3,Synonym
+HP:0000812,"An anomaly of the adnexa, uterus, and vagina (in female) or seminal tract and prostate (in male).",HP:0000119,1,Synonym
+HP:0012641,A reduction of the pressure inside the cranium (skull) and thereby in the brain tissue and cerebrospinal fluid.,HP:0000707,3,Synonym
+HP:0031222,An elevated concentration of thyroxine-binding globulin (TBG) in the blood.,HP:0001939,7,Definition
+HP:0400002,Folds or ridges within the concha that are distinct from the crus helix.,HP:0000598,14,Synonym
+HP:0012132,"Increased count of erythroid precursor cells, that is, erythroid lineage cells in the bone marrow.",HP:0001871,2,Synonym
+HP:0012423,The inability of the colon to modify stool to an acceptable consistency and move the stool from the cecum to the rectosigmoid area at least once every three days.,HP:0025031,2,Definition
+HP:0007105,Encephalopathy with onset in the infantile period.,HP:0000707,4,Synonym
+HP:0031820,Decreased waist-to-hip ratio (WHR) is a measurement below the average for the dimensionless ratio of the circumference of the waist to that of the hips. WHR is calculated as waist measurement divided by hip measurement.,HP:0001507,3,Synonym
+HP:0000958,Skin characterized by the lack of natural or normal moisture.,HP:0001574,4,Definition
+HP:0031020,A larger than normal amount or percentage of hematopoietic cells relative to marrow fat.,HP:0001871,2,Synonym
+HP:0006976,"A type of encephalopathy (brain disease, damage, or malfunction accompanied by an altered mental state) that is characterized by evidence of necrosis of brain tissue.",HP:0000707,1,Synonym
+HP:0031100,A reduced concentration of inhibin B in the blood.,HP:0000818,5,Definition
+HP:0012024,Elevated concentration of galactose in the blood.,HP:0001939,4,Synonym
+HP:0002533,Involuntary flexion or extension of the arms and legs.,HP:0000707,9,Synonym
+HP:0100643,An anomaly of the color of the nail.,HP:0001574,2,Definition
+HP:0000606,An abnormality of the region situated around the orbit of the eye.,HP:0000152,3,Synonym
+HP:0012100,An abnormal concentration of creatinine in the blood.,HP:0001939,5,Synonym
+HP:0200134,"A condition in which epileptiform abnormalities are believed to contribute to the progressive disturbance in cerebral function. Epileptic encephalaopathy is characterized by (1) electrographic EEG paroxysmal activity that is often aggressive, (2) seizures that are usually multiform and intractable, (3) cognitive, behavioral and neurological deficits that may be relentless, and (4) sometimes early death.",HP:0000707,0,Synonym
+HP:0500022,A deviation from the normal concentration of dehydroepiandrosterone in the circulation.,HP:0000818,1,Synonym
+HP:0031385,The presence of megakaryocytes in the bone marrow whose nuclei are less lobulated than expected for the size of the nucleus.,HP:0001871,0,Synonym
+HP:0500098,Presence of a xenobiotic in meconium.,HP:0001939,3,Synonym
+HP:0012340,A reduction in the number of calories used per unit time.,HP:0001939,5,Synonym
+HP:0410176,An anomaly in the level of glucose-6-phosphate dehydrogenase.,HP:0001939,2,Definition
+HP:0031075,"An anomalous response to the insulin tolerance test (ITT), in which insulin is administered intravenously and blood glucose and potentially other compounds are measured at intervals. Insulin administration is intended to induce extreme hypoglycemia (bloodgluoce below 40 mg/dl), which in turn induces release of adrenocorticotropic hormone (ACTH) and growth hormone (GH). ACTH induces the adrenal gland to release cortisol, which together with GH opposes the action of insulin on the blood glucose level.",HP:0000818,0,Synonym
+HP:0003115,Abnormal rhythm of the heart.,HP:0001626,0,Synonym
+HP:0031875,Any deviation from the normal concentration of hepcidin in the blood circulation.,HP:0001939,6,Definition
+HP:0008396,Chronic infection of the nails by Candida species.,HP:0001574,4,Definition
+HP:0025013,A type of rigidity that is manifested by an exaggerated extensor posture of all extremities.,HP:0000707,6,Synonym
+HP:0500235,Any deviation from the normal concentration of histidine in the cerebrospinal fluid.,HP:0001939,5,Definition
+HP:0020198,Any deviation from the normal concentration of 18-Hydroxycorticosterone level in the blood circulation.,HP:0000818,0,Synonym
+HP:0012411,The onset of growth of pubic hair at an earlier age than normal.,HP:0000818,5,Definition
+HP:0002183,An abnormally heightened sensitivity to loud sounds.,HP:0000707,10,Synonym
+HP:0410139,Anaphylaxis after physical activity.,HP:0002715,6,Definition
+HP:0004419,Repeated episodes of inflammation of a vein associated with venous thrombosis (blood clot formation within the vein).,HP:0001871,3,Synonym
+HP:0005944,Bilateral lack of development of the lungs.,HP:0002086,4,Definition
+HP:0000766,"An anomaly of the sternum, also known as the breastbone.",HP:0000924,5,Synonym
+HP:0010930,An abnormality of monovalent inorganic cation homeostasis.,HP:0001939,0,Definition
+HP:0031407,"A defect or impairment in the series of molecular signals initiated by the binding of a cytokine to a receptor on the surface of a cell, and ending with regulation of a downstream cellular process, e.g. transcription.",HP:0002715,2,Definition
+HP:0000407,A type of hearing impairment in one or both ears related to an abnormal functionality of the cochlear nerve.,HP:0000598,0,Synonym
+HP:3000047,"Any structural anomaly of the glossopharyngeal nerve, the ninth paired cranial nerve (CN IX).",HP:0000707,2,Synonym
+HP:0045046,Blood concentration of insulin like growth factor binding protein acid labile subunit level below normal limits.,HP:0001939,4,Synonym
+HP:0030096,A deviation from normal in the amount of dystrophin in muscle fiber tissue. Dystrophin is located at the muscle sarcolemma in a membrane-spanning protein complex that connects the cytoskeleton to the basal lamina.,HP:0003011,1,Synonym
+HP:0002362,A type of gait (walking) characterized by by dragging one's feet along or without lifting the feet fully from the ground.,HP:0000707,10,Synonym
+HP:0011807,Atrophy (wasting) affecting primary type 1 muscle fibers. This feature in general can only be observed on muscle biopsy.,HP:0003011,0,Synonym
+HP:0011642,"An abnormality of the coronary sinus, which is formed by the union of the great cardiac vein and the left marginal vein and terminates in the right atrium. The coronary sinus functions to o collect deoxygenated blood from the myocardium of the heart and drain it into the right atrium.",HP:0001626,0,Synonym
+HP:0012063,"Radiographic features include a dilated, radiolucent lesion typically located eccentrically within the metaphyseal portion of the bone, with fluid levels visible on magnetic resonance imaging.",HP:0000924,4,Synonym
+HP:0011336,"Bilateral temporal scarlike defects, which are said to resemble forceps marks.",HP:0000152,10,Synonym
+HP:0100134,"Abnormality of the growth of the axillary hair. Axillary hair is part of the secondary sexual hair, which normally ensues during puberty.",HP:0001574,4,Definition
+HP:0012863,A structural anomaly of a male reproductive cell.,HP:0000119,3,Synonym
+HP:0030896,A deviation from the normal amount of time required for food to pass through the intestines.,HP:0025031,1,Definition
+HP:0001638,"A myocardial disorder in which the heart muscle is structurally and functionally abnormal, in the absence of coronary artery disease, hypertension, valvular disease and congenital heart disease sufficient to cause the observed myocardial abnormality.",HP:0001626,0,Synonym
+HP:0010624,Absence or underdevelopment of the toenail.,HP:0001574,3,Definition
+HP:0001700,Irreversible damage to heart tissue (myocardium) due to lack of oxygen after a heart attack (myocardial infarction).,HP:0001626,0,Synonym
+HP:0007830,Inability to see well at night or in poor light with onset in adulthood.,HP:0000478,6,Synonym
+HP:0031464,"The presence of one or more bullae on the skin of the genital region, defined as fluid-filled blisters more than 5 mm in diameter with thin walls.",HP:0001574,3,Definition
+HP:0010902,Any deviation from the normal concentration of a glutamine family amino acid in the blood circulation.,HP:0001939,5,Definition
+HP:0025422,"A closed sac-like structure originating from the pleura that contains a liquid, gaseous, or semisolid substance.",HP:0002086,5,Definition
+HP:0002718,"Increased susceptibility to bacterial infections, as manifested by recurrent episodes of bacterial infection.",HP:0002715,5,Definition
+HP:0010450,An abnormal narrowing of the lumen of the esophagus.,HP:0025031,0,Definition
+HP:0030992,"Any structural anomaly of the pancreatic duct, which is the tubular structure that collects exocrine pancreatic secretions and transports them to the duodenum.",HP:0025031,1,Definition
+HP:0011221,"Vertical soft tissue creases in the midline of the forehead, often extending from the hairline to the brow, and seen with facial expression or when the face is at rest.",HP:0000152,1,Synonym
+HP:0010794,"Reduced ability affecting mainly visuospatial cognition which may be tested using pattern construction (for example by Differential Ability Scales, which test a person's strengths and weaknesses across a range of intellectual abilities).",HP:0000707,4,Synonym
+HP:0005107,An abnormality of the sacral bone.,HP:0000924,1,Synonym
+HP:0020114,"Human papillomaviruses (HPVs) are small oncogenic viruses. HPV has been shown to cause a variety of lesions and malignancies, which predominantly affect the anogenital region. Low-risk, non-oncogenic HPV types are associated with anogenital warts and recurrent respiratory papillomatosis while high-risk, oncogenic types are associated with cervical, penile, anal, vaginal, vulvar, and oropharyngeal cancers. Infection with anogenital HPV is usually asymptomatic and resolves spontaneously without consequences in the immunocompetent host. When disease does occur, the most common manifestation is genital warts, which may be small papules, or flat, smooth or pedunculated lesions. This resolution of HPV lesions is not generally seen in the immunosuppressed, resulting in severe, persistent and extensive manifestations of HPV disease.",HP:0002715,7,Definition
+HP:0025165,Formation of clumps or aggregates that make up small protuberances from elastic fibers within the dermis (especially the reticular dermis).,HP:0001574,6,Definition
+HP:0030145,Complete lack of abdominal sounds as assayed by examination of the abdomen with a stethoscope.,HP:0025031,3,Definition
+HP:0030899,Pruritus is an itch or a sensation that makes a person want to scratch. This term refers to an abnormally increased sensation of itching over the skin of the hand.,HP:0001574,6,Definition
+HP:0045073,Inflammation in any serous cavity.,HP:0002715,5,Definition
+HP:0011864,"An abnormally increased diphosphate(4-) concentration in the blood. Diphosphate(4-), as ester with two phosphate groups, is also known as pyrophosphate.",HP:0001939,0,Synonym
+HP:0007906,Intraocular pressure that is 2 standard deviations above the population mean.,HP:0000478,0,Synonym
+HP:0000411,"Angle formed by the plane of the ear and the mastoid bone greater than the 97th centile for age (objective); or, outer edge of the helix more than 2 cm from the mastoid at the point of maximum distance (objective).",HP:0000598,0,Synonym
+HP:0030050,"An abnormal phenomenon characterized by a classic tetrad of excessive daytime sleepiness with irresistible sleep attacks, cataplexy (sudden bilateral loss of muscle tone), hypnagogic hallucination, and sleep paralysis.",HP:0000707,2,Synonym
+HP:0003100,Reduced diameter of a long bone.,HP:0000924,5,Synonym
+HP:0010549,"Paralysis of voluntary muscles means loss of contraction due to interruption of one or more motor pathways from the brain to the muscle fibers. Although the word paralysis is often used interchangeably to mean either complete or partial loss of muscle strength, it is preferable to use paralysis or plegia for complete or severe loss of muscle strength, and paresis for partial or slight loss. Paralysis due to lesions of the principle motor tracts is related to a lesion in the corticospinal, corticobulbar or brainstem descending (subcorticospinal) neurons.",HP:0000707,0,Synonym
+HP:0002841,"Increased susceptibility to fungal infections, as manifested by multiple episodes of fungal infection.",HP:0002715,5,Definition
+HP:0008062,Absence or underdevelopment of the anterior segment of the eye.,HP:0000478,1,Definition
+HP:0012089,Arterial inflammation.,HP:0001626,0,Synonym
+HP:0002240,Abnormally increased size of the liver.,HP:0025031,5,Definition
+HP:0025580,Any structural abnormality of the right atrium.,HP:0001626,0,Synonym
+HP:0008207,Insufficient production of steroid hormones (primarily cortisol) by the adrenal glands as a result of a primary defect in the glands themselves.,HP:0000818,0,Definition
+HP:0040165,Inflammation of the periosteum,HP:0000924,10,Synonym
+HP:0031699,"Failure to contain infection by a protozoan of the genus Cryptosporidium, leading to spread to many parts of the body.",HP:0002715,2,Definition
+HP:0032344,Upturned concavity of toenails.,HP:0001574,7,Definition
+HP:0032193,An abnormal decrease in the average size of low-density lipoprotein particle size in the blood circulation.,HP:0001939,1,Synonym
+HP:0011486,An abnormal anteroposterior thickness of the cornea.,HP:0000478,1,Definition
+HP:0001251,"Cerebellar ataxia refers to ataxia due to dysfunction of the cerebellum. This causes a variety of elementary neurological deficits including asynergy (lack of coordination between muscles, limbs and joints), dysmetria (lack of ability to judge distances that can lead to under- or overshoot in grasping movements), and dysdiadochokinesia (inability to perform rapid movements requiring antagonizing muscle groups to be switched on and off repeatedly).",HP:0000707,0,Synonym
+HP:0010314,Premature development of the breasts.,HP:0000818,4,Synonym
+HP:0011298,A soft tissue prominence of the ventral aspects of the fingertips or toe tips.,HP:0001574,6,Definition
+HP:0005832,A type of dysharmonic skeletal maturation in which there is a delay in skeletal maturation whose degree differs markedly in different bones.,HP:0000924,2,Synonym
+HP:3000055,An abnormality of an inferior alveolar nerve.,HP:0000707,6,Synonym
+HP:0012343,"Abnormally reduced concentration of ferritin, a ubiquitous intracellular protein that stores iron, in the blood.",HP:0001939,1,Synonym
+HP:0030663,"Vestigial vitreous gel occupying the immediate retrolental space and minimal to no discernable gel in the central vitreous cavity, giving the appearance of an empty vitreous cavity.",HP:0000478,0,Synonym
+HP:0025643,A cerebrospinal fluid-filled nerve root cyst most often localized in the sacral spine.,HP:0000707,2,Synonym
+HP:0100583,A rupture of the cornea through which a portion of the iris protrudes.,HP:0000478,1,Definition
+HP:0030970,"An abnormality of the function of the veins that return deoxygenated blood from the body into the heart, i.e., the superior vena cava and the inferior vena cava.",HP:0001626,0,Synonym
+HP:0011780,Absence of a lobe of the thyroid gland related to a failure of its embryologic development.,HP:0000818,1,Definition
+HP:0410185,An anomaly in the level of glucose-6-phosphate dehydrogenase in tissue.,HP:0001939,1,Definition
+HP:0032104,An involuntary abnormality of fixation in which there is an abnormal saccade away from fixation followed by an immediate corrective saccade.,HP:0000478,0,Synonym
+HP:0001087,Glaucoma which forms during the early years of a child's life is called developmental or congenital glaucoma.,HP:0000478,1,Synonym
+HP:0030243,An obstruction in the veins of the liver caused by a blood clot (thrombosis).,HP:0001871,1,Synonym
+HP:0011100,"An abnormal closure, or atresia of the tubular structure of the intestine.",HP:0025031,2,Definition
+HP:0031475,"There is inconclusive evidence to precisely define the duration of the seizure; however, based on current evidence an operational threshold of 10 minutes is appropriate as beyond this a seizure is likely to be more prolonged. The individual may or may not be aware or in coma.",HP:0000707,1,Synonym
+HP:0011423,An abnormally increased chloride concentration in the blood.,HP:0001939,4,Definition
+HP:0031696,A viral infection that fails to be contained by the immune sytem and spreads throughout the body.,HP:0002715,1,Definition
+HP:0009900,A unilateral absence of sensory perception of sound.,HP:0000598,1,Synonym
+HP:0011824,H-shaped crease in the fat pad of the chin.,HP:0000152,12,Synonym
+HP:0033041,Excessive or uncontrolled release of proinflammatory cytokines.,HP:0002715,4,Definition
+HP:0000889,Any abnormality of the clavicles (collar bones).,HP:0000924,5,Synonym
+HP:0032167,An infection of the small intestine (enteritis) by clostridium difficile.,HP:0025031,2,Definition
+HP:0025168,Abnormal function of the left ventricule during left ventricular relaxation and filling.,HP:0001626,0,Synonym
+HP:0008211,Aplasia of the parathyroid gland.,HP:0000818,0,Definition
+HP:0003336,"An abnormality of the process of endochondral ossification, which is a type of replacement ossification in which bone tissue replaces cartilage.",HP:0000924,2,Synonym
+HP:0008037,Absence of the anterior chamber of the eye owing to a developmental defect.,HP:0000478,1,Definition
+HP:0100644,Brown or black discoloration of the nails.,HP:0001574,9,Definition
+HP:0500008,"Golden brown or gray deposits with a clockwise, whorl-like distribution in the inferior interpalpebal portion of the cornea.",HP:0000478,1,Synonym
+HP:0031729,A form of hypermetropia with more than +2.00 diopters but not more than +5.00 diopters.,HP:0000478,1,Synonym
+HP:0002530,"A type of dystonia that affects the midline muscles, i.e., the chest, abdominal, and back muscles.",HP:0000707,3,Synonym
+HP:0002244,An abnormality of the small intestine.,HP:0025031,1,Definition
+HP:0033053,"Sudden, involuntary seizure-like attacks that, unlike epileptic seizures, are not related to electrographic ictal discharges.",HP:0000707,0,Synonym
+HP:0031156,Decreased platelet cell membrane concentration of glycoprotein Ib.,HP:0001871,4,Synonym
+HP:0003262,The presence in serum of antibodies against smooth muscle.,HP:0002715,5,Synonym
+HP:0025104,"A capillary malformation is a flat, sharply defined vascular stain of the skin. It may cover a large surface area or it may be scattered and appear as little islands of color. In a capillary maformation, the predominant vessels are small, slow-flow vessels (i.e., arterioles and postcapillary venules).",HP:0001574,7,Definition
+HP:0012037,"Wasting of the pectoral muscles, i.e., of the pectoralis major and pectoralis minor.",HP:0003011,0,Definition
+HP:0030088,An elevated circulating testosterone level in the blood.,HP:0000818,0,Synonym
+HP:0030116,A deviation from normal of the amount of the inner nuclear membrane protein emerin in muscle tissue.,HP:0003011,4,Synonym
+HP:0032235,The presence of autoantibodies (immunoglobulins) in the serum that react against the La/Sjogrens syndrome antigen.,HP:0002715,0,Synonym
+HP:0011125,"An abnormality of the melanosomes, i.e., of the cellular organelles in which melanin pigments are synthesized and stored within melanocytes (the cells that produce pigment in the dermis).",HP:0001574,6,Definition
+HP:0030311,Displacement or malalignment of one or more joints in the lower extremity (leg).,HP:0000924,9,Synonym
+HP:0430026,"An abnormal morphology (form) of the midface or its components, the cheeks, maxilla, zygomatic bone, malar region, and infraorbital rims.",HP:0000152,2,Synonym
+HP:0001993,Acidosis resulting from accumulation of ketone bodies.,HP:0001939,2,Synonym
+HP:0030206,A compound muscle action potential (CMAP) is a type of electromyography (EMG). CMAP refers to a group of almost simultaneous action potentials from several muscle fibers in the same area evoked by stimulation of the supplying motor nerve and are recorded as one multipeaked summated action potential. This abnormality refers to an abnormal increase in the amplitude during the course of the investigation.,HP:0003011,0,Synonym
+HP:0000062,A genital phenotype that is not clearly assignable to a single gender. Ambiguous genitalia can be evaluated using the Prader scale: Prader 0: Normal female external genitalia. Prader 1: Female external genitalia with clitoromegaly. Prader 2: Clitoromegaly with partial labial fusion forming a funnel-shaped urogenital sinus. Prader 3: Increased phallic enlargement. Complete labioscrotal fusion forming a urogenital sinus with a single opening. Prader 4: Complete scrotal fusion with urogenital opening at the base or on the shaft of the phallus. Prader 5: Normal male external genitalia. The diagnosis of ambiguous genitalia is made for Prader 1-4.,HP:0000119,0,Synonym
+HP:0012101,An abnormally reduced amount of creatinine in the blood.,HP:0001939,5,Synonym
+HP:0025423,Any anomaly of the structure of the larynx.,HP:0002086,12,Definition
+HP:0032679,A type of focal-onset seizure characterized by non-motor signs or symptoms (or behaviour arrest) as its initial semiological manifestation.,HP:0000707,1,Synonym
+HP:0012211,An abnormal functionality of the kidney.,HP:0000119,6,Synonym
+HP:0033076,A deviation from the normal concentration of free thyroxine (T4) in the blood circulation. Circulating T4 is almost entirely bound to specific transport proteins such as thyroxine-binding globulin (TBG) but it is the unbound (free) fraction that is able to enter tissues and exert effects.,HP:0000818,0,Synonym
+HP:0012781,A type of hearing impairment affecting primarily the middle frequencies of sound (1000 Hz to 3000 Hz).,HP:0000598,0,Synonym
+HP:0007018,"Attention deficit hyperactivity disorder (ADHD) manifests at age 2-3 years or by first grade at the latest. The main symptoms are distractibility, impulsivity, hyperactivity, and often trouble organizing tasks and projects, difficulty going to sleep, and social problems from being aggressive, loud, or impatient.",HP:0000707,4,Synonym
+HP:0030888,The presence of autoantibodies (immunoglobulins) in the serum that react against C3 convertase (C3bBb).,HP:0002715,1,Definition
+HP:0002299,"Fragile, easily breakable hair, i.e., with reduced tensile strength.",HP:0001574,4,Definition
+HP:0025641,An abnormally increased concentration of glycolate in the blood circulation.,HP:0001939,1,Definition
+HP:0012264,Absence of the two central microtubules of motile cilia with a 9+2 microtubuluar configuration.,HP:0002086,13,Definition
+HP:0032437,An abnormal decrease of the C-reactive protein level in serum.,HP:0001939,6,Definition
+HP:0004373,A type of dystonia that is localized to a specific part of the body.,HP:0000707,3,Synonym
+HP:0500011,"A rounded, puffy face with fat deposits in the temporal fossa and cheeks, a double chin.",HP:0000152,6,Synonym
+HP:0000405,An abnormality of vibrational conductance of sound to the inner ear leading to impairment of sensory perception of sound.,HP:0000598,0,Synonym
+HP:0020090,Infection with live attenuated polio vaccine following vaccination. This is an extreemely rare event that may indicate immunocompromise.,HP:0002715,3,Synonym
+HP:0410370,The absence of ganglioside GM3.,HP:0001939,5,Definition
+HP:0002250,Any abnormality of the large intestine.,HP:0025031,3,Definition
+HP:0011495,"Abnormality of the corneal epithelium, that is of the epithelial tissue that covers the front of the cornea.",HP:0000478,1,Definition
+HP:0410154,An increase in the level of myristic acid in the serum.,HP:0001939,4,Definition
+HP:0031969,An abnormally low concentration of urea nitrogen in the blood.,HP:0001939,4,Synonym
+HP:0031640,Any structural anomaly of the radial artery.,HP:0001626,3,Synonym
+HP:0002515,"Weakness of the hip girdle and upper thigh muscles, for instance in myopathies, leads to an instability of the pelvis on standing and walking. If the muscles extending the hip joint are affected, the posture in that joint becomes flexed and lumbar lordosis increases. The patients usually have difficulties standing up from a sitting position. Due to weakness in the gluteus medius muscle, the hip on the side of the swinging leg drops with each step (referred to as Trendelenburg sign). The gait appears waddling. The patients frequently attempt to counteract the dropping of the hip on the swinging side by bending the trunk towards the side which is in the stance phase (in the German language literature this is referred to as Duchenne sign). Similar gait patterns can be caused by orthopedic conditions when the origin and the insertion site of the gluteus medius muscle are closer to each other than normal, for instance due to a posttraumatic elevation of the trochanter or pseudarthrosis of the femoral neck.",HP:0000707,10,Synonym
+HP:0001792,"A nail that is diminished in length and width, i.e., underdeveloped nail.",HP:0001574,4,Definition
+HP:0000341,Width of the forehead or distance between the frontotemporales is more than two standard deviations below the mean (objective); or apparently narrow intertemporal region (subjective).,HP:0000152,4,Synonym
+HP:0030209,The presence of autoantibodies (immunoglobulins) in the serum that react against voltage-gated calcium channels.,HP:0002715,1,Synonym
+HP:0500262,The most dramatic and severe form of hair loss characterized by an absence of hair follicles.,HP:0001574,14,Definition
+HP:0030452,A type of mesenteric cyst that is lined with a thin endothelium or mesothelium and filled with chylous and lymphatic fluid.,HP:0025031,5,Definition
+HP:0001360,Holoprosencephaly is a structural anomaly of the brain in which the developing forebrain fails to divide into two separate hemispheres and ventricles.,HP:0000707,2,Synonym
+HP:0500007,Multiple cysts along the pupillary margin that appear as spherical or tear-drop-shaped pigmented lesions or wrinkled masses emerging from the pupillary border of the iris.,HP:0000478,0,Synonym
+HP:0032495,A deviation from the normal proportion of terminal to vellus hairs.,HP:0001574,5,Definition
+HP:0003557,An abnormally high degree of muscle fiber size variation. This phenotypic feature can be observed upon muscle biopsy.,HP:0003011,2,Synonym
+HP:0033043,Swelling of the chorionic villi owing to fluid accumulation.,HP:0001197,0,Synonym
+HP:0030119,"A deviation from normal in the amount of calpain-3 in muscle tissue. Calpains are intracellular nonlysosomal cysteine proteases modulated by calcium ions. A typical calpain is a heterodimer composed of two distinct subunits, one large (over 80 kDa) and the other small (30 kDa). While only one gene encoding the small subunit has been demonstrated, there are many genes for the large one. CAPN3 is similar to ubiquitous Calpain 1 and 2 (m-calpain and micro-calpain), but contains specific insertion sequences (NS, IS1 and IS2). Calpains cleave target proteins to modify their properties, rather than breaking down the substrates.",HP:0003011,0,Synonym
+HP:0007803,"Complete color blindness, a complete inability to distinguish colors. Affected persons cannot perceive colors, but only shades of gray.",HP:0000478,0,Synonym
+HP:0410368,An abnormal increase in the concentration of glycolipid globoside Gb3.,HP:0001939,3,Definition
+HP:0003128,"An abnormal buildup of lactic acid in the body, leading to acidification of the blood and other bodily fluids.",HP:0001939,0,Definition
+HP:0030900,Pruritus is an itch or a sensation that makes a person want to scratch. This term refers to an abnormally increased sensation of itching over the skin of the foot.,HP:0001574,5,Definition
+HP:0025167,Elastic fibers in the dermis exhibit an increased number of breaks associated with disorganization of the structure of the elastic fibers.,HP:0001574,5,Definition
+HP:0032168,An infection of the colon (colitis) by clostridium difficile.,HP:0025031,3,Definition
+HP:0012260,A structural anomaly of the two central microtubules of motile cilia with a 9+2 microtubuluar configuration.,HP:0002086,16,Definition
+HP:0032174,"The tree-in-bud pattern represents centrilobular branching structures that resemble a budding tree. The pattern reflects a spectrum of endo- and peribronchiolar disorders, including mucoid impaction, inflammation, and/or fibrosis (See Figure 70 of PMID:18195376).",HP:0002086,6,Synonym
+HP:0032676,"A cutaneous wound that has failed to proceed through the orderly and timely process to produce an atomic and functional integrity, or proceeded through the repair process without establishing a sustained anatomic and functional result.",HP:0001574,2,Definition
+HP:0012095,Dislocation of many joints.,HP:0000924,6,Synonym
+HP:0031211,"An elevated concentration of circulating cholesterol esters, which are fatty acid esters of cholesterol and make up about two-thirds of total plasma cholesterol.",HP:0001939,2,Synonym
+HP:0012173,An increase in heart rate with standing of 30 beats per minute or more.,HP:0000707,14,Synonym
+HP:0020123,"A stiffening of the tympanic membrane due to calcification, typically presents as white plaque-like lesions, involving discrete regions of the tympanic membrane and/or middle ear.",HP:0000598,0,Synonym
+HP:0001698,Accumulation of fluid within the pericardium.,HP:0001626,0,Synonym
+HP:0003133,"An abnormality of the spinocerebellar tracts, a set of axonal fibers originating in the spinal cord and terminating in the ipsilateral cerebellum. The spinocerebellar tract convey information to the cerebellum about limb and joint position (proprioception). They comprise the ventral spinocerebellar tract, the anterior spinocerebellar tract, and the posterior spinocerebellar tract.",HP:0000707,2,Synonym
+HP:0040237,Impaired binding of factor VIII to von Willebrand Factor. This is determined using a modified ELISA assay.,HP:0001871,3,Synonym
+HP:0002363,An anomaly of the brainstem.,HP:0000707,3,Synonym
+HP:0012117,Elevation in the concentration of albumin in the blood.,HP:0001939,6,Definition
+HP:0012895,Muscle hypertrophy affecting the scapular muscles.,HP:0003011,1,Synonym
+HP:0032005,"Hemidystonia refers to dystonia which involves the ipsilateral face, arm, and leg.",HP:0000707,4,Synonym
+HP:0005345,"An abnormality of the structure of the veins that return deoxygenated blood from the body into the heart, i.e., the superior vena cava and the inferior vena cava.",HP:0001626,0,Synonym
+HP:0003755,The presence of abnormal muscle fiber size such that type 1 fibers are smaller than type 2 fibers.,HP:0003011,1,Synonym
+HP:0030725,"The neurenteric cyst is a rare lesion composed of heterotopic endodermal tissue. During the third week of human embryogenesis, the neurenteric canal unites the yolk sac and the amniotic cavity as it traverses the primitive notochordal plate. Persistence of the normally transient neurenteric canal prevents appropriate separation of endoderm and notochord. This results in a variable degree of communication between neural and enteric epithelium.",HP:0000707,8,Synonym
+HP:0009591,"Abnormality of the vestibulocochlear nerve, the eighth cranial nerve, which is involved in transmitting sound and equilibrium information from the inner ear to the brain.",HP:0000707,2,Synonym
+HP:0002605,The presence of cell death (necrosis) affecting the liver.,HP:0025031,9,Definition
+HP:0400000,Increased vertical distance from the vermillion border of the lower lip to the inferior-most point of the chin.,HP:0000152,6,Synonym
+HP:0011128,"A condition characterized by necrosis of the mucosal and submucosal layers of the esophagus not related to ingestion of caustic or other injurious agents. Endoscopically, there is a dark lesion ('black esophagus') distributed in a circumferential manner in the distal one-third of the esophagus with or without exudates. There is involvement of the distal esophagus ending sharply at the gastroesophageal junction.",HP:0025031,2,Definition
+HP:0031220,"An elevated amount of uptake on the radioactive iodine uptake (RAIU) test, which utilizes a radioisotope of iodine to measure how much iodine the thyroid gland absorbs from the blood. The radioactive marker is measured 4-6 hours and in some cases also 24 hours after administration of the radioactive marker.",HP:0000818,0,Synonym
+HP:0030885,"Increased susceptibility to parasitic infections, as manifested by recurrent episodes of parasitic infection.",HP:0002715,5,Definition
+HP:0010444,The retrograde (backwards) flow of blood through the pulmonary valve into the right ventricle during diastole.,HP:0001626,0,Synonym
+HP:0031810,The presence of autoantibodies (immunoglobulins) in the serum that react to gangliosides.,HP:0002715,1,Synonym
+HP:0005256,Aplasia (congenital absence) of the pectoralis minor on only one side of the chest.,HP:0003011,7,Definition
+HP:3000048,Any structural anomaly of a great auricular nerve.,HP:0000707,4,Synonym
+HP:0005203,The occurrence of the full-thickness tear (perforation) of the wall of the esophagus.,HP:0025031,2,Definition
+HP:0012814,Underdevelopment of the breast on both sides.,HP:0000769,0,Definition
+HP:0500075,"A change in horizontal ocular alignment, unrelated to accommodation, that is brought about solely by a change in the balance of visual input from the two eyes.",HP:0000478,0,Definition
+HP:0011945,"Bronchiolitis obliterans organizing pneumonia (BOOP) is and interstitial lung abnormalitiy characterized histopathologically by plugs of granulation tissue lying within small airways, alveolar ducts, and alveoli and by chronic inflammatory cell infiltration in alveolar walls. Patients with BOOP generally present with subacute illness, including shortness of breath, fever, malaise, and weight loss.",HP:0002086,0,Synonym
+HP:0010485,The ability of the elbow joint to move beyond its normal range of motion.,HP:0000924,4,Synonym
+HP:0000022,An abnormality of the male internal genitalia.,HP:0000119,2,Definition
+HP:0000782,"Any abnormality of the scapula, also known as the shoulder blade.",HP:0000924,14,Synonym
+HP:0500214,Any deviation from the normal concentration of aromatic amino acids in the cerebrospinal fluid.,HP:0001939,3,Definition
+HP:0009896,"An abnormality of the antitragus, which is a small tubercle opposite to the tragus of the ear. The antitragus and the tragus are separated by the intertragic notch.",HP:0000598,0,Synonym
+HP:0500104,Abnormal decrease in diastolic blood pressure.,HP:0001626,0,Synonym
+HP:0002876,Episodes of very rapid breathing.,HP:0002086,3,Synonym
+HP:0005294,A separation (dissection) of the layers of an artery.,HP:0001626,1,Synonym
+HP:0000822,The presence of chronic increased pressure in the systemic arterial system.,HP:0001626,0,Synonym
+HP:0500024,Absence of the musculature of the pelvis.,HP:0003011,0,Definition
+HP:0000639,"Rhythmic, involuntary oscillations of one or both eyes related to abnormality in fixation, conjugate gaze, or vestibular mechanisms.",HP:0000478,0,Synonym
+HP:0001931,A type of anemia characterized by an abnormally low concentration of hemoglobin in the erythrocytes.,HP:0001871,0,Synonym
+HP:0010915,An abnormality of a pyruvate family amino acid metabolic process.,HP:0001939,1,Synonym
+HP:0005108,An abnormality of the intervertebral disk.,HP:0000924,8,Synonym
+HP:0011813,"Lipofuscin (age pigment) is a brown-yellow, electron-dense, autofluorescent material that accumulates progressively over time in lysosomes of postmitotic cells, such as neurons and cardiac myocytes. This term pertains if there is an increase in the accumulation of lipofuscin (also known as autofluorescent lipoprotein) more than expected for the age of the patient.",HP:0000707,12,Synonym
+HP:0030242,"Thrombosis of the portal vein and/or its tributaries, which include the splenic vein and the superior and inferior mesenteric veins.",HP:0001871,7,Synonym
+HP:0001695,An abrupt loss of heart function.,HP:0001626,0,Synonym
+HP:0031814,Repetition of one's own words or phrases.,HP:0000707,5,Synonym
+HP:0032808,"Neonatal seizure is a seizure type that occurs in neonatal period and is characterized by an electrographic event with sudden, repetitive, evolving stereotyped waveforms with a beginning and an end. This event can be associated or not with a clinical manifestation.",HP:0000707,1,Synonym
+HP:0000413,Absence or failure to form of the external auditory canal.,HP:0000598,0,Synonym
+HP:0031413,"An abnormal reduction in telomere length. Telomeres are non-coding, repetitive sequences of DNA at the ends of the chromosomes of eukaryotic cells which become shorter as cells divide, and when telomere attrition reaches its limit, cell proliferation arrest, senescence, and apoptosis can occur.",HP:0025354,0,Definition
+HP:0400004,Median longitudinal ear length greater than two SD above the mean determined by the maximal distance from the superior aspect to the inferior aspect of the external ear.,HP:0000598,1,Synonym
+HP:0001662,"A slower than normal heart rate (in adults, slower than 60 beats per minute).",HP:0001626,0,Synonym
+HP:0005348,Inspiratory stridor is a high pitched sound upon inspiration that is generally related to laryngeal abnormalities.,HP:0002086,0,Synonym
+HP:0032548,Abnormally elevated placental thickness.,HP:0001197,0,Synonym
+HP:0001795,When viewed on end (with the digit tip pointing toward the examiner's eye) the curve of the nail forms a tighter curve of convexity.,HP:0001574,5,Definition
+HP:0030795,"A decreased concentration of C-peptide in the circulation. Since C-peptide is secreted in equimolar amounts to insulin, this feature correlates with reduced insulin secretion.",HP:0001939,1,Definition
+HP:0005639,The ability of the joints of the hand to move beyond their normal range of motion.,HP:0000924,4,Synonym
+HP:0031828,An anomaly of a reflex that is elicited as a motor response to scraping of the skin. They are generally graded as present or absent. They differ from tendon reflexes in that the sensory signal must ascend the spinal cord to reach the brain and then descend the spinal cord to reach the motor neurons.,HP:0000707,0,Synonym
+HP:0011492,"An abnormality of the stroma of cornea, also known as the substantia propria of cornea.",HP:0000478,2,Definition
+HP:0031950,Temporal and spatial heterogeneity in lungs based on presence of fibrosis and honeycombing.,HP:0002086,2,Synonym
+HP:0000402,An abnormal narrowing of the external auditory canal.,HP:0000598,0,Synonym
+HP:0030143,An increased amount of bowel sounds.,HP:0025031,3,Definition
+HP:0410285,"Detection of methadone or its metabolite 2-ethylidene-1,5-dimethyl-3,3- diphenylpyrrolidine (EDDP) in meconium.",HP:0001939,1,Synonym
+HP:0032204,"Chronic active Epstein-Barr virus (EBV) infection is an uncommon outcome of EBV infection and may present as a waxing and waning or fulminant syndrome. Unlike acute infectious mononucleosis, wherein EBV establishes lifelong infection and survives by maintaining a delicate balance with the host as a latent infection, in chronic active EBV infection the host-virus balance is disturbed.",HP:0002715,1,Synonym
+HP:0032941,Intense or prolonged psychological distress at exposure to internal or external cues that symbolize or resemble an aspect of the traumatic event or events.,HP:0000707,2,Synonym
+HP:0010964,Any deviation from the normal concentration of a long-chain fatty acid in the blood circulation.,HP:0001939,5,Definition
+HP:0001394,A chronic disorder of the liver in which liver tissue becomes scarred and is partially replaced by regenerative nodules and fibrotic tissue resulting in loss of liver function.,HP:0025031,6,Definition
+HP:0031999,Crackles that occur during expiration.,HP:0002086,1,Synonym
+HP:0032114,An involuntary abnormality of fixation in which there is an abnormal saccade away from fixation followed by a delayed corrective saccade.,HP:0000478,0,Synonym
+HP:0001538,A thrusting or bulging out of the abdomen.,HP:0025031,7,Definition
+HP:0032366,"A positive result of the direct antiglobulin test (DAT), a method of demonstrating the presence of antibody or complement bound to red blood cell (RBC) membranes by the use of anti-human globulin to form a visible agglutination reaction.",HP:0002715,1,Definition
+HP:0001935,A kind of anemia in which the volume of the red blood cells is reduced.,HP:0001871,0,Synonym
+HP:0030670,A hamartoma (disordered proliferation of mature tissues) which can originate from any tissue of the orbital region.,HP:0000152,6,Synonym
+HP:0500094,"Latex allergy is an IgE-mediated immediate hypersensitivity response to natural rubber latex (NRL) protein with a variety of clinical signs ranging from contact urticaria, angioedema, asthma, and anaphylaxis.",HP:0002715,0,Synonym
+HP:0000348,An abnormally increased height of the forehead.,HP:0000152,4,Synonym
+HP:0030935,"A structural anomaly of the nonstriated, involuntary muscle tissue of the intestine.",HP:0025031,4,Definition
+HP:0012434,A failure to meet one or more age-related milestones of social behavior.,HP:0000707,7,Synonym
+HP:0011232,Elevated ridge(s) of skin starting well below the medial aspect of the lower lid that curves gradually upward toward and/or across the nasal bridge.,HP:0000152,5,Synonym
+HP:0003073,Reduction in the concentration of albumin in the blood.,HP:0001939,6,Synonym
+HP:0025552,Multiple red/purple spots on the skin that surrounds the eyes that do not blanch (whiten) upon pressure. Purpura is caused by subcutaneous bleeding.,HP:0000152,18,Synonym
+HP:0025268,"Disruptions in the production of speech sounds, with involuntary repetitions of words or parts of words, prolongations of speech sounds, or complete blockage of speech production for several seconds.",HP:0000707,4,Synonym
+HP:0006278,"The presence of pancreatic tissue outside the normal pancreas, in many cases along the foregut and proximal midgut.",HP:0025031,3,Definition
+HP:0011906,A reduction in the ratio of production of beta globin to that of alpha globin. This is the major abnormality in the various forms of beta thalassemia.,HP:0001871,2,Synonym
+HP:0012065,Presence of multiple cystic changes in multiple areas or multiple bones.,HP:0000924,7,Synonym
+HP:0410322,Hypersensitivity in form of an adverse immune reaction against bacteria.,HP:0002715,2,Synonym
+HP:0009738,An abnormality of the antihelix.,HP:0000598,1,Synonym
+HP:0030248,A clot that obstructs blood flow in a mesenteric vein (the superior and the inferior mesenteric vein drain blood from the small and large intestine).,HP:0001871,0,Synonym
+HP:0020221,"A clonic seizure is a type of motor seizure characterized by sustained rhythmic jerking, that is regularly repetitive.",HP:0000707,0,Synonym
+HP:0003468,An abnormality of one or more of the vertebrae.,HP:0000924,5,Synonym
+HP:0003474,"An abnormality of the primary sensation that is mediated by peripheral nerves (pain, temperature, touch, vibration, joint position). The word hypoesthesia (or hypesthesia) refers to a reduction in cutaneous sensation to a specific type of testing.",HP:0000707,1,Synonym
+HP:0032658,Status epilepticus with prominent motor signs during the prolonged seizure.,HP:0000707,0,Synonym
+HP:0031996,Crackles that are heard during the inspiratory phase.,HP:0002086,0,Synonym
+HP:0040189,"Refers to the loss of the outer layer of the epidermis in large, scale-like flakes.",HP:0001574,5,Definition
+HP:0001997,"Recurrent attacks of acute inflammatory arthritis of a joint or set of joints caused by elevated levels of uric acid in the blood which crystallize and are deposited in joints, tendons, and surrounding tissues.",HP:0000924,14,Synonym
+HP:0000587,Abnormality of the optic nerve.,HP:0000478,1,Definition
+HP:0012092,A functional anomaly of the acinar gland portion of the pancreas that secretes digestive enzymes.,HP:0025031,0,Definition
+HP:0006685,The presence of excessive connective tissue in the endocardium.,HP:0001626,2,Synonym
+HP:0032110,A severe reduction in the ability to perceive visual contrast characterized by 1.00 log unit or more contrast sensitivity loss.,HP:0000478,1,Synonym
+HP:0012218,"A type of soft tissue sarcoma with a histological appearance reminiscent of alveoli because of its reticulated fibrous stroma enclosing groups of sarcoma cells, which resemble epithelial cells and are enclosed in alveoli walled with connective tissue.",HP:0002664,0,Synonym
+HP:0001737,A cyst of the pancreas that possess a lining of mucous epithelium.,HP:0025031,6,Definition
+HP:0007011,Paralysis of the fourth cranial (trochlear) nerve manifested as weakness of the superior oblique muscle which causes vertical diplopia that is maximal when the affected eye is adducted and directed inferiorly.,HP:0000707,1,Synonym
+HP:0011114,An impairment in the production by leukocytes of NFKB1-dependent cytokines such as tumor necrosis factor-alpha and interferon-alpha.,HP:0002715,2,Definition
+HP:0011616,Mirror image arrangement of the mainstem bronchi with the right pulmonary artery posterior to the right upper lobe bronchus and the left pulmonary artery anterior to the left upper lobe bronchus.,HP:0002086,3,Definition
+HP:0011030,An abnormality of the homeostasis (concentration) of transition element cation.,HP:0001939,0,Definition
+HP:0031954,"Dystonic gait disorders frequently appear bizarre, particularly because activity increases dystonic tonus and posture. The abnormal posture of the foot in dystonic gait typically involves inversion, plantar flexion and tonic extension of the big toe. In many patients complex types of walking, such as walking backwards and running are paradoxically less impaired than walking forward and may seem completely unaffected. Sensory tricks, for instance, if the affected individual rests a hand on his or her neck, may improve or even normalize dystonic gait in some patients.",HP:0000707,4,Synonym
+HP:0410310,An abnormal form or size of neutrophils in the cerebrospinal fluid.,HP:0000707,12,Synonym
+HP:0003383,"Repeated episodes of segmental demyelination and remyelination lead to the accumulation of supernumerary Schwann cells around axons, which is referred to as onion bulb formation. This finding affects peripheral nerves.",HP:0000707,2,Synonym
+HP:0032492,Presence of antibodies in the serum that react against myelin oligodendrocyte glycoprotein.,HP:0002715,3,Synonym
+HP:0002304,Inability to initiate changes in activity or movement and to perform ordinary volitional movements rapidly and easily.,HP:0000707,4,Synonym
+HP:0007210,Muscular atrophy affecting the lower limb.,HP:0003011,0,Synonym
+HP:0031825,"Freezing of gait is defined as a brief, episodic absence or marked reduction of forward progression of the feet despite the intention to walk.",HP:0000707,6,Synonym
+HP:0032541,Knuckle pads are benign fibrofatty subcutaneous pads located over the proximal interphalangeal (PIP) joints that can be mistaken for arthritis. Rarely they affect the dorsal aspect of the metacarpophalangeal (MCP) joints. Clinically they are painless and often affect both hands in an asymmetrical pattern.,HP:0001574,9,Definition
+HP:0410337,Hypersensitivity in form of an adverse immune reaction against parasites.,HP:0002715,1,Definition
+HP:0001798,Aplasia of the nail.,HP:0001574,4,Definition
+HP:0008936,Muscular hypotonia (abnormally low muscle tone) affecting the musculature of the trunk.,HP:0003011,2,Synonym
+HP:0005341,Abnormal bladder function (increased urge or frequency of urination or urge incontinence) resulting from abnormal functioning of the autonomic nervous system.,HP:0000707,0,Synonym

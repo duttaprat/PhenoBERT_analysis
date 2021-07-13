@@ -1,0 +1,945 @@
+HPO_ID,Sentence,Ancestor,Rank,Remarks
+HP:0003762,A malformation of the uterus in which the uterus is present as a paired organ as a result of the failure of fusion of the mullerian ducts during embryogenesis.,HP:0000119,2,Synonym
+HP:0002868,Decreased width of the wing (or ala) of the ilium (which is the large expanded portion which bounds the greater pelvis laterally).,HP:0000924,7,Synonym
+HP:0031713,A form of divergent strabismus (exotropia) in which the eye turns outward at all distances and at all times.,HP:0000478,0,Definition
+HP:0001137,Esotropia in which either eye may be used for fixation.,HP:0000478,0,Definition
+HP:0006571,The presence of reduced numbers of intrahepatic bile duct than normal.,HP:0025031,6,Definition
+HP:0032710,A focal cognitive seizure with receptive dysphasia / aphasia characterized by retained awareness throughout the seizure.,HP:0000707,3,Synonym
+HP:0031136,"A reduced amount of the enzyme acrosin in the sperm head acrosome. The acrosome is an organelle in the anterior half of the head of spermatozoa, and acrosin is a protease that contributes to the digestation of the zona pellucida in the fertilization process.",HP:0000119,5,Synonym
+HP:0000136,The presence of a bifid uterus.,HP:0000119,3,Synonym
+HP:0032923,A type of focal automatism seizure in which awareness is partially or fully impaired at some point during the seizure and is characterized by the production of single or repetitive meaningless vocal sounds such as shrieks or grunts at onset.,HP:0000707,1,Synonym
+HP:0002599,A head tremor of moderate speed (3 to 4 Hz) in the anterior-posterior direction.,HP:0000707,5,Synonym
+HP:0030001,A condition in which the eyelids do not close to cover the eye completely.,HP:0000152,14,Synonym
+HP:0032798,A focal cognitive seizure with neglect characterized by impairment of awareness at some point during the seizure.,HP:0000707,3,Synonym
+HP:0031560,An abnormal communication between coronary artery and a cardiac chamber.,HP:0001626,0,Synonym
+HP:0430011,An abnormality of the palpebral conjunctiva.,HP:0000152,13,Synonym
+HP:0004757,Episodes of atrial fibrillation that typically last for several hours up to one day and terminate spontaneously.,HP:0001626,0,Synonym
+HP:0025522,Abnormal increased in length of the chordae tendinae of the mitral valve.,HP:0001626,0,Synonym
+HP:0032419,Any deviation from the normal concentration of the HDL2a subfraction in the blood circulation. An HDL2A particle is defined as an HDL particle with a size of 8.80-9.69 nm.,HP:0001939,4,Definition
+HP:0025448,Abnormally anterior location of the papillary muscles of the left ventricle.,HP:0001626,1,Synonym
+HP:0430007,A partial or complete adhesion of the palpebral conjunctiva of the eyelid to the bulbar conjunctiva of the eyeball.,HP:0000152,12,Synonym
+HP:0032761,A focal autonomic seizure with pallor / flushing characterized by retained awareness throughout the seizure.,HP:0000707,1,Synonym
+HP:0008672,The presence of calcium- and oxalate-containing calculi (stones) in the kidneys.,HP:0000119,0,Synonym
+HP:0012858,Decreased number or density of the folded ridges (wrinkles) of skin of the scrotum.,HP:0000119,4,Synonym
+HP:0000907,"Wide, concave anterior rib end.",HP:0000924,6,Synonym
+HP:0007793,Mottled (spotted or blotched with different shades) pigmentary abnormality of the macula lutea.,HP:0000478,2,Definition
+HP:0031055,"A deviance from the norm of the origin or course of the right brachiocephalic artery, the left common carotid artery, the left subclavian artery or the proximal vertebral arteries, whereby the aortic arch descends on the left as normal (as opposed to right aortic arch).",HP:0001626,0,Synonym
+HP:0032589,Infiltration of the renal tubular epithelium by lymphocytes.,HP:0000119,7,Synonym
+HP:0011625,A type of muscular ventricular septal defect characterized by the presence of multiple small defects in the ventricular septum.,HP:0001626,3,Synonym
+HP:0006608,Underdevelopment of the middle portion of the clavicle.,HP:0000924,7,Synonym
+HP:0010294,A fistula which connects the oral cavity and the pharyngeal area via the aspects of the soft palate.,HP:0000152,5,Synonym
+HP:0012512,A pale yellow discoloration of the entire optic disc.,HP:0000478,0,Synonym
+HP:0032081,A type of mucoid extracellular matrix accumulation in which the increase in mucoid extracellular matrix does not significantly alter the arrangement of the lamellar units.,HP:0001626,12,Synonym
+HP:0011589,The left common carotid artery has a common origin with the innominate artery.,HP:0001626,0,Synonym
+HP:0011963,"Absence of any measurable level of sperm in his semen, due to a hypothalamic or pituitary abnormality diagnosed with hypo-gonadotropic-hypogonadism. The diagnosis is made on the basis of low LH and FSH levels and low or normal testosterone levels.",HP:0000119,6,Synonym
+HP:0005181,Reduction of the diameter of the coronary arteries as the result of an accumulation of atheromatous plaques within the walls of the coronary arteries before age of 45.,HP:0001626,0,Synonym
+HP:0004606,A lack of ossification of the vertebral bodies.,HP:0000924,3,Synonym
+HP:0005605,Large hypermelanotic macules with jagged borders.,HP:0001574,19,Definition
+HP:0011151,Atypical absence status epilepticus is a type of generalized non-convulsive status epilepticus without coma that is semiologically a prolonged atypical absence seizure.,HP:0000707,0,Synonym
+HP:0011670,A persistent left superior vena cava (PLSVC) that drains into the right atrium via the coronary sinus. This is the case in 80-92% of cases of PLSVC and results in no hemodynamic consequence.,HP:0001626,0,Synonym
+HP:0004605,A lack of bone mineralization of the vertebral bodies.,HP:0000924,2,Synonym
+HP:0005104,Underdevelopment of the nasal septum.,HP:0000152,12,Synonym
+HP:0032799,A focal hemiclonic seizure in which awareness is impaired at some point during the seizure.,HP:0000707,3,Synonym
+HP:0003316,"In the orthopedic and radiological literature, sagittally cleft vertebra is generally known as a butterfly vertebra.",HP:0000924,3,Synonym
+HP:0012003,Affective auras with subjective qualities similar to those experienced in life but are recognized by the subject as occurring outside of actual context.,HP:0000707,6,Synonym
+HP:0000233,"Height of the vermilion of the medial part of the lip more than 2 SD below the mean, or apparently reduced height of the vermilion of the lip in the frontal view. The vermilion is the red part of the lips (and confusingly, the vermilion itself is also often referred to as being equivalent the lips).",HP:0000152,6,Synonym
+HP:0032750,Focal emotional seizure with laughing in which awareness is partially or fully impaired at some point during the seizure.,HP:0000707,3,Synonym
+HP:0008468,An abnormality related to a defect of vertebral separation of sacral vertebrae during development.,HP:0000924,3,Synonym
+HP:0031645,An eccentric abnormal localized widening (dilatation) of the abdominal aorta that involves only a portion of the circumference of the vessel wall.,HP:0001626,0,Synonym
+HP:0000059,Undergrowth of the outer labia.,HP:0000119,7,Definition
+HP:0002869,"Widening of the ilium ala, that is of the wing of the ilium, combined with external rotation, leading to a flared appearance of the iliac wing.",HP:0000924,11,Synonym
+HP:0032804,A focal sensory seizure with olfaction in which awareness is partially or fully impaired at some point during the seizure.,HP:0000707,3,Synonym
+HP:0500065,High risk patients who were in Zone 1 (no Plus or stage 3) or Zone 2 with Plus or stage 3 but not both.,HP:0000478,9,Synonym
+HP:0032796,A focal cognitive seizure with left-right confusion characterized by impairment of awareness at some point during the seizure.,HP:0000707,3,Synonym
+HP:0032800,"A seizure characterized by symptoms of dizziness, spinning, vertigo or sense of rotation.",HP:0000707,8,Synonym
+HP:0007021,Inability to perceive painful stimuli.,HP:0000707,5,Synonym
+HP:0000138,The presence of one or more cysts of the ovary.,HP:0000119,3,Synonym
+HP:0031680,"Type II atherosclerotic lesions include the fatty streak lesion, the first grossly visible lesion, and are characterized by layers of macrophage foam cells and lipid droplets within intimal smooth muscle cells and minimal coarse-grained particles and heterogeneous droplets of extracellular lipid.",HP:0001626,0,Synonym
+HP:0002866,Underdevelopment of the ilium ala.,HP:0000924,7,Synonym
+HP:0000189,Width of the palate more than 2 SD below the mean (objective) or apparently decreased palatal width (subjective).,HP:0000152,5,Synonym
+HP:0012741,Absence of a testis from the scrotum on one side owing to failure of the testis or testes to descend through the inguinal canal to the scrotum.,HP:0000119,0,Synonym
+HP:0025449,"Abnormal location of the insertion of the anterolateral papillary muscle near to the apex of the left ventricle. This feature may be appreciated by noting that this muscle is usually not seen in the apical level of the parasternal short-axis echocardiographic view,",HP:0001626,0,Synonym
+HP:0010693,A kind of congenital cataract that is characterized by a hollow sphere of punctate opacities involving the fetal nucleus and that usually occurs bilaterally.,HP:0000478,1,Definition
+HP:0030282,Radiolucent focal defect of the posterior portion of a rib shaft. The 'gaps' may lead to flail chest.,HP:0000924,18,Synonym
+HP:0030712,Adhesions or scar tissue that form inside the cavity of the uterus.,HP:0000119,4,Synonym
+HP:0004959,An abnormal localized widening (dilatation) of the descending thoracic aorta.,HP:0001626,0,Synonym
+HP:0006555,A diffuse form of hepatic steatosis.,HP:0025031,7,Definition
+HP:0011940,An abnormality of the shape of the thoracic vertebra T12 such that it is wedge-shaped (narrow towards the front).,HP:0000924,6,Synonym
+HP:0500070,"A conjuctival lesion composed of adipose tissue and dense connective tissue. Such choristomas of dermal elements are normally found at the outer canthus, and have a gelatinous appearance. Classically, there is an indistinct posterior border (with the lesion frequently extending into the orbit) and a well-demarcated anterior border several millimetres posterior to the limbus.",HP:0000152,9,Synonym
+HP:0011669,"A persistent left superior vena cava (PLSVC) that drains into the left atrium instead of the right atrium via the coronary sinus, resulting in a right to left sided shunt.",HP:0001626,0,Synonym
+HP:0030913,Marked rugae formation of the skin of the labia majora.,HP:0000119,10,Synonym
+HP:0000197,"Any abnormality of the parotid glands, which are the salivary glands that are located in the subcutaneous tissues of the face overlying the mandibular ramus and anterior and inferior to the external ear.",HP:0000152,2,Synonym
+HP:0031742,"Reduced movement by the inferior rectus muscle which improves on testing ductions, typically associated with neurogenic palsy.",HP:0000478,6,Synonym
+HP:0001084,"A hazy, grayish-white ring about 2 mm in width located close to but separated from the limbus (the corneoscleral junction). Corneal arcus generally occurs bilaterally, and is related to lipid deposition in the cornea. Corneal arcus can occur in elderly persons as a part of the aging process but may be associated with hypercholesterolemia in people under the age of 50 years.",HP:0000478,0,Synonym
+HP:0006606,"Irregular surface of the normally relatively smooth border between the distal part of the ribs and the costal cartilages, which are bars of hyaline cartilage that connect the ribs to the sternum.",HP:0000924,9,Synonym
+HP:0011588,The aortic arch extends into the soft tissues of the neck before turning down into to become the descending aorta.,HP:0001626,1,Synonym
+HP:0030505,"Clumped pigmentary changes of nummular appearance (i.e., thought to resemble the shape of a coin or multiple coins stuck together) at the level of the retinal pigment epithelium.",HP:0000478,0,Synonym
+HP:0004734,Cysts of microscopic size confined to the cortex of the kidney.,HP:0000119,4,Definition
+HP:0011666,"Absence of the right superior vena cava (RSVC). An absent RSVC is always associated with a persistent left superior vena cava (PLSVC). During normal fetal development, the left-sided anterior venous cardinal system regresses, leaving the coronary sinus (CS) and the ligament of Marshall. Failure of the closure of the left anterior cardinal vein results in PLSVC. In general, PLSVC is associated with the right superior vena cava (RSVC) and drains into the RA via a dilated CS. When developmental arrest occurs at an earlier stage, the CS is absent and the PLSVC drains into the left atrium.",HP:0001626,1,Synonym
+HP:0031909,"A uterus that has a single horn, with a banana-like shape that may or may not have a secondary rudimentary uterine horn.",HP:0000119,2,Synonym
+HP:0000200,The presence of an abnormally short lingual frenulum.,HP:0000152,2,Synonym
+HP:0003091,Trophic changes occurring in a limb.,HP:0000707,14,Synonym
+HP:0004607,Anterior tongue-like protrusions of the lower thoracic vertebral bodies.,HP:0000924,9,Synonym
+HP:0031122,"A type of bicuspid aortic valvue (BAV) characterized by the presence of two raphes that each extend from the commissure to the free edge of the two underdeveloped, conjoint cusps. This type of BAV has developmental anlagen of three cusps, commissures, and sinuses, but two commissures are more or less malformed and obliterated, giving rise to a raphe, a fibrous ridge, which extends from the commissure to the free edge of the two underdeveloped, conjoint cusps. This type of BAV is typically associated with a high degree of aortic stenosis.",HP:0001626,0,Synonym
+HP:0000122,A unilateral form of agenesis of the kidney.,HP:0000119,4,Definition
+HP:0032833,"A sudden flexion, extension, or mixed extension-flexion of predominantly proximal and truncal muscles that is usually more sustained than a myoclonic movement but not as sustained as a tonic seizure. Limited forms may occur: grimacing, head nodding, or subtle eye movements. May occur in clusters.",HP:0000707,0,Synonym
+HP:0020035,A lack of coordination of leg movement manifested by undershoot or overshoot of the intended position of the leg.,HP:0000707,7,Synonym
+HP:0032865,"Myoclonic absence status epilepticus is a type of generalized non-convulsive status epilepticus without coma that is semiologically a prolonged myoclonic absence seizure. Myoclonic absence status epilepticus consists of proximal, predominantly upper extremity myoclonic jerks corresponding with 3 Hz spike-wave discharges in the EEG.",HP:0000707,0,Synonym
+HP:0032028,"Yellow, white or greyish lesions in the macula that are well-defined/distinct, individual and mostly uniform in size.",HP:0000478,1,Synonym
+HP:0012110,Underdevelopment of the pons.,HP:0000707,4,Synonym
+HP:0032788,A focal autonomic seizure with palpitations / tachycardia / bradycardia / asystole characterized by impaired awareness at some point during the seizure.,HP:0000707,1,Synonym
+HP:0003417,Frontal schisis (cleft or cleavage) of vertebral bodies.,HP:0000924,11,Synonym
+HP:0032950,Abnormal structure or form of the lumen (opening) of kidney tubules.,HP:0000119,5,Synonym
+HP:0031830,A pinguecula is a yellowish to brown protruding lesion in the conjunctiva that is easily seen on the nasal and temporal sides of the cornea.,HP:0000152,13,Synonym
+HP:0031779,A type of cyclophoria (latent strabismus in which the occluded eye wheel-rotates on dissociation.) in which the upper poles of the globes are rotated outward (laterally) to each other.,HP:0000478,0,Definition
+HP:0010798,Increased focal pigmentation of the vermilion of the lips.,HP:0000152,14,Synonym
+HP:0025124,A tendency of teeth to fracture as manifested by a history of repeated fracture of the dental enamel without adequate trauma.,HP:0000152,10,Synonym
+HP:0002714,A morphological abnormality of the mouth in which the angle of the mouth is downturned. The oral commissures are positioned inferior to the midline labial fissure.,HP:0000152,6,Synonym
+HP:0030975,An abnormal curved or vaulted (capped) structure covering the middle third of the dorsal pontine tegmentum and projecting into the fourth ventricle.,HP:0000707,4,Synonym
+HP:0032091,"A type of aortic medial fibrosis in which the increase in collagen is more scar-like, altering the arrangement of the lamellar units.",HP:0001626,1,Synonym
+HP:0004573,An abnormality of the shape of the thoracic vertebra T11 such that it is wedge-shaped (narrow towards the front).,HP:0000924,8,Synonym
+HP:0005170,"A type of third degree heart block in which the escape rhythm arises at a relatively low part of the conduction system (below the atrioventricular node), which produces a wide QRS complex.",HP:0001626,0,Synonym
+HP:0008753,Absence of the epiglottis.,HP:0002086,7,Definition
+HP:0032870,A focal cognitive seizure with dyslexia / alexia characterized by impairment of awareness at some point during the seizure.,HP:0000707,5,Synonym
+HP:0008467,Absence of one half of the vertebral body in the thoracic spine.,HP:0000924,8,Synonym
+HP:0025093,A retinal exudate in the area surrounding the optic nerve head.,HP:0000478,0,Synonym
+HP:0008818,Increased size of the ilium ala.,HP:0000924,14,Synonym
+HP:0031751,"Reduced movement of the lateral rectus muscle which improves on testing ductions, typically associated with neurogenic palsy.",HP:0000478,6,Synonym
+HP:0006980,Leukoencephalopathy that gets more severe with time.,HP:0000707,3,Synonym
+HP:0500031,An elevation in bone density in one or more carpal bones of the hand.,HP:0000924,4,Synonym
+HP:0007351,A type of tremors that is triggered by holding an arm in a fixed position.,HP:0000707,3,Synonym
+HP:0100856,Decreased ossification of the vertebral bodies.,HP:0000924,3,Synonym
+HP:0030283,"Only part of the septum pellucidum (a thin, triangular, vertical membrane separating the lateral ventricles of the brain) is present. This feature can be appreciated on magnetic resonance tomography or computed tomography of the brain.",HP:0000707,4,Synonym
+HP:0000506,"Distance between the inner canthi more than two standard deviations above the mean (objective); or, apparently increased distance between the inner canthi.",HP:0000152,5,Synonym
+HP:0032874,A focal cognitive seizure with auditory agnosia characterized by impairment of awareness at some point during the seizure.,HP:0000707,5,Synonym
+HP:0007889,A type of posterior subcapsular cataract characterized by an iridescent color.,HP:0000478,0,Synonym
+HP:0032744,Focal emotional seizure with agitation in which awareness is retained throughout.,HP:0000707,3,Synonym
+HP:0008432,An abnormality of the shape of the lumbar vertebra L1 such that it is wedge-shaped (narrow towards the front).,HP:0000924,5,Synonym
+HP:0032785,A focal autonomic seizure with epigastric sensation / nausea / vomiting / other gastrointestinal phenomena characterized by retained awareness throughout the seizure.,HP:0000707,2,Synonym
+HP:0005174,Subvalvular stenosis is caused by a diaphragm-like membrane. The stenosis is clinically manifested like any other form of aortic stenosis but is often associated with some aortic insufficiency.,HP:0001626,0,Synonym
+HP:0001331,Absence of the septum pellucidum.,HP:0000707,11,Synonym
+HP:0007475,"An ichthyosiform abnormality of the skin that presents at birth or shortly thereafter with generalized erythema, blistering, erosions, and peeling. In the subsequent months, erythema and blistering improves but patients go on to develop hyperkeratotic scaling that is especially prominent along the joint flexures, neck, hands and feet.",HP:0001574,9,Definition
+HP:0032825,"Neonatal electro-clinical sequential motor seizure is a type of neonatal electro-clinical seizure where the predominant feature cannot be detected because of seizures presenting with a variety of clinical and electrographic signs, often changing lateralization within or between seizures.",HP:0000707,1,Synonym
+HP:0032599,"Any structural anomaly of the renal tubular epithelial cells (RTEC), a layer of cells in the outer layer of the renal tubule. These cells play a role in the absorption of substances such as glucose and amino from the primary urine.",HP:0000119,3,Synonym
+HP:0011529,Sharply demarcated hyperpigmentation which is congenital.,HP:0000478,6,Synonym
+HP:0410026,Any abnormality of the periodontium.,HP:0000152,11,Synonym
+HP:0032821,"Neonatal electro-clinical tonic seizure is a type of neonatal electro-clinical motor seizure where the predominant motor feature is a sustained increase in muscle tone, usually focal, that can be unilateral or bilateral, and lasting a few seconds to minutes.",HP:0000707,1,Synonym
+HP:0000125,A developmental defect in which a kidney is located in an abnormal anatomic position within the pelvis.,HP:0000119,3,Synonym
+HP:0011149,An absence with eyelid myoclonia seizure is a type of generalized non-motor (absence) seizure characterised by forced upward jerking of the eyelids during an absence seizure.,HP:0000707,1,Synonym
+HP:0011207,Generalized slowing of EEG activity at frequencies between 4-7 Hz.,HP:0000707,1,Synonym
+HP:0032781,A focal autonomic seizure with urge to urinate / defecate characterized by retained awareness throughout the seizure.,HP:0000707,3,Synonym
+HP:0012679,"An increase in the distance between vertebral pedicles, which are the two short, thick processes, which project backward, one on either side, from the upper part of the vertebral body, at the junction of its posterior and lateral surfaces.",HP:0000924,5,Synonym
+HP:0003566,An increased concentration of prostaglandin E2 in the blood.,HP:0001939,8,Synonym
+HP:0007867,Fibrosis of only some of the external ocular muscles such that the eyes of affected individuals are partially or completely fixed in a strabismic position.,HP:0000478,0,Definition
+HP:0500063,As vascular abnormalities of the posterior pole that are insufficient for the diagnosis of plus disease but that demonstrate more arterial tortuosity and more venous dilatation than normal.,HP:0000478,9,Synonym
+HP:0012170,Habitual biting of one's own fingernails.,HP:0000707,11,Synonym
+HP:0000168,Any abnormality of the gingiva (also known as gums).,HP:0000152,2,Synonym
+HP:0000676,An abnormality of the Incisor tooth.,HP:0000152,4,Synonym
+HP:0006619,Deposition of calcium salts in point-like foci within the anterior portion of one or more ribs.,HP:0000924,11,Synonym
+HP:0005121,An excessive concavity of the posterior surface of one or more vertebral bodies.,HP:0000924,6,Synonym
+HP:0012421,"Congenital lack of the skin of prepuce of penis, that is, of the double-layered fold of skin and mucous membrane that covers the glans penis.",HP:0000119,2,Synonym
+HP:0008020,Inherited progressive cone degeneration.,HP:0000478,4,Synonym
+HP:0012580,The presence of calcium- and phosphate-containing calculi (stones) in the kidneys.,HP:0000119,1,Synonym
+HP:0012584,Two sided hypoplasia of the kidney.,HP:0000119,4,Synonym
+HP:0007799,The presence of whitish deposits in the conjunctiva resembling salt. May be related to calcinosis.,HP:0000152,17,Synonym
+HP:0007988,Decreased amount of pigmentation in the macula lutea.,HP:0000478,1,Synonym
+HP:0041050,Tubular lumnal dilatation/prominence lined by simple layer of cuboidal-to-flat tublar epihelial cells.,HP:0000119,5,Synonym
+HP:0008824,Underdevelopment of the body of ilium.,HP:0000924,9,Synonym
+HP:0007230,A reduction in the amplitude of sensory nerve action potential in distal nerve segments. This feature is measured by nerve conduction studies.,HP:0000707,2,Synonym
+HP:0031679,Type I lesions represent the very initial changes and are recognized as an increase in the number of intimal macrophages and the appearance of macrophages filled with lipid droplets (foam cells).,HP:0001626,0,Synonym
+HP:0011037,A decreased rate of urine production.,HP:0000119,3,Definition
+HP:0000191,Extra fold of tissue extending from the alveolar ridge to the inner surface of the upper or lower lip.,HP:0000152,3,Synonym
+HP:0031422,Any structural anomaly of the cortex of the cerebellum.,HP:0000707,2,Synonym
+HP:0031716,A type of exotropia (divergent strabismus) in which binocular single vision alternates with large angle exotropia in rhythmic cycle.,HP:0000478,0,Synonym
+HP:0004764,"Myxomatous mitral valve is defined as the presence of excess leaflet tissue and leaflet thickening greater than 5 mm, resulting in a prolapse greater than 2 mm into the left atrium on parasternal long axis view.",HP:0001626,0,Synonym
+HP:0041087,A fracture of the lumbar vertebra that is caused by a loss of bone mass (osteoporosis) that occurs as part of aging.,HP:0000924,4,Synonym
+HP:0000286,"A fold of skin starting above the medial aspect of the upper eyelid and arching downward to cover, pass in front of and lateral to the medial canthus.",HP:0000152,8,Synonym
+HP:0032688,A focal cognitive seizure with dissociation characterized by retained awareness throughout the seizure.,HP:0000707,3,Synonym
+HP:0008060,Congenital absence or underdevelopment of the fovea centralis.,HP:0000478,1,Definition
+HP:0032814,Neonatal electro-clinical clonic seizure is a type of neonatal electro-clinical motor seizure where the predominant motor feature is a regularly repeating jerking involving the same muscle groups; it can be symmetric or asymmetric.,HP:0000707,2,Synonym
+HP:0032926,A type of focal automatism in which awareness is partially or fully impaired at some point during the seizure and is seizure characterized by involuntary head nodding at onset.,HP:0000707,0,Synonym
+HP:0009790,"A hemisacral defect involving the sacral vertebrae S2 to S5. In hemisacrum, the first sacral vertebra is intact and there is agenesis involving only S2-S5.",HP:0000924,4,Synonym
+HP:0011569,Cleft in the anterior mitral valve leaflet not associated with an atrioventricular canal defect.,HP:0001626,2,Synonym
+HP:0032861,Focal non-convulsive status epilepticus with impairment of consciousness is a type of focal non-convulsive status epilepticus in which awareness is impaired.,HP:0000707,0,Synonym
+HP:0006329,Underdevelopment of the alveolar process (also known as alveolar bone).,HP:0000152,12,Synonym
+HP:0002500,An abnormality of the cerebral white matter.,HP:0000707,3,Synonym
+HP:0031758,Mechanical limitation of the range of movement of the lateral rectus muscle.,HP:0000478,5,Definition
+HP:0032822,"Neonatal electro-clinical non-motor autonomic seizure is a type of neonatal electro-clinical seizure with predominant features of autonomic alterations, involving cardiovascular, pupillary, gastrointestinal, sudomotor, vasomotor, and thermoregulatory functions. May present as apnea.",HP:0000707,4,Synonym
+HP:0000013,Underdevelopment of the uterus.,HP:0000119,2,Synonym
+HP:0011639,"Right coronary artery begins (branches off from) the pulmonary artery rather than as normal from the root of the aorta, above the right cusp of the aortic valve.",HP:0001626,0,Synonym
+HP:0011061,An abnormality of the structure or composition of the teeth.,HP:0000152,4,Synonym
+HP:0031747,"Reduced movement of the superior rectus muscle which improves on testing ductions, typically associated with neurogenic palsy.",HP:0000478,5,Synonym
+HP:0000813,The presence of a bicornuate uterus.,HP:0000119,2,Synonym
+HP:0003173,"Underdevelopment of the pubis, which together with the ilium and the ischium, is one of the three bones that make up the hip bone.",HP:0000924,4,Synonym
+HP:0030915,Swelling from fluid accumulation (serous fluid infiltration into the interstitial space) in the cerebellum.,HP:0000707,3,Synonym
+HP:0032782,A focal autonomic seizure with lacrimation characterized by impaired awareness at some point during the seizure.,HP:0000707,2,Synonym
+HP:0005619,Hyperconvexity of the thoracolumbar spine producing a rounded or humped appearance.,HP:0000924,10,Synonym
+HP:0012008,"Auras with an alteration of actual percepts involving the visual, auditory, somatosensory, olfactory or gustatory systems.",HP:0000707,6,Synonym
+HP:0010791,Hypertrophy or overdevelopment of the interstitial (Leydig) cells of the testis. These cells produce testosterone.,HP:0000119,4,Synonym
+HP:3000066,An abnormality of a lacrimal sac.,HP:0000152,9,Synonym
+HP:0008716,The presence of a fistula between the vagina and the urethra.,HP:0000119,0,Synonym
+HP:0030496,Yellow-white intraretinal deposits in the macula typically associated with damaged outer blood-retina barrier and exudation of serous fluid and lipids from the retinal microvasculature.,HP:0000478,0,Synonym
+HP:0011981,Gallstones composed primarily of bilirubin and calcium salts (calcium bilirubinate) with a low cholesterol concentration.,HP:0025031,2,Definition
+HP:0012516,An extreme form of tetralogy of Fallot characterized by absence of flow from the right ventricle to the pulmonary arteries.,HP:0001626,0,Synonym
+HP:0012463,An above normal level of saturation of serum transferrin with iron.,HP:0001939,3,Synonym
+HP:0006292,An abnormality of tooth eruption.,HP:0000152,3,Synonym
+HP:0012435,Reduction in length of the ventral (lower) skin of prepuce of penis.,HP:0000119,3,Synonym
+HP:0008808,Increased height of the wing (or ala) of the ilium (which is the large expanded portion which bounds the greater pelvis laterally).,HP:0000924,7,Synonym
+HP:0007033,The presence of dysplasia (abnormal growth or development) of the cerebellum. Cerebellar dysplasia is a neuroimaging finding that describes abnormalities of both the cerebellar cortex and white matter and is associated with variable neurodevelopmental outcome.,HP:0000707,3,Synonym
+HP:0030501,Crystalline deposits in the macula.,HP:0000478,1,Synonym
+HP:0000060,Developmental hypoplasia of the clitoris.,HP:0000119,3,Definition
+HP:0012078,Blockade of impulses at a focal site along the course of a motor axon.,HP:0000707,1,Synonym
+HP:0032769,An autonomic seizure with hypoventilation / hyperventilation / altered respiration characterized by retained awareness throughout the seizure.,HP:0000707,1,Synonym
+HP:0030126,An anomaly of the inner mucous membrane of the uterus.,HP:0000119,2,Definition
+HP:0000558,"A congenital malformation of the anterior segment characterized by iridicorneal malformation, glaucoma, iris stroma hypoplasia, posterior embryotoxon, and corneal opacities.",HP:0000478,1,Synonym
+HP:0011205,Non-continuous diffuse slowing of electroencephalographic patterns.,HP:0000707,1,Synonym
+HP:0032863,Typical absence status epilepticus is a type of generalized non-convulsive status epilepticus without coma that is semiologically a prolonged typical absence seizure.,HP:0000707,0,Synonym
+HP:0012007,"Auras with creation of composite perceptions without corresponding external stimuli involving visual, auditory, somatosensory, olfactory and/or gustatory phenomena.",HP:0000707,5,Synonym
+HP:0032897,A focal sensory seizure with gustatory features in which awareness is partially or fully impaired at some point during the seizure.,HP:0000707,2,Synonym
+HP:0030499,"Drusen (singular, 'druse') are tiny yellow or white accumulations of extracellular material (lipofuscin) that build up in Bruch's membrane of the eye. This class refers to the presence of Drusen in the macula.",HP:0000478,0,Synonym
+HP:0025010,Partial or complete loss of foveal tissue that was once present.,HP:0000478,2,Definition
+HP:0025098,Structural abnormality of the hypothalamus related to defective development.,HP:0000707,4,Synonym
+HP:0030809,Any structural anomaly of the tongue.,HP:0000152,1,Synonym
+HP:0030934,"A velvety red but not ulcerated lesion of the oral mucosa. The texture may be roughened or normal, and the lesion is neither raised nor depressed.",HP:0000152,12,Synonym
+HP:0004630,Anterior tongue-like protrusions of thoracic vertebral bodies.,HP:0000924,12,Synonym
+HP:0031757,Mechanical limitation of the range of movement of the medial rectus muscle.,HP:0000478,12,Synonym
+HP:0030009,A cervix that shows a painless dilation and shortening during the second trimester of pregnancy with resultant recurrent pregnancy loss or delivery is considered incompetent,HP:0000119,3,Synonym
+HP:0500062,"Venous dilatation and arteriolar tortuosity of the posterior retinal vessels and may later increase in severity to include iris vascular engorgement, poor pupillary dilatation (rigid pupil), and vitreous haze. This definition has been further refined in the later clinical trials in which the diagnosis of plus disease could be made if sufficient vascular dilatation and tortuosity are present in at least 2 quadrants of the eye.",HP:0000478,0,Synonym
+HP:0032783,A focal autonomic seizure with piloerection (bristling of hairs due to the involuntary contraction of small muscles at the base of hair follicles) characterized by retained awareness throughout the seizure.,HP:0000707,0,Synonym
+HP:0025146,"Deterioration of the tissue of the fovea, i.e.,the region of sharpest vision within the macula of the retina.",HP:0000478,0,Definition
+HP:0031609,Sharply demarcated area of partial or complete depigmentation of the fundus reflecting atrophy of the retinal pigment epithelium with associated retinal photoreceptor loss. The margins of the de-pigmented area are usually scalloped and the large choroidal vessels are visible through the atrophic retinal pigment epithelium.,HP:0000478,0,Synonym
+HP:0009903,Presence of nodules in the conjunctiva of the eye.,HP:0000152,6,Synonym
+HP:0004617,Butterfly vertebrae have a cleft through the body of the vertebrae and a funnel shape at the ends.,HP:0000924,7,Synonym
+HP:0032823,"Neonatal electro-clinical non-motor seizure with behavior arrest is a type of neonatal electro-clinical seizure characterized by an arrest of activities, freezing, immobilization, with or without apnea and/or other autonomic manifestations.",HP:0000707,1,Synonym
+HP:0032889,"A seizure characterized by taste phenomena including acidic, bitter, salty, sweet, or metallic tastes.",HP:0000707,7,Synonym
+HP:0031486,An anomaly of blood vessels located in the lip.,HP:0000152,10,Synonym
+HP:0025101,Structural abnormality of the hippocampus related to defective development.,HP:0000707,5,Synonym
+HP:0030946,Raised tissue masses located on the palpebral conjunctiva with a central vessel. Papillae are created by a focal infiltration of inflammatory cells.,HP:0000152,10,Synonym
+HP:0500061,Retinopathy which is a residual crescent of retina anterior to zone II.,HP:0000478,2,Synonym
+HP:0011208,Generalized slowing of EEG activity at frequencies between 0.5-3 Hz.,HP:0000707,1,Synonym
+HP:0002635,"In type IV atherosclerotic lesions a dense accumulation of extracellular lipid occupies an extensive but well-defined region of the intima. This type of extracellular lipid accumulation is known as the lipid core. A fibrous tissue increase is not a feature, and complications such as defects of the lesion surface and thrombosis are not present. The type IV lesion is also known as atheroma. Type IV is the first lesion considered advanced in this classification because of the severe intimal disorganization caused by the lipid core. The characteristic core appears to develop from an increase and the consequent confluence of the small isolated pools of extracellular lipid that characterize type III lesions. The increase in lipid is believed to result from continued insudation from the plasma. Type IV lesions, when they first appear in younger people, are found in the same locations as adaptive intimal thickenings of the eccentric type. Thus, atheroma is, at least initially, an eccentric lesion.",HP:0001626,0,Synonym
+HP:0012020,Aorta descends on right instead of on the left.,HP:0001626,0,Synonym
+HP:0010697,A type of anterior polar cataract which projects as a conical opacity into the anterior chamber.,HP:0000478,0,Synonym
+HP:0006872,Underdevelopment of the cerebrum.,HP:0000707,3,Synonym
+HP:0032886,A focal cognitive seizure with expressive dysphasia / aphasia characterized by impairment of awareness at some point during the seizure.,HP:0000707,3,Synonym
+HP:0005233,The presence of a hypoplastic gallbladder.,HP:0025031,4,Definition
+HP:0030042,Failure to complete ossification (maturation and calcification) of the pubic bone.,HP:0000924,4,Synonym
+HP:0005381,"Recurrent infections by Neisseria meningitidis (one of the most common causes of bacterial meningitis), which is also known as meningococcus.",HP:0002715,4,Definition
+HP:0007401,"Well-demarcated area(s) of partial or complete depigmentation in the macula, reflecting atrophy of the retinal pigment epithelium with associated retinal photoreceptor loss.",HP:0000478,0,Synonym
+HP:0011654,"A double outlet right ventricle with a non-committed ventricular septal defect (VSD), which is a VSD that is anatomically related to, or close to, neither great vessel, being separated from both by considerable muscle, but there is not accompanying pulmonary stenosis; the abnormal narrowing or constriction of the pulmonary artery, in the main pulmonary artery and/or in the left or right pulmonary artery branches.",HP:0001626,1,Synonym
+HP:0010841,An abnormality in cerebral electrical activity recorded along the scalp by electroencephalography (EEG) and being identified at multiple locations (foci).,HP:0000707,2,Synonym
+HP:0031766,An intermittent esotropia with binocular single vision present at distance fixation but esotropia on accommodation for near fixation. Usually associated with hypermetropia but patients can be emmetropic and rarely myopic. Associated with a high accommodative convergence/accommodation (AC/A) ratio.,HP:0000478,0,Synonym
+HP:0008822,"Underdevelopment of the ischiopubic ramus, which is comprised of the inferior pubic ramus and the inferior ramus of the ischium.",HP:0000924,8,Synonym
+HP:0002126,Polymicrogyria is a congenital malformation of the cerebral cortex characterized by abnormal cortical layering (lamination) and an excessive number of small gyri (folds).,HP:0000707,3,Synonym
+HP:0000687,Increased spaces (diastemata) between most of the teeth in the same dental arch.,HP:0000152,6,Synonym
+HP:0000172,"Abnormality of the uvula, the conic projection from the posterior edge of the middle of the soft palate.",HP:0000152,3,Synonym
+HP:0200005,The presence of an abnormal shape of the palpebral fissure.,HP:0000152,8,Synonym
+HP:0004722,Increase in thickness of the basal lamina of the glomerulus of the kidney.,HP:0000119,10,Synonym
+HP:0032955,"Renal ltubular nuclear inclusions have a ground-glass appearance with irregular central clearing, or a coarse, vesicular appearance. Distal tubules are involved more often than proximal tubules. There may be only medullary involvement in early stages, and parietal epithelial cells may be involved in later stages of the infection. Infected epithelial cell nuclei stain with antibody to the large T antigen of the SV40 virus, which serves as a surrogate marker of human polyomavirus infection.",HP:0000119,4,Synonym
+HP:0011339,"An abnormality of the vermilion border, the sharp demarcation between the lip (red colored) and the adjacent normal skin.",HP:0000152,12,Synonym
+HP:0100275,Diffuse unlocalised atrophy affecting the cerebellum.,HP:0000707,3,Synonym
+HP:0011064,The presence of an altered number of the incisor teeth.,HP:0000152,6,Synonym
+HP:0008477,"Decreased ossification of the cervical vertebral bodies, i.e., of the Cervical vertebrae set.",HP:0000924,3,Synonym
+HP:0012729,An eccentric abnormal localized widening (dilatation) of the descending thoracic aorta that involves only a portion of the circumference of the vessel wall,HP:0001626,0,Synonym
+HP:0000699,Increased space between two adjacent teeth in the same dental arch.,HP:0000152,3,Synonym
+HP:0032824,"Neonatal focal tonic seizure is a type of neonatal electro-clinical tonic seizure with a focal sustained increase in muscle tone, lasting a few seconds to minutes.",HP:0000707,1,Synonym
+HP:0032423,A reduction below the normal concentration of the HDL2b subfraction in the blood circulation. An HDL2b particle is defined as an HDL particle with a size of 9.7-12 nm.,HP:0001939,3,Definition
+HP:0007227,"Increased size of cerebral gyri, often associated with a moderate reduction in the number of sulci of the cerebrum.",HP:0000707,4,Synonym
+HP:0001970,A form of inflammation of the kidney affecting the interstitium of the kidneys surrounding the tubules.,HP:0000119,4,Synonym
+HP:0032606,"Presence of increased amount of lipofuscin, a yellow, granular cytoplasmic pigment in the renal tubules.",HP:0000119,5,Synonym
+HP:0008278,Atrophy (wasting) of the cerebellar cortex.,HP:0000707,3,Synonym
+HP:0006316,"Irregular distribution of the teeth along the dental arch, i.e., and irregular spatial pattern of teeth.",HP:0000152,2,Synonym
+HP:0012886,An abdominal mass formed by bleeding into a follicular ovarian cyst or corpus luteum cyst.,HP:0000119,5,Synonym
+HP:0032820,"Neonatal focal clonic seizure is a type of neonatal electro-clinical clonic seizure where the predominant motor feature is a regularly repeating jerking involving the same muscle groups, which occurs at multiple sites.",HP:0000707,1,Synonym
+HP:0011193,EEG with focal sharp transient waves of a duration less than 80 msec.,HP:0000707,1,Synonym
+HP:0025350,Conjunctival papillae with a diameter greater than 1 millimeter. They characteristically have flattened tops which sometimes demonstrate staining with fluorescein.,HP:0000152,12,Synonym
+HP:0006999,Focal proliferation of glial cells in the basal ganglia.,HP:0000707,3,Synonym
+HP:0010296,"Short or anteriorly attached lingual frenulum, associated with limited mobility of the tongue.",HP:0000152,3,Synonym
+HP:0002436,A herniation of meninges through a congenital bone defect in the skull in the occipital region.,HP:0000707,3,Synonym
+HP:0006357,Premature loss of the permanent teeth.,HP:0000152,13,Synonym
+HP:0006892,"Atrophy (wasting, decrease in size of cells or tissue) affecting the frontotemporal cerebrum.",HP:0000707,3,Synonym
+HP:0010994,"Abnormality of the striatum, which is the largest nucleus of the basal ganglia, comprising the caudate, putamen and ventral striatum, including the nucleus accumbens.",HP:0000707,3,Synonym
+HP:0032421,A reduction below the normal concentration of the HDL2a subfraction in the blood circulation. An HDL2A particle is defined as an HDL particle with a size of 8.80-9.69 nm.,HP:0001939,3,Definition
+HP:0008038,Absence or underdevelopment of the lacrimal gland.,HP:0000152,11,Synonym
+HP:0025012,"Diffusely widened perivascular spaces in the basal ganglia, affecting especially the corpus striatum. Status cribrosum is usually symmetrical, with the perivascular spaces showing CSF signal and without diffusion restriction. The word cribriform means sievelike, with multiple perforations.",HP:0000707,1,Synonym
+HP:0010299,Any abnormality of dentin.,HP:0000152,4,Synonym
+HP:0000685,Developmental hypoplasia of teeth.,HP:0000152,4,Synonym
+HP:0200007,An abnormal size of the palpebral fissures for example unusually long or short palpebral fissures.,HP:0000152,10,Synonym
+HP:0000220,Inability of velopharyngeal sphincter to sufficiently separate the nasal cavity from the oral cavity during speech.,HP:0000152,7,Synonym
+HP:0002571,A disorder of esophageal motility characterized by the inability of the lower esophageal sphincter to relax during swallowing and by inadequate or lacking peristalsis in the lower half of the body of the esophagus.,HP:0025031,0,Definition
+HP:0000212,"Hyperplasia of the gingiva (that is, a thickening of the soft tissue overlying the alveolar ridge. The degree of thickening ranges from involvement of the interdental papillae alone to gingival overgrowth covering the entire tooth crown.",HP:0000152,8,Synonym
+HP:0010851,"The burst suppression pattern in electroencephalography refers to a characteristic periodic pattern of low voltage (<10 microvolts) suppressed background and a relatively shorter pattern of higher amplitude slow, sharp, and spiking complexes.",HP:0000707,1,Synonym
+HP:0011192,Focal epileptiform discharges of different shapes and frequencies.,HP:0000707,2,Synonym
+HP:0007007,The formation of small cavities in the tissue of the basal ganglia.,HP:0000707,1,Synonym
+HP:0032830,"Neonatal seizure with bilateral asymmetric automatism is a type of neonatal electro-clinical seizure where the electrographic event is correlated with coordinated motor activity, typically oral, usually with impaired awareness, occurring at both sides of the body asymmetrically.",HP:0000707,1,Synonym
+HP:0011200,Generalized epileptiform discharges of different shapes and frequencies.,HP:0000707,1,Synonym
+HP:0032030,"Laxity of the tendon stabilising the lateral aspect of the tarsal plate to the zygomatic bone. This can result in rounded appearence of the lateral canthus. Also, when the eyelid is pulled medially, more than 2 mm movement of the canthal angle may be observed.",HP:0000152,13,Synonym
+HP:0000092,"The presence of renal tubules with thick redundant basement membranes, or a reduction of greater than 50% in tubular diameter compared to surrounding non-atrophic tubules.",HP:0000119,5,Synonym
+HP:0032953,"Characteristic intranuclear glassy-appearing basophilic inclusions with surrounding halo (owl's eye-type inclusion) and marked increase in the size of the cell (cytomegaly), particularly in tubular epithelial cells and in endothelial cells. Often accompanied by cytopathic changes including patchy interstitial pleomorphic infiltrate with lymphocytes, plasma cells, and macrophages.",HP:0000119,8,Synonym
+HP:0004635,Fusion of the C5 and C6 cervical vertebrae.,HP:0000924,10,Synonym
+HP:0032428,An elevation above the normal concentration of the HDL3a subfraction in the blood circulation. An HDL3a particle is defined as an HDL particle with a size of 8.2-8.79 nm.,HP:0001939,3,Definition
+HP:0032647,"Increased apoptosis (programmed cell death) of tubular epithelial cells. The cells arre rounded with increased eosinophilia and contain fragmented, densely basophilic nuclear debris.",HP:0000119,6,Synonym
+HP:0012788,A net-like pattern of increased pigmentation of the oral cavity.,HP:0000152,15,Synonym
+HP:0002705,The presence of a high and narrow palate.,HP:0000152,5,Synonym
+HP:0032034,Abnormally lax upper eyelid associated with tissue relaxation.,HP:0000152,17,Synonym
+HP:0031736,"An abnormal inversion of the eyelid towards the globe resulting from inferior retractor muscle dysfunction with tissue laxity and, possibly, overriding of the preseptal orbicularis muscle over the pretarsal orbicularis muscle.",HP:0000152,23,Synonym
+HP:0032834,"Neonatal seizure with bilateral asymmetric automatisms is a type of neonatal electro-clinical seizure where the electrographic event is correlated with a coordinated motor activity, typically oral, usually with impaired awarness, occurring at one side of the body.",HP:0000707,1,Synonym
+HP:0030318,A type of inflammation of the lips involving one or both of the corners of the mouth.,HP:0000152,7,Synonym
+HP:0032433,A reduction below the normal concentration of the HDL3c subfraction in the blood circulation. An HDL3c particle is defined as an HDL particle with a size of 7.20-7.79 nm.,HP:0001939,3,Definition
+HP:0011195,EEG with focal sharp transient waves of a duration between 80 and 200 msec followed by a slow wave.,HP:0000707,2,Synonym
+HP:0007780,"A type of cataract characterized by punctate, dust-like opacities within the cortical region of the lens.",HP:0000478,0,Synonym
+HP:0011073,A developmental defect of tooth color.,HP:0000152,13,Synonym
+HP:0030798,"The stria terminalis is a slender, compact fiber bundle that connects the amygdala (amygdaloid body) with the hypothalamus and other basal forebrain regions. The bed nucleus of the stria terminalis is a limbic forebrain structure that receives heavy projections from, among other areas, the basolateral amygdala, and projects in turn to hypothalamic and brainstem target areas that mediate many of the autonomic and behavioral responses to aversive or threatening stimuli. This term refers to an anomaly of the bed nucleus.",HP:0000707,5,Synonym
+HP:0007820,Congenital absence or closure of the opening of the lacrimal punctum.,HP:0000152,5,Synonym
+HP:0030710,A form of closed neural tube defect in which the spinal tissue lies within the spinal cord having a junction between the spinal cord and the lipoma. Intact skin covers the defect. Neurologic findings first appear during the second year of life.,HP:0000707,2,Synonym
+HP:0032046,"A type of malformation of cortical development that primarily affects areas of neocortex. It can be identified on conventional magnetic resonance imaging as focal cortical thickening, abnormal gyration, and blurring between gray and white matter, often associated with clusters of heterotopic neurons.",HP:0000707,5,Synonym
+HP:0045007,"A structural anomaly of the substantia nigra, which is a midbrain dopaminergic nucleus which has a critical role in modulating motor movement and reward functions as part of the basal ganglia circuitry.",HP:0000707,2,Synonym
+HP:0005583,DIsruption and breaking up of the basement membrane of the tubules of the kidney.,HP:0000119,7,Definition
+HP:0012473,Wasting of the tongue.,HP:0000152,5,Synonym
+HP:0020132,Increase in thickness of the basement membrane of the tubulus of the kidney.,HP:0000119,9,Definition
+HP:0011801,Increased size of the parotid gland.,HP:0000152,6,Synonym
+HP:0032817,"Neonatal focal myoclonic seizure is a type of neonatal electro-clinical motor seizure where the predominant motor feature is sudden, brief (<100 msec) involuntary single or multiple contraction of muscles or muscle groups of variable topography (axial, proximal limb, distal) which occurs focally.",HP:0000707,2,Synonym
+HP:0011645,"Abnormal outpouching or sac-like dilatation of one of the anatomic dilations of the ascending aorta, which occurs just above the aortic valve.",HP:0001626,0,Synonym
+HP:0031490,A vascular malformation located in the lip that is related to vascular endothelial cell hyperplasia.,HP:0000152,10,Synonym
+HP:0007948,A type of posterior cortical cataract characterized by dense lenticular opacities.,HP:0000478,0,Synonym
+HP:0031120,"A type of bicuspid aortic valve (BAV) characterized by a single raphe between the right and noncoronary cusps (RN fusion pattern). This results in two leaflets with right-left leaflet orientation (also called the atypical pattern). There is thus one completely developed left cusp, two completely developed commissures, and one raphe between the underdeveloped right and noncoronary coronary cusps extending to the corresponding malformed commissure.",HP:0001626,0,Synonym
+HP:0008473,An abnormal reduction of the anterioposterior diameter of the vertebral body.,HP:0000924,4,Synonym
+HP:0032432,An elevation above the normal concentration of the HDL3c subfraction in the blood circulation. An HDL3c particle is defined as an HDL particle with a size of 7.20-7.79 nm.,HP:0001939,3,Definition
+HP:0011186,Focal epileptiform discharges with spreading to contralateral hemisphere but without secondary generalization.,HP:0000707,2,Synonym
+HP:0011094,Maxillary teeth cover the mandibular teeth when biting to an increased degree.,HP:0000152,3,Synonym
+HP:0010281,A gap in the lower lip.,HP:0000152,8,Synonym
+HP:0032818,Neonatal focal clonic seizure is a type of neonatal electro-clinical clonic seizure where the predominant motor feature is unilateral regularly repeating jerking involving the same muscle groups.,HP:0000707,1,Synonym
+HP:0032059,A malformation of cortical development characterized by mild abnormalities of the cortex: excessive heterotopic neurons in Layer 1 or microscopic neuronal clusters or excess of single neurons of normal morphology in deep white matter.,HP:0000707,4,Synonym
+HP:0007263,Atrophy affecting the cerebellum and the spinocerebellar tracts of the spinal cord.,HP:0000707,3,Synonym
+HP:0012000,EEG with generalized sharp transient waves of a duration less than 80 msec.,HP:0000707,0,Synonym
+HP:0000230,Inflammation of the gingiva.,HP:0000152,11,Synonym
+HP:0004621,Increased size of the vertebral pedicle.,HP:0000924,9,Synonym
+HP:0500034,Blockage of the nasolacrimal sac.,HP:0000152,8,Synonym
+HP:0010469,Testis not palpable in the scrotum or inguinal canal.,HP:0000119,3,Synonym
+HP:0000175,Cleft palate is a developmental defect of the palate resulting from a failure of fusion of the palatine processes and manifesting as a separation of the roof of the mouth (soft and hard palate).,HP:0000152,3,Synonym
+HP:0010282,"Height of the vermilion of the medial part of the lower lip more than 2 SD below the mean. Alternatively, an apparently reduced height of the vermilion of the lower lip in the frontal view (subjective).",HP:0000152,8,Synonym
+HP:0007984,"A dark-adapted bright flash electroretinogram in which the b-wave that is of markedly lower amplitude than the associated a-wave (source: Holder GE., Inherited Chorioretinal Dystrophies: A Textbook and Atlas; 2014; p.17; ISBN 978-3-540-69466-3).",HP:0000478,1,Synonym
+HP:0030301,"An anomaly of the anterior commissure, a bundle of nerve fibers that connect the two cerebral hemispheres across the midline. The anterior commissure plays a role in pain sensation and contains decussating fibers from the olfactory tracts.",HP:0000707,1,Synonym
+HP:0011197,EEG with focal sharp transient waves of a duration less than 80 msec followed by a slow wave.,HP:0000707,2,Synonym
+HP:0030826,"Tiny, repetitive muscle contractions in the eyelids, causing the appearance of twitching.",HP:0000152,16,Synonym
+HP:0000111,Increased number and size of the juxtaglomerular cells.,HP:0000119,9,Definition
+HP:0100954,Underdevelopment of the operculum.,HP:0000707,9,Synonym
+HP:0032648,"The presence of cuboidal to columnar epithelium (height greater than width) lining the Bowman capsule, in an absence of adjacent segmental sclerosis, crescents, or collapsing variant of focal segmental glomerulosclerosis; scored as present or absent in at least one glomerulus.",HP:0000119,4,Synonym
+HP:0032431,A reduction below the normal concentration of the HDL3b subfraction in the blood circulation. An HDL3b particle is defined as an HDL particle with a size of 7.8-8.19 nm.,HP:0001939,3,Definition
+HP:0004614,The closed form of spina bifida with incomplete closure of S1 with intact overlying skin.,HP:0000707,11,Synonym
+HP:0005897,Severe degree of osteoporosis.,HP:0000924,6,Synonym
+HP:0012082,Atrophy of the cerebellum affecting primarily the Purkinje cell layer.,HP:0000707,4,Synonym
+HP:0008457,"Narrowing (becoming gradually narrower) of the distance between vertebral pedicles that gets progressively more severe towards to caudal (lower) end of the vertebral column. Note that normally, the interpedicular distances get progressively wider as one proceeds down the spine.",HP:0000924,9,Synonym
+HP:0009804,The presence of a reduced number of teeth as in Hypodontia or as in Anodontia.,HP:0000152,7,Synonym
+HP:0031761,"Constant esotropia occurring before 6 months of age. It is typically associated with a large angle of deviation, alternating fixation (therefore low risk of amblyopia) and poor potential for binocular single vision. Other features that might be present in individuals with infantile (constant) esotropia include latent nystagmus or manifest latent nystagmus, dissociated vertical divergence, cyclotropia, abnormal head posture, limited abduction.",HP:0000478,3,Synonym
+HP:0032630,The presence of casts containing immunoglobulin light chains within the lumina of the renal tubules.,HP:0000119,7,Definition
+HP:0032816,"Neonatal multifocal myoclonic seizure is a type of neonatal electro-clinical motor seizure where the predominant motor feature is sudden, brief (<100 msec) involuntary single or multiple contraction of muscles or muscle groups of variable topography (axial, proximal limb, distal) wich occurs at multiple sites.",HP:0000707,2,Synonym
+HP:0011188,Focal EEG discharges that secondarily spread to both hemispheres and can then be recorded over the entire scalp.,HP:0000707,1,Synonym
+HP:0032634,"Casts located within the tubuli of the kidney and that contain myoglobin. Myoglobin casts are composed of round granules that may line up in chains or aggregate in clusters. Their color ranges from pink to red-brown with hematoxylin and eosin stain, light brown to black with Jones methenamine silver stain, pink to bright magenta with periodic acid-Schiff stain, and bright red with trichrome stain. Immunoperoxidase staining with antibody to myoglobin is stronglypositive in the casts.Electron microscopy shows globular casts with an electron-dense core and a somewhat less-intense periphery. Substructure is absent. This feature may be accompanied by acute tubular injury with variable flattening of tubular epithelial cells, loss of brush borders, and intratubular sloughed epithelial cells.",HP:0000119,2,Synonym
+HP:0006479,An abnormality of the dental pulp.,HP:0000152,5,Synonym
+HP:0002506,Diffuse unlocalised atrophy affecting the cerebrum.,HP:0000707,2,Synonym
+HP:0012692,A lighter than expected T2 signal on magnetic resonance imaging (MRI) of the thalamus. This term refers to a localized hyperintensity affecting a particular region of the thalamus.,HP:0000707,2,Synonym
+HP:0031722,An intermittent esotropia where there is binocular single vision on distance fixation and esotropia at near even when the accommodation is relieved.,HP:0000478,1,Synonym
+HP:0032602,Tubular epithelium with nucleoli clearly visible at 100-fold magnification.,HP:0000119,5,Definition
+HP:0032819,Neonatal bilateral clonic seizure is a type of neonatal electro-clinical clonic seizure where the clonic jerking is bilateral.,HP:0000707,2,Synonym
+HP:0031674,A type of atrioventricular reentrant tachycardia (AVRT) where the accessory pathway is used for anterograde conduction and the atrioventricular node for retrograde conduction.,HP:0001626,0,Synonym
+HP:0100789,A bony protrusion present on the midline of the hard palate.,HP:0000152,4,Synonym
+HP:0012691,A darker than expected T2 signal on magnetic resonance imaging (MRI) of the thalamus. This term refers to a localized hypointensity affecting a particular region of the thalamus.,HP:0000707,2,Synonym
+HP:0012762,The presence of atrophy (wasting) of the cerebral white matter.,HP:0000707,4,Synonym
+HP:0000625,A short discontinuity of the margin of the lower or upper eyelid.,HP:0000152,5,Synonym
+HP:0031737,Abnormal inversion (turning inward) of the eyelid towards the globe associated with scarring that vertically shortens the posterior lamella of the eyelid.,HP:0000152,16,Synonym
+HP:0032601,"Tubular epithelial cells with greater than 3 nuclei in a single epithelial cell, often overlapping with each other in a single plane of view.",HP:0000119,5,Synonym
+HP:0008484,A reduction of the distance between thoracolumbar vertebral pedicles.,HP:0000924,13,Synonym
+HP:0000179,"Increased thickness of the lower lip, leading to a prominent appearance of the lower lip. The height of the vermilion of the lower lip in the midline is more than 2 SD above the mean. Alternatively, an apparently increased height of the vermilion of the lower lip in the frontal view (subjective).",HP:0000152,6,Synonym
+HP:0032960,Purple and finely granular/laminated calcium- and phosphate-containing casts located within the tubuli of the kidney.,HP:0000119,7,Synonym
+HP:0000691,"Decreased size of the teeth, which can be defined as a mesiodistal tooth diameter (width) more than 2 SD below mean. Alternatively, an apparently decreased maximum width of tooth.",HP:0000152,6,Synonym
+HP:0031762,An intermittent esotropia where binocular single vision is present on near fixation and an esotropia on distance fixation. Often associated with myopia and aging.,HP:0000478,0,Synonym
+HP:0500057,An open funnel detachment of the retina with generally traction in all four quadrants.,HP:0000478,1,Definition
+HP:0001092,No identifiable superior and/or inferior lacrimal punctum.,HP:0000152,6,Synonym
+HP:0000670,Caries is a multifactorial bacterial infection affecting the structure of the tooth. This term has been used to describe the presence of more than expected dental caries.,HP:0000152,7,Synonym
+HP:0012674,A failure to develop of the lower part of the vagina.,HP:0000119,2,Synonym
+HP:0011690,An incessant orthodromic tachycardia with anterograde conduction over the atrioventricular node and by retrograde conduction via an accessory pathway usually located in the posteroseptal region with slow and decremental conduction.,HP:0001626,0,Synonym
+HP:0031373,Increased rigidity and reduced mobility of the tongue.,HP:0000152,7,Synonym
+HP:0031738,"A type of entropion (abnormal inversion of the eyelid towards the globe) that is related to a mass effect of a lesion (e.g., a tumor) that pulls the eyelid margin away from the globe.",HP:0000152,15,Synonym
+HP:0031562,"A type of double aortic arch in which the two branches are of equal size. In most cases of double aortic arch, the right aortic arch is larger and located higher than the left aortic arch.",HP:0001626,0,Synonym
+HP:0100248,"Hemiballismus is a rare movement disorder that is caused primarily by damage to various areas in the basal ganglia. Hemiballismus is usually characterized by involuntary flinging motions of the extremities. The movements are often violent and have wide amplitudes of motion. They are continuous and random and can involve proximal and/or distal muscles on one side of the body, while some cases even include the facial muscles. The more a patient is active, the more the movements increase. With relaxation comes a decrease in movements.",HP:0000707,2,Synonym
+HP:0032603,"Tubular cross section with flattened tubular cell cytoplasm (height unequivocally less than width), with complete loss of brush border involving greater than 50 percent of the tubular cells in cross section, resulting in an apparent increase in the size of the lumen, without the presence of casts.",HP:0000119,7,Synonym
+HP:0011199,EEG with generalized sharp transient waves of a duration between 80 and 200 msec followed by a slow wave.,HP:0000707,2,Synonym
+HP:0000346,An abnormality of facial morphology characterized by a small mouth opening and constant contraction of the lips as if the patient were whistling.,HP:0000152,6,Synonym
+HP:0000537,"A fold of skin starting at or just below the medial aspect of the lower lid and arching upward to cover, extend in front of and lateral to the medial canthus.",HP:0000152,4,Synonym
+HP:0011080,An abnormality of morphology of premolar tooth.,HP:0000152,6,Synonym
+HP:0031786,Transient eyelid retraction during refixation from down to straight ahead.,HP:0000152,13,Synonym
+HP:0500058,A closed funnel detachment of the retina with generally traction in all four quadrants.,HP:0000478,1,Definition
+HP:0500047,A type of lymphoma that involves the nasolacrimal sac.,HP:0000152,2,Synonym
+HP:0011196,EEG with focal sharp transient waves of a duration between 80 and 200 msec.,HP:0000707,1,Synonym
+HP:0032429,A reduction below the normal concentration of the HDL3a subfraction in the blood circulation. An HDL3a particle is defined as an HDL particle with a size of 8.2-8.79 nm.,HP:0001939,3,Definition
+HP:0001273,Abnormality of the corpus callosum.,HP:0000707,4,Synonym
+HP:0031763,Convergent strabismus in which normal binocular single vision is alternating with large angle esotropia in rhythmic cycle.,HP:0000478,0,Synonym
+HP:0008665,Hypertrophy of the clitoris.,HP:0000119,1,Synonym
+HP:0030004,A type of lagophthalmos that occurs following trauma or surgery.,HP:0000152,5,Synonym
+HP:0009740,Absence of the parotid gland.,HP:0000152,7,Synonym
+HP:0031561,"An abnormal communication between the terminus of a coronary artery, bypassing the myocardial capillary bed and entering the right ventricle.",HP:0001626,0,Synonym
+HP:0007903,Chorioretinal atrophy along the retinal veins.,HP:0000478,0,Synonym
+HP:0011187,Focal epileptiform discharges with spreading to the hemisphere on the same side of the brain.,HP:0000707,3,Synonym
+HP:0500055,A detachment that involves the peripheral retina that involves the macula itself. The detachment usually starts in the temporal periphery although can also involve the nasal retina as well.,HP:0000478,0,Synonym
+HP:0007734,Abnormally big lacrimal glands.,HP:0000152,7,Synonym
+HP:0025363,"Hypercellularity due to increased number of cells within glomerular capillary lumina, causing narrowing of the lumina.",HP:0000119,9,Synonym
+HP:0031974,Ratio of the height of the cup of the optic nerve head to the height of the disc is 0.6 (The normal cup-to-disc ratio is 0.3).,HP:0000478,1,Synonym
+HP:0012887,"A cystic tumor of the ovary, containing thin, clear, yellow serous fluid and varying amounts of solid tissue.",HP:0000119,4,Synonym
+HP:0032611,"Tubular epithelial cells containing cytoplasmic hemosiderin, brown-golden granular pigment.",HP:0000119,8,Definition
+HP:0007047,Partial or complete wasting (loss) of dentate nucleus.,HP:0000707,4,Synonym
+HP:0007058,Generalized atrophy or hypoplasia of the cerebrum.,HP:0000707,4,Synonym
+HP:0025572,Punctal stenosis is a condition in which the external opening of the lacrimal canaliculus is narrowed or occluded.,HP:0000152,13,Synonym
+HP:0030729,A herniation of meninges through a congenital bone defect in the skull at the junction of the frontal and ethmoidal bones.,HP:0000707,4,Synonym
+HP:0002745,A thickened white patch on the oral mucosa that cannot be rubbed off.,HP:0000152,8,Synonym
+HP:0011678,A type of tetralogy of Fallot with pulmonary atresia in which all pulmonary blood flow is derived from major aortopulmonary collateral arteries (MAPCA).,HP:0001626,0,Synonym
+HP:0012697,Decreased size of the basal ganglia.,HP:0000707,2,Synonym
+HP:0010298,Glossy appearance of the entire tongue surface.,HP:0000152,5,Synonym
+HP:0025608,"An outward turning (eversion) or rotation of the eyelid margin (i.e., ectropion) caused by shortening or contraction of the anterior or middle lamellae related to scarring.",HP:0000152,10,Synonym
+HP:0032607,"Tubular cross section lined entirely by tubular epithelium with convex apical cell membrane (i.e., cells are shaped like an upside down U, and lack a distinct smaller protrusion seen in blebbing as defined above) resulting in apparent complete closure of the lumen.",HP:0000119,7,Synonym
+HP:0032624,"A type of acelluar intratubular casts that have a surface composed of granules, which can vary in size. On H&E (red brown), PAS (amaranth purple), trichrome (red with ragged contours), Hall (olive-emerald green).",HP:0000119,5,Synonym
+HP:0032454,"Flat, distinct, discolored area on the lip less than 1 cm wide not associated with a change in the thickness or texture.",HP:0000152,12,Synonym
+HP:0032841,"Neonatal bilateral asymmetric epileptic spasm is a sudden flexion, extension, or mixed extension-flexion of predominantly proximal and truncal muscles that occurs asymmetrically at both sides of the body.",HP:0000707,5,Synonym
+HP:0010463,"Aplasia, that is failure to develop, of the ovary.",HP:0000119,6,Definition
+HP:0010748,Positioning of a lacrimal punctum other than at the medial margins of the eyelid.,HP:0000152,6,Synonym
+HP:0011183,Focal epileptiform discharges induced by hyperventilation (overbreathing) in cerebral electrical activity recorded along the scalp by electroencephalography (EEG).,HP:0000707,0,Synonym
+HP:0032009,Constant exotropia occurring before 6 months of age.; often associated with a large angle of deviation and ocular/CNS abnormalities.,HP:0000478,4,Synonym
+HP:0000689,"Dental malocclusion refers to an abnormality of the occlusion, or alignment, of the teeth and the way the upper and lower teeth fit together, resulting in overcrowding of teeth or in abnormal bite patterns.",HP:0000152,4,Synonym
+HP:0020185,Abnormal morphological development of the superior part of the cerebellum.,HP:0000707,3,Synonym
+HP:0010807,Visible space between the dental arches in occlusion.,HP:0000152,4,Synonym
+HP:0010295,Absence or underdevelopment of the tongue.,HP:0000152,3,Synonym
+HP:0000096,Accumulation of scar tissue within the glomerulus.,HP:0000119,7,Synonym
+HP:0025605,Delayed descent of the upper eyelid on downgaze. Also described by some authors as von Graefe sign.,HP:0000152,14,Synonym
+HP:0000180,Multiple indentations and/or elevations on the edge and/or surface of the tongue producing an irregular surface contour.,HP:0000152,2,Synonym
+HP:0031770,A type of epicanthus in which a medial vertical fold is present between upper and lower lids.,HP:0000152,11,Synonym
+HP:0032594,Naked basement membranes without tubular epithelium.,HP:0000119,7,Definition
+HP:0004629,Reduced size of cervical vertebrae.,HP:0000924,7,Synonym
+HP:0025006,A structural anomaly of the capillary blood vessels in the renal glomerulus.,HP:0000119,5,Definition
+HP:0025126,A corrugated white lesion of the oral mucosa that usually occurs on the lateral or ventral surfaces of the tongue and may have a shaggy or frayed appearance.,HP:0000152,3,Synonym
+HP:0032605,At least one tubular epithelial cell with average sized cytoplasmic area and a nuclear area 3 times greater than average sized nuclei.,HP:0000119,5,Synonym
+HP:0011503,Congenital absence of the fovea.,HP:0000478,0,Definition
+HP:0012695,A reduction in the quantity of space occupied by the thalamus.,HP:0000707,2,Synonym
+HP:0010808,Tongue extending beyond the alveolar ridges or teeth at rest.,HP:0000152,3,Synonym
+HP:0005625,Osteoporosis affecting predominantly the vertebrae.,HP:0000924,3,Synonym
+HP:0011594,"Aortic arch crosses the right mainstem bronchus. The left carotid artery is the first branch, right carotid artery the second branch and right subclavian artery as the third branch.",HP:0001626,0,Synonym
+HP:0030822,Upper eyelid partly covered by skin when eyes are open.,HP:0000152,5,Synonym
+HP:0031119,"A type of bicuspid aortic valve (BAV) characterized by a single raphe between the right and left cusps (RL fusion pattern). This results in two leaflefts with an anterior-posterior leaflet orientation (also called the typical pattern). There is thus one completely developed noncoronary cusp, two completely developed commissures, and one raphe between the underdeveloped left and right coronary cusps extending to the corresponding malformed commissure.",HP:0001626,0,Synonym
+HP:0007333,Underdevelopment of the frontal lobe of the cerebrum.,HP:0000707,4,Synonym
+HP:0030278,Underdeveloped vertebral pedicle.,HP:0000924,9,Synonym
+HP:0007048,Increased size of the basal ganglia.,HP:0000707,2,Synonym
+HP:0032956,Renal tubular nuclear inclusions that stain positive for herpes simplex virus (HSV). HSV is typically associated with multinucleated giant cells with nuclear inclusions and may cause hemorrhagic interstitial nephritis.,HP:0000119,3,Synonym
+HP:0000698,"An abnormal conical form of the teeth, that is, a tooth whose sides converge or taper together incisally.",HP:0000152,7,Synonym
+HP:0025611,"A type of epicanthus in which more extensive epicanthal folds with their origins in the eyebrow cover, pass in front of and lateral to the medial canthus (middle corner of the eye).",HP:0000152,11,Synonym
+HP:0001966,"An abnormality of the mesangium, i.e., of the central part of the renal glomerulus between capillaries.",HP:0000119,12,Synonym
+HP:0012728,A concentric abnormal localized widening (dilatation) of the descending thoracic aorta that involves the full circumference of the vessel wall,HP:0001626,0,Synonym
+HP:0030821,Lower eyelid partly covered by skin when eyes are open.,HP:0000152,5,Synonym
+HP:0025607,An inward turning (inversion) of the margin of the upper eyelid.,HP:0000152,11,Synonym
+HP:0000206,Inflammation of the tongue.,HP:0000152,5,Synonym
+HP:0010957,A developmental defect resulting in an obstructing membrane in the posterior male urethra.,HP:0000119,1,Synonym
+HP:0010297,Tongue with a median apical indentation or fork.,HP:0000152,2,Synonym
+HP:0031765,A form of constant esotropia in which the angle of deviation is partially affected by accommodative effort. Typically there is esotropia at near and distance with hypermetropic correction and the angle of deviation increases without glasses.,HP:0000478,0,Synonym
+HP:0032959,Birefringent calcium- and oxalate-containing casts located within the tubuli of the kidney.,HP:0000119,3,Synonym
+HP:0000039,Displacement of the urethral opening on the dorsal (superior) surface of the penis.,HP:0000119,0,Synonym
+HP:0500087,Thinning in the layers of the retina and retinal pigment epithelium around the optic nerve.,HP:0000478,1,Synonym
+HP:0011931,"An anomaly of the cerebellar peduncles. The superior, middle, and inferior cerebellar peduncles emerge from the cerebellum. The superior cerebellar penduncles connect the cerebellum to the midbrain, the middle cerebellar peduncles connect the cerebellum to the pons, and the inferior cerebellar peduncle connects the medulla spinalis and medulla oblongata with the cerebellum.",HP:0000707,2,Synonym
+HP:0032621,At least one tubular cross section with all tubular epithelial nuclei having a chromatin pattern resembling normal mature lymphocytes.,HP:0000119,7,Synonym
+HP:0032451,"Flat, distinct, discolored area of oral mucosal membrane less than 1 cm wide not associated with a change in the thickness or texture of the affected mucosal membrane. The lesions are small, solitary, well-circumscribed and often uniformly pigmented.",HP:0000152,11,Synonym
+HP:0025252,"An anomaly of the tongue characterized by loss (atrophy) of filiform papillae of the tongue, leaving areas of erythema (redness), surrounded by a serpiginous, white, hyperkeratotic border. The name geographic tongue refers to an appearance that is said to be similar to a map.",HP:0000152,8,Synonym
+HP:0032242,"A precancerous condition characterized by dysplasia of the cervical epithelium. Cervical intraepithelial neoplasia (CIN) 1, 2 and 3 based on its relationship with the prognosis. CIN 1 is mild dysplasia, which is mostly observed because it disappears as part of its natural course. CIN 3 includes severe dysplasia and carcinoma in situ, and management involves treatment because it is highly likely to develop into invasive cancer.",HP:0000119,1,Synonym
+HP:0011593,A patent ductus arteriosus or ductal ligament completes the ring.,HP:0001626,2,Synonym
+HP:0032840,"Neonatal bilateral symmetric epileptic spasm is a sudden flexion, extension, or mixed extension-flexion of predominantly proximal and truncal muscles that occurs symmetrically at both sides of the body.",HP:0000707,5,Synonym
+HP:0011044,The presence of an altered number of of permanent teeth.,HP:0000152,6,Synonym
+HP:0032839,Symmetric neonatal electro-clinical sequential motor seizure is a type of neonatal electro-clinical seizure where the predominant feature cannot be detected because of seizures presenting symmetrically but with a variety of clinical and electrographic signs.,HP:0000707,1,Synonym
+HP:0200096,"A facial appearance characterized by a permanently or nearly permanently opened mouth, in which the upper lip is tented in a way that the opened mouth has the appearance of a triangle.",HP:0000152,4,Synonym
+HP:0500054,A detachment that involves the peripheral retina that does not extend into the macula.,HP:0000478,0,Synonym
+HP:0410027,A decrease in the amount of alveolar bone around the root of a tooth.,HP:0000152,7,Synonym
+HP:0032836,"Neonatal bilateral symmetric myoclonic seizure is a type of neonatal electro-clinical motor seizure where the predominant motor feature is sudden, brief (<100 msec) involuntary single or multiple contraction of muscles or muscle groups of variable topography (axial, proximal limb, distal) wich occurs at both sides of the body symmetrically.",HP:0000707,2,Synonym
+HP:0100611,The presence of many cysts in the glomerulus of the kidney related to dilatation of the Bowman's capsule.,HP:0000119,4,Definition
+HP:0032622,"Dilatation (expansion beyond the normal dimension) of the cavity (lumen) of tubules of the kidney. The tubular cross section displays an attenuated brush border (apical PAS positivity greater than 10 percent of the normal expected height, but unequivocally less than normal expected height), resulting in an apparent increase in the size of lumen.",HP:0000119,4,Synonym
+HP:0031488,A vascular malformation located in the lip that is characterized by direct blood shunting from an artery to a vein due to the absence of a capillary bed. The artery and vein can be directly connected by a fistula or indirectly connected by an abnormal vessel channel termed a nidus.,HP:0000152,9,Synonym
+HP:0032452,"Oral melanoacanthoma usually presents as an asymptomatic, ill-defined, rapidly enlarging, macular pigmentation. Although most lesions are heavily pigmented, the coloration may or may not be uniform. Any mucosal site may be affected, but buccal mucosal involvement is most common. Although typically solitary, rare patients may present with multifocal lesions.",HP:0000152,9,Synonym
+HP:0011592,"The subclavian artery arises from ductus arteriosus. While the ductus arteriosus is patent its blood supply comes from the ductus, hence from the pulmonary artery. After it closes, the blood supply is retrogradely from the vertebral artery via the circle of Willis.",HP:0001626,0,Synonym
+HP:0032635,"Infiltration of microorganisms into renal tubulointerstitial tissues as observed by appropriate staining procedures, e.g., bacteria on a bacterial stain (Brown and Hopps) or fungi on PAS or silver stain.",HP:0000119,5,Synonym
+HP:0500044,An elevation of the eyelid above the normal level in the primary position.,HP:0000152,9,Synonym
+HP:0031042,Inflammed tongue with hyperplastic (enlarged) fungiform papillae that is said to resemble a strawberry or raspberry.,HP:0000152,6,Synonym
+HP:0025364,"Hypercellularity (increased number of cells) in the renal glomerulus but external to the glomerular capillaries, i.e., in the Bowman space or more than one layer of parietal or visceral epithelial cells.",HP:0000119,9,Synonym
+HP:0025039,Swelling within the basal ganglia due to the accumulation of fluid.,HP:0000707,3,Synonym
+HP:0008734,Reduced volume of the testicle (the male gonad).,HP:0000119,2,Definition
+HP:0000678,Overlapping teeth within an alveolar ridge.,HP:0000152,4,Synonym
+HP:0031487,"A vascular malformation located in the lip that is characterized by
+ectatic papillary dermal capillaries and postcapillary venules in the upper reticular dermis.",HP:0000152,17,Synonym
+HP:0012502,"An anomaly of the internal capsule, which is an area of white matter in the brain that separates the caudate nucleus and the thalamus from the putamen and the globus pallidus.",HP:0000707,2,Synonym
+HP:0002475,Protrusion of the meninges and portions of the spinal cord through a defect of the vertebral column.,HP:0000707,2,Synonym
+HP:0500039,An abnormality of the conjuctiva and ocular surface caused by conjunctival inflammation and associated with scarring.,HP:0000152,16,Synonym
+HP:0012006,A subjective feeling that an experience which has occurred before is being experienced for the first time.,HP:0000707,8,Synonym
+HP:0011184,Generalized epileptiform discharges induced by hyperventilation (overbreathing) in cerebral electrical activity recorded along the scalp by electroencephalography (EEG).,HP:0000707,1,Synonym
+HP:0011850,Inflammation of the parotid gland.,HP:0000152,6,Synonym
+HP:0001339,"A spectrum of malformations of cortical development caused by insufficient neuronal migration that subsumes the terms agyria, pachygyria and subcortical band heterotopia. See also neuropathological definitions for 2-, 3-, and 4-layered lissencephaly.",HP:0000707,3,Synonym
+HP:0033086,A count of antral follicles that is higher than normal for age.,HP:0000119,4,Definition
+HP:0031771,A type of epicanthus in which a primarily upper lid fold is present.,HP:0000152,12,Synonym
+HP:0200147,A reduction in the number of nerve cells in the basal ganglia.,HP:0000707,1,Synonym
+HP:0031759,A form of convergent strabismus (esotropia) in which the deviation is present under all conditions (ie at all distances and at all times).,HP:0000478,0,Definition
+HP:0000288,An abnormality of the philtrum.,HP:0000152,8,Synonym
+HP:0030127,The growth of endometrial tissue outside the uterus.,HP:0000119,4,Synonym
+HP:0012694,An increase in the quantity of space occupied by the thalamus.,HP:0000707,2,Synonym
+HP:0007791,"Wasting (atrophy) of the retinal pigment epithelium present in small, isolated areas.",HP:0000478,0,Synonym
+HP:0032826,"Focal neonatal electro-clinical sequential motor seizure is a type of neonatal electro-clinical seizure where the predominant feature cannot be detected because of seizures presenting with a variety of clinical and electrographic focal signs, often changing lateralization within or between seizures.",HP:0000707,1,Synonym
+HP:0012080,Atrophy of the cerebellum affecting primarily the granular cell layer.,HP:0000707,4,Synonym
+HP:0032604,"Tubular epithelial cells in any mitotic phase, identified by distinctively visible chromosome in either prophase, metaphase, anaphase or telophase configuration.",HP:0000119,5,Synonym
+HP:0100520,"Low output of urine, clinically classified as an output below 300-500ml/day.",HP:0000119,2,Synonym
+HP:0011595,"Aortic arch crosses the left mainstem bronchus. The first branch is the right carotid artery, the second branch is the left carotid artery, the third branch is the subclavian artery, the fourth branch is the right subclavian artery arising from the posteromedial aspect of the distal aortic arch and continuing posterior to the esophagus to the right hand side of the body.",HP:0001626,1,Synonym
+HP:0032595,Tubular cross section with a space between the basolateral aspect of tubular epithelium and its basement membrane; classified as global when at least 2/3 circumference of the tubular cross section are involved and segmental when less than 2/3 are involved.,HP:0000119,4,Synonym
+HP:0032029,"Excessive eyelid tissue laxity, typically affecting both upper eyelids and associated with spontanteous tarsal eversion during sleep. It is more common in the obese, it may be associated with obstructive sleep apnea and it may result in corneal exposure or chronic papillary conjunctivitis.",HP:0000152,16,Synonym
+HP:0031977,Ratio of the height of the cup of the optic nerve head to the height of the disc is 0.9 (The normal cup-to-disc ratio is 0.3).,HP:0000478,1,Synonym
+HP:0032600,Tubular epithelium with round strongly PAS-positive cytoplasmic droplet material in at least one tubular epithelial cell.,HP:0000119,6,Synonym
+HP:0031720,Exotropia (intermittent or constant) worse for distance fixation in which the near angle of deviation increases (or near exophoria becomes exotropia) with: (1) prolonged disruption of fusion and/or (2) elimination of accommodation.,HP:0000478,0,Synonym
+HP:0012690,A darker than expected T2 signal on magnetic resonance imaging (MRI) of the thalamus. This term refers to a diffuse hypointensity affecting the entire thalamus.,HP:0000707,2,Synonym
+HP:0012429,Absence or underdevelopment of the cerebral white matter.,HP:0000707,4,Synonym
+HP:0011069,"The presence of a supernumerary, i.e., extra, tooth or teeth.",HP:0000152,3,Synonym
+HP:0012577,Reduction in thickness of the basal lamina of the glomerulus of the kidney.,HP:0000119,9,Synonym
+HP:0002120,Atrophy of the cortex of the cerebrum.,HP:0000707,3,Synonym
+HP:0030003,A type of lagophthalmos that occurs in association with facial nerve palsy.,HP:0000152,5,Synonym
+HP:0032514,A congenital developmental anomaly characterized by the presence of two (instead of the normal one) lacrimal punctum on one or both sides of the face.,HP:0000152,5,Synonym
+HP:0031764,Esotropia in which normal binocular single vision is present for all distances when the hypermetropic refractive error is corrected. Esotropia is present for near and distance on accommodation without correction.,HP:0000478,0,Synonym
+HP:0032962,Dilated renal tubules (over twice the diameter of a normal proximal tubule) containing eosinophilic amorphous material. This feature is generally accompanied by scalloping of the cast profile. The epithelium lining the microcyst is generally flattened and does not reveal brush border.,HP:0000119,5,Synonym
+HP:0006930,The presence of developmental dysplasia of the cortex of frontal lobe and the cortex of parietal lobe.,HP:0000707,4,Synonym
+HP:0032598,"Tubular cross section with round/irregular cytoplasmic protrusion, shaped like the Greek capital letter Omega (or it may be more vertically elongated Omega), pinched off from apical membrane without apparent closure of the lumen, involving over 50 percent of the tubular cells in cross section. The feature can be further classified into proximal or distal tubule.",HP:0000119,5,Synonym
+HP:0006288,"Premature tooth eruption, which can be defined as tooth eruption more than 2 SD earlier than the mean eruption age.",HP:0000152,9,Synonym
+HP:0030890,A brighter than expected signal on magnetic resonance imaging emanating from the cerebral white matter.,HP:0000707,2,Synonym
+HP:0032627,Casts that contain white blood cells and are located within the tubuli of the kidney.,HP:0000119,5,Synonym
+HP:0032631,"A type of acelluar intratubular casts that have a surface composed of granules, which can vary in size. The granules can be rather heterogeneous, ranging from fine (finely granular cast) up to coarse (coarsely granular cast), dark, clear, and pigmented. On H&E (red granular), PAS (purple), trichrome (red granular), Hall (yellow brown). Stain positively for Hemoglobin A.",HP:0000119,8,Synonym
+HP:0007993,Congenital malformation of the lacrimal duct associated with incomplete development of the bony nasolacrimal canal or craniofacial anomalies.,HP:0000152,6,Synonym
+HP:0030491,Atrophy of the capillary lamina of choroid.,HP:0000478,3,Synonym
+HP:0000047,"Abnormal position of urethral meatus on the ventral penile shaft (underside) characterized by displacement of the urethral meatus from the tip of the glans penis to the ventral surface of the penis, scrotum, or perineum.",HP:0000119,2,Synonym
+HP:0007925,A congenital defect resulting in absence of the lacrimal duct.,HP:0000152,15,Synonym
+HP:0031578,"A facial cleft extending from the zygomatic arch to the eye. This zygomaticomaxillary cleft is similar to that typically found in Treacher Collins syndrome. The overlying tissue shows a vertical sclerodermic furrow radiating from the labial commissure or the angle of the mandible across the cheek to a coloboma of the lower eyelid between the middle and lateral one-third. Microphthalmia is not observed. The skeletal cleft is between the maxilla and zygoma; it passes through the inferolateral orbital rim to enter the inferior orbital fissure. No alveolar cleft is present. The zygomatic arch is intact. The soft tissue furrow, which is more apparent on the right, radiates from the oral commissure toward the lateral two-thirds of the lower eyelid. The antimongoloid obliquity of the palpebral fissures is associated with laterally placed lower eyelid clefts and some ectropion. A left-sided anophthalmia is accompanied by adjacent soft tissue hypoplasia and is reflected in a short palpebral fissure, enophthalmos, and minor ptosis of the eyebrow. No abnormality is present in the alveolar arch except for some tilting of the occlusal plane secondary to hypoplasia of the left side of the maxilla. There is a vertical bony groove in the region of the zygomaticomaxillary suture that ends in the inferolateral portion of a small bony orbit. More laterally, the remainder of the zygomatic body and arch is normal in both shape and dimension. The lateral orbital floor is downslanting but intact, and it lacks direct communication with the temporal or infratemporal fossae. The hypoplasia of the left side of the maxilla and orbit is associated with a reduction in the transverse and anteroposterior dimensions of the anterior cranial fossa; mild asymmetry of the middle cranial fossa and calvarium is present. No significant asymmetry of size, shape, or position is present in the sphenoid.",HP:0000152,10,Synonym
+HP:0000564,A developmental disorder of the lacrimal drainage system that most often affects the lacrimal ostium and resulting in non-opening of the nasolacrimal duct. It usually results from a non-canalization of the nasolacrimal duct.,HP:0000152,14,Synonym
+HP:0030162,Abnormally large size of glomeruli.,HP:0000119,7,Synonym
+HP:0031975,Ratio of the height of the cup of the optic nerve head to the height of the disc is 0.7 (The normal cup-to-disc ratio is 0.3).,HP:0000478,1,Synonym
+HP:0000188,Decreased width of the upper lip.,HP:0000152,6,Synonym
+HP:0006879,Atrophy affecting the pons and the cerebellum.,HP:0000707,3,Synonym
+HP:0032633,"A type of acellular urinary cast located within the distal tubules of the kidney and that is composed only of Tamm-Horsfall glycoprotein. Correspondingly, these casts have a low refractive index. Hyaline casts may display a spectrum of morphologies, which includes fluffy, compact, convoluted or wrinkled casts. Hyaline casts have a smooth texture and usually have parallel sides with clear margins and blunted ends.",HP:0000119,2,Synonym
+HP:0030425,A cyst of the ovary that exhibits deposition of calcium salts.,HP:0000119,5,Definition
+HP:0032597,"At least one free floating cell in the tubular lumen without attachment to adjacent cells or basement membrane in a tubular cross section without detachment. These cells must not aggregate into a tubular shape and completely fill the lumen, if so, it should be classified as a cast.",HP:0000119,7,Synonym
+HP:0006323,Loss of the primary (also known as deciduous) teeth before the usual age.,HP:0000152,6,Synonym
+HP:0032935,"Grayish, polygonal pattern of opacities with intervening clear zones across the central cornea that resembles crocodile skin.",HP:0000478,2,Synonym
+HP:0008724,Developmental hypoplasia of the ovary.,HP:0000119,5,Synonym
+HP:0031673,A type of atrioventricular reentrant tachycardia (AVRT) where the atrioventricular node is used for anterograde conduction and the accessory pathway for retrograde conduction.,HP:0001626,0,Synonym
+HP:0006335,Persistence of the primary teeth beyond the age by which they normally are shed and replaced by the permanent teeth.,HP:0000152,12,Synonym
+HP:0012673,A failure to develop of the upper vagina.,HP:0000119,2,Synonym
+HP:0010290,Distance between the labial point of the incisive papilla to the midline junction of the hard and soft palate more than 2 SD below the mean (objective) or apparently decreased length of the hard palate (subjective).,HP:0000152,3,Synonym
+HP:0030034,Presence of abnormal additional layers of the basement membrane of the glomerulus.,HP:0000119,7,Definition
+HP:0031978,Ratio of the height of the cup of the optic nerve head to the height of the disc is 1.0 (The normal cup-to-disc ratio is 0.3).,HP:0000478,1,Synonym
+HP:0032625,Casts that contain red blood cells and are located within the tubuli of the kidney.,HP:0000119,5,Synonym
+HP:0030802,Inferior malposition of the lower eyelid margin without eyelid eversion.,HP:0000152,9,Synonym
+HP:0031646,A concentric abnormal localized widening (dilatation) of the aortic arch that involves the full circumference of the vessel wall.,HP:0001626,0,Synonym
+HP:0500069,A type of ectropion associated with orbicularis muscle weakness caused by cranial nerve VII palsy.,HP:0000152,8,Synonym
+HP:0030002,The inability to close the eyelids during sleep.,HP:0000152,17,Synonym
+HP:0005653,Moderate osteoporosis.,HP:0000924,6,Synonym
+HP:0032032,"Abnormally lax eyelid associated with tissue relaxation, predominantly in the horizontal plane. It can be demonstrated by the horizontal eyelid distraction test (e.g. by pulling the eyelid medially and laterally). Medial and/or lateral canthal tendon laxity are often present.",HP:0000152,17,Synonym
+HP:0031265,"Any structural anomaly of the podocyte, which is a highly specialized cell of the Bowman capsule and which forms multiple interdigitating foot processes. Podocytes are interconnected by slit diaphragms and cover the exterior basement membrane surface of the glomerular capillary.",HP:0000119,6,Synonym
+HP:0032832,"Neonatal bilateral asymmetric myoclonic seizure is a type of neonatal electro-clinical motor seizure where the predominant motor feature is sudden, brief (<100 msec) involuntary single or multiple contraction of muscles or muscle groups of variable topography (axial, proximal limb, distal) wich occurs at both sides of the body asymmetrically.",HP:0000707,2,Synonym
+HP:0002627,"The aortic arch crosses the right mainstem bronchus and not the left mainstem bronchus, but does not result in the creation of a vascular ring. The first branch is the left brachiocephalic artery which divides into the left carotid artery and left subclavian artery, the second branch is the right carotid artery, the third branch is the right subclavian artery.",HP:0001626,1,Synonym
+HP:0000684,"Delayed tooth eruption, which can be defined as tooth eruption more than 2 SD beyond the mean eruption age.",HP:0000152,7,Synonym
+HP:0000706,The presence of one or more embedded tooth germs which have failed to erupt.,HP:0000152,5,Synonym
+HP:0032626,Intratubular casts composed of vancomycin aggregates and uromodulin.,HP:0000119,4,Synonym
+HP:0002334,An anomaly of the vermis of cerebellum.,HP:0000707,3,Synonym
+HP:0030281,"Fusion of cervical vertebrae at C3 and C4, caused by a failure in the normal segmentation or division of the cervical vertebrae during the early weeks of fetal development.",HP:0000924,8,Synonym
+HP:0012292,A congenital defect with an abnormal joining of the gums of the upper and lower jaw.,HP:0000152,7,Synonym
+HP:0032629,"Intratubular crystals composed of 2,8-dihydroxyadenine are small needle-shaped brownish crystals that are highly birefringent under polarized light and black by Jones methenamine silver.",HP:0000119,4,Synonym
+HP:0008470,A reduction of the distance between the lower thoracic vertebral pedicles.,HP:0000924,11,Synonym
+HP:0033026,A small circumscribed whitish change in the color of the oral mucosa that is neither elevated nor depressed.,HP:0000152,10,Synonym
+HP:0008001,Increased amount of pigmentation in the fovea centralis.,HP:0000478,0,Synonym
+HP:0031579,"The temporozygomatic Number 7 cleft is found in both Treacher Collins syndrome and hemifacial microsomia. Soft tissue manifestations include macrostomia, malformations of the external and middle ear, temporalis muscle, variable involvement of the seventh cranial nerve (in hemifacial microsomia), and abnormalities of the preauricular hair in Treacher Collins syndrome. The skeletal cleft is through the pterygomaxillary junction, and vertical maxillary hypoplasia is present. In addition, abnormality of the mandibular ramus, coronoid, and condyle and absence of the zygomatic arch are typically present. A soft tissue furrow extends from the macrostomia laterally and superiorly across the cheek toward the preauricular hairline. The lower eyelids are intact. The anatomy of the external ear is normal, and there are no preauricular tags. Bony clefting is through the pterygomaxillary junction with hypoplasia of the alveolar process in the molar region, thereby producing a posterior open bite. The maxilla is hypoplastic, although the maxillary sinuses are symmetrically pneumatized. The hypoplastic zygomatic body arches upward, but then it takes a downward course and is severely malformed and displaced. The zygoma is continuous posteriorly with an apparently normal zygomatic process of the temporal bone. The mandibular condyle and coronoid process are hypoplastic and asymmetric. There is no antegonial notching of the mandible. Marked cranial base asymmetry, with tilting and asymmetric positioning of the temporomandibular articulations, is present. The anatomy of the sphenoid is abnormal, especially on the right where there is no recognizable medial or lateral pterygoid plate.",HP:0000152,4,Synonym
+HP:0000579,Blockage of the lacrimal duct.,HP:0000152,12,Synonym
+HP:0006486,An abnormality of the dental root.,HP:0000152,1,Synonym
+HP:0031976,Ratio of the height of the cup of the optic nerve head to the height of the disc is 0.8 (The normal cup-to-disc ratio is 0.3).,HP:0000478,1,Synonym
+HP:0032827,Multifocal neonatal electro-clinical sequential motor seizure is a type of neonatal electro-clinical seizure where the predominant feature cannot be detected because of seizures presenting with a variety of clinical and electrographic multifocal signs.,HP:0000707,2,Synonym
+HP:0032031,Laxity of the tendon stabilising the medial aspect of the tarsal plate to the anterior and posterior lacrimal crests. This may lead to more than 2mm movement of the punctum when the eyelid is pulled laterally.,HP:0000152,11,Synonym
+HP:0030690,"A fissure in the gingiva (gums), i.e., the mucosal tissue that lies over the mandible and maxilla.",HP:0000152,2,Synonym
+HP:0030483,An abnormal reduction in the amplitude of the a-wave.,HP:0000478,16,Definition
+HP:0032831,"Neonatal bilateral asymmetric tonic seizure is a type of neonatal electro-clinical tonic seizure where the sustained increase in muscle tone, lasting a few seconds to minutes, occurs at both sides of the body but asymmetrically.",HP:0000707,1,Synonym
+HP:0002521,"Hypsarrhythmia is abnormal interictal high amplitude waves and a background of irregular spikes. There is continuous (during wakefulness), high-amplitude (>200 Hz), generalized polymorphic slowing with no organized background and multifocal spikes demonstrated by electroencephalography (EEG).",HP:0000707,1,Synonym
+HP:0032954,"Viral cytopathic changes consist of smudgy basophilic intranuclear inclusions with enlarged nuclei of infected cells. The inclusions stain positive for adenovirus (e.g., Figure 3 of PMID:29273157). Distal tubules are more commonly involved than proximal tubules. Occasionally glomerular visceral and parietal epithelial cells can be infected. There is associated acute tubular injury, often with frank tubular necrosis and destruction, with acute interstitial nephritis, often with a pleomorphic infiltrate composed of lymphocytes, histiocytes, plasma cells, and variable numbersof neutrophils, with interstitial edema and hemorrhage.",HP:0000119,5,Synonym
+HP:0031647,An eccentric abnormal localized widening (dilatation) of the aortic arch that involves only a portion of the circumference of the vessel wall.,HP:0001626,0,Synonym
+HP:0032430,An elevation above the normal concentration of the HDL3b subfraction in the blood circulation. An HDL3b particle is defined as an HDL particle with a size of 7.8-8.19 nm.,HP:0001939,3,Definition
+HP:0000232,"An abnormal configuration of the lower lip such that it is turned outward i.e., everted, with the Inner aspect of the lower lip vermilion (normally opposing the teeth) being visible in a frontal view.",HP:0000152,5,Synonym
+HP:0032033,"Abnormally lax eyelid associated with tissue relaxation, predominantly in the vertical plane. It can be demonstrated by vertical lid pull. Loosening of vertical stabilising structures (e.g. lower lid retractors) or tarsal atrophy are often present.",HP:0000152,20,Synonym
+HP:0000204,A gap in the upper lip. This is a congenital defect resulting from nonfusion of tissues of the lip during embryonal development.,HP:0000152,11,Synonym
+HP:0030300,Presence of only 10 (instead of the usual 12) pairs of ribs.,HP:0000924,22,Synonym
+HP:0032828,"Neonatal bilateral symmetric tonic seizure is a type of neonatal electro-clinical tonic seizure where the sustained increase in muscle tone, lasting a few seconds to minutes, occurs at both sides of the body symmetrically.",HP:0000707,1,Synonym
+HP:0012001,EEG with repetitive generalized sharp transient waves of a duration less than 80 msec.,HP:0000707,0,Synonym
+HP:0030816,"The loss of gum tissue. The result is that gum tissue is recessed and its position on the tooth is lowered, exposing the roots of the teeth.",HP:0000152,5,Synonym
+HP:0011215,Hypsarrhythmia occurring in one hemisphere.,HP:0000707,4,Synonym
+HP:0000162,"Posterior displacement of the tongue into the pharynx, i.e., a tongue that is mislocalised posteriorly.",HP:0000152,2,Synonym
+HP:0032596,Tubular cross section with intracytoplasmic vacuoles in at least one tubular epithelial cell. This feature is classified as isometric when vacuoles are round and similar in size and coarse when vacuoles were not round in shape or varied in size.,HP:0000119,5,Synonym
+HP:0012751,A deviation from normal signal on magnetic resonance imaging (MRI) of the basal ganglia.,HP:0000707,2,Synonym
+HP:0007103,A darker than expected signal on magnetic resonance imaging emanating from the cerebral white matter.,HP:0000707,2,Synonym
+HP:0011070,An abnormality of morphology of molar tooth.,HP:0000152,4,Synonym
+HP:0011596,The ring may be completed by the ductal ligament.,HP:0001626,6,Synonym
+HP:0032417,"Periglomerular fibrosis is defined as glomeruli with open capillaries, but lamellated, frequently wrinkled, Bowman capsular basement membrane and circumferential layers of interstitial-type collagen around, within, or between the usually thickened, frequently lamellated, Bowman capsule basement membrane.",HP:0000119,5,Synonym
+HP:0430009,Developmental hypoplasia of the eyelid.,HP:0000152,6,Synonym
+HP:0031046,A developmental defect characterized by lack of a soft palate.,HP:0000152,14,Synonym
+HP:0010284,"Increased pigmentation, either focal or generalized, of the mucosa of the mouth.",HP:0000152,12,Synonym
+HP:0012227,Narrowing of the urethra associated with inflammation or scar tissue.,HP:0000119,0,Synonym
+HP:0031121,"A type of bicuspid aortic valve (BAV) characterized by a single raphe between the left and noncoronary cusps (LN fusion pattern). There is thus one completely developed right cusp, two completely developed commissures, and one raphe between the underdeveloped left and noncoronary coronary cusps extending to the corresponding malformed commissure.",HP:0001626,0,Synonym
+HP:0011062,Misaligned incisor.,HP:0000152,3,Synonym
+HP:0012643,Decreased amount of pigmentation in the fovea centralis.,HP:0000478,0,Synonym
+HP:0011095,An abnormal anteroposterior extension of the maxillary teeth beyond the plane of the mandibular teeth upon jaw closure.,HP:0000152,4,Synonym
+HP:0100820,Inflammatory or noninflammatory diseases affecting the glomeruli of the nephron.,HP:0000119,3,Synonym
+HP:0032837,"Asymmetric neonatal electro-clinical sequential motor seizure is a type of neonatal electro-clinical seizure where the predominant feature cannot be detected because of seizures presenting asymmetrically with a variety of clinical and electrographic signs, often changing lateralization within or between seizures.",HP:0000707,1,Synonym
+HP:0001572,"Increased size of the teeth, which can be defined as a mesiodistal tooth diameter (width) more than 2 SD above mean for age. Alternatively, an apparently increased maximum width of the tooth.",HP:0000152,7,Synonym
+HP:0033085,A count of antral follicles that is lower than normal for age.,HP:0000119,4,Definition
+HP:0031580,"The frontozygomatic or Number 8 cleft is found in both Treacher Collins syndrome and the Goldenhar variant of hemifacial microsomia. Skeletal defects are more prominent in Treacher Collins syndrome, whereas the soft tissue clefting is more typical in cases of ''Goldenhar syndrome''. Soft tissue clefting presents as a dermatocele, a true lateral eyelid coloboma with absence of the outer canthus, and anomalies of the globe itself, especially epibulbar cysts in patients with Goldenhar syndrome. The frontozygomatic bony cleft produces absence of the lateral orbital rim; this border now is formed by the hypoplastic greater wing of the sphenoid. The absence of bony support for the outer canthus produces lateral canthal dystopia and the characteristic antimongoloid slant of the palpebral fissures. Secondary to the bony deficiency in the lateral orbital wall and floor, there is soft tissue continuity between the orbit, temporal fossa, and infratemporal region. Preauricular hairline indicators delineate the Number 8 cleft as the first of the northbound clefts. Complete absence of the bony lateral orbital wall and rim constitute the skeletal element of the Number 8 cleft. The lateral border of the orbit is formed by the greater wing of the sphenoid from which small spicules of bone, which represent the rudimentary zygoma, may be found in Treacher Collins syndrome. The symmetry of the facial anomalies is reflected in the apparently normal symmetric anterior and middle cranial fossae.",HP:0000152,4,Synonym
+HP:0031421,Reduced size of the superior frontal portion of the cerebral cortex.,HP:0000707,4,Synonym
+HP:0011341,Increased width of the upper lip.,HP:0000152,6,Synonym
+HP:0007750,Underdevelopment of the fovea centralis.,HP:0000478,2,Definition
+HP:0010698,A type of nuclear cataract involving congenital dust-like (pulverulent) opacity of the embryonal and fetal nucleus.,HP:0000478,1,Synonym
+HP:0012005,A subjective feeling that an experience which is occurring for the first time has been experienced before.,HP:0000707,8,Synonym
+HP:0030730,A herniation of meninges through a congenital bone defect in the skull in the parietal region.,HP:0000707,4,Synonym
+HP:0031643,An eccentric abnormal localized widening (dilatation) of the ascending tubular aorta that involves only a portion of the circumference of the vessel wall.,HP:0001626,0,Synonym
+HP:0025118,Lightening or darkening of the lips from their usual coloring.,HP:0000152,12,Synonym
+HP:0100519,"Absence of urine, clinically classified as below 50ml/day.",HP:0000119,2,Synonym
+HP:0011983,"A type of pigment gallstone that is brown, containing calcium fatty acids. These stones are softer than black pigment gallstones.",HP:0025031,4,Definition
+HP:0031719,Exotropia (intermittent or constant) on distance fixation with binocular single vision on near fixation under all testing conditions. The accommodative convergence/accommodation (AC:A) ratio is within normal limits.,HP:0000478,0,Synonym
+HP:0500086,Having a characteristic appearance of a slate gray area of pigmentation within the disc margins that commonly appears along the inferotemporal or temporal neuroretinal rim areas.,HP:0000478,0,Synonym
+HP:0002324,A defect of development of the brain characterized by replacement of greater portions of the cerebral hemispheres and the corpus striatum by cerebrospinal fluid (CSF) and glial tissue.,HP:0000707,1,Synonym
+HP:0032010,"Constant exotropia for near and distance, presenting after 6 months of age.",HP:0000478,3,Synonym
+HP:0011224,Absent eyelids.,HP:0000152,7,Synonym
+HP:0032636,Infiltration of viruses into renal tubulointerstitial tissues as demonstrated on renal biopsy by viral inclusions which can be seen on routine stains or with immunohistochemistry.,HP:0000119,5,Synonym
+HP:0012128,Death of cells in the basal ganglia.,HP:0000707,1,Synonym
+HP:0007892,Underdevelopment of the lacrimal puncta.,HP:0000152,15,Synonym
+HP:0009879,An abnormality of the cerebral cortex with fewer gyri but with normal cortical thickness. This pattern is usually often associated with congenital microcephaly.,HP:0000707,4,Synonym
+HP:0500037,The malignant epithelial neoplasm with papillary growths in the nasolacrimal sac.,HP:0000152,3,Synonym
+HP:0032835,"Neonatal seizure with bilateral asymmetric automatism is a type of neonatal electro-clinical seizure where the electrographic event is correlated with a coordinated motor activity, typically oral, usually with impaired awarness, occurring at both sides of the body symmetrically.",HP:0000707,1,Synonym
+HP:0001126,"Cryptophthalmos is a condition of total absence of eyelids and the skin of forehead is continuous with that of cheek, in which the eyeball is completely concealed by the skin, which is stretched over the orbital cavity.",HP:0000152,5,Synonym
+HP:0007950,"Chorioretinal atrophy concentrated around the optic papilla (i.e., the optic nerve head).",HP:0000478,0,Synonym
+HP:0032478,Protrusion of the arachnoid and dura through spinal foramina.,HP:0000707,0,Synonym
+HP:0032035,Abnormally lax lower eyelid associated with tissue relaxation.,HP:0000152,18,Synonym
+HP:0001321,Underdevelopment of the cerebellum.,HP:0000707,2,Synonym
+HP:0004602,"Fusion of cervical vertebrae at C2 and C3, caused by a failure in the normal segmentation or division of the cervical vertebrae during the early weeks of fetal development, leading to a short neck with a low hairline at the back of the head, and restricted mobility of the upper spine.",HP:0000924,4,Synonym
+HP:0025636,Inflammation of the inner lining of the uterus (endometrium).,HP:0000119,4,Synonym
+HP:0000221,Accentuation of the grooves on the dorsal surface of the tongue.,HP:0000152,4,Synonym
+HP:0012642,Lack of development of the cerebellum.,HP:0000707,3,Synonym
+HP:0011063,An abnormality of morphology of the incisor tooth.,HP:0000152,7,Synonym
+HP:0002453,An abnormality of the globus pallidus.,HP:0000707,1,Synonym
+HP:0010850,"Complexes of spikes (<70 ms) and sharp waves (70-200 ms), which are sharp transient waves that have a strong association with epilepsy, in cerebral electrical activity recorded along the scalp by electroencephalography (EEG).",HP:0000707,0,Synonym
+HP:0025102,Structural abnormality of the basal ganglia related to defective development.,HP:0000707,2,Synonym
+HP:0000878,Presence of only 11 pairs of ribs.,HP:0000924,11,Synonym
+HP:0005680,A tongue-like protusion from the anterior aspect of lumbar vertebral bodies.,HP:0000924,7,Synonym
+HP:0032424,An elevation above the normal concentration of the HDL2b subfraction in the blood circulation. An HDL2b particle is defined as an HDL particle with a size of 9.7-12 nm.,HP:0001939,3,Synonym
+HP:0002308,"Arnold-Chiari malformation consists of a downward displacement of the cerebellar tonsils and the medulla through the foramen magnum, sometimes causing hydrocephalus as a result of obstruction of CSF outflow.",HP:0000707,2,Synonym
+HP:0032838,"Neonatal unilateral epileptic spasm is a sudden flexion, extension, or mixed extension-flexion of predominantly proximal and truncal muscles that occurs at one side of the body.",HP:0000707,4,Synonym
+HP:0011982,"A type of pigment gallstone that is hard and black, containing calcium carbonate and calcium phosphates.",HP:0025031,2,Definition
+HP:0031489,A vascular malformation located in the lip that is related to abnormal vascular morphogenesis.,HP:0000152,9,Synonym
+HP:0031423,Reduced size of the cerebellar cortex.,HP:0000707,4,Synonym
+HP:0032420,An elevation above the normal concentration of the HDL2a subfraction in the blood circulation. An HDL2A particle is defined as an HDL particle with a size of 8.80-9.69 nm.,HP:0001939,3,Definition
+HP:0030949,An abnormal accumulation of protein in the glomerulus.,HP:0000119,10,Definition
+HP:0004601,The closed form of spina bifida with incomplete closure of the vertebra L5 with intact overlying skin.,HP:0000707,8,Synonym
+HP:0011089,A dental anomaly characterized by the presence of a two fused teeth.,HP:0000152,4,Synonym
+HP:0005576,"A progressive detrimental connective tissue deposition (fibrosis) on the kidney parenchyma involving the tubules and interstitial tissue of the kidney. Tubulointerstitial injury in the kidney is complex, involving a number of independent and overlapping cellular and molecular pathways, with renal interstitial fibrosis and tubular atrophy (IF/TA) as the final common pathway. However, IF and TA are separable, as shown by the profound TA in renal artery stenosis, which characteristically has little or no fibrosis (or inflammation). For new annotations it is preferable to annotate to the specific HPO terms for Renal interstitial lfibrosis and/or Renal tubular atrophy.",HP:0000119,7,Synonym
+HP:0025414,"A type of urethral stricture affecting the pendulous urethra, which is straight and fixed to the corpora cavernosa.",HP:0000119,0,Synonym
+HP:0010806,Gentle upward curve of the upper lip vermilion such that the center is placed well superior to the commissures.,HP:0000152,3,Synonym
+HP:0010853,"Periodic lateralized epileptiform discharges (PLEDs)are periodic, lateralized, and epileptiform. PLEDs show a relatively constant interval between discharges (0.5 to 3 seconds).",HP:0000707,2,Synonym
+HP:0011295,"EEG with sharp waves in the parietal region, i.e., sharp transient waves of a duration between 80 and 200 msec.",HP:0000707,2,Synonym
+HP:0000097,Segmental accumulation of scar tissue in individual (but not all) glomeruli.,HP:0000119,6,Synonym
+HP:0012460,A structural anomaly of the inferior portion of the vermis of cerebellum.,HP:0000707,2,Synonym
+HP:0000582,"The palpebral fissure inclination is more than two standard deviations above the mean for age (objective); or, the inclination of the palpebral fissure is greater than typical for age.",HP:0000152,15,Synonym
+HP:0002454,"The presence, on T2-weighted magnetic resonance imaging, of markedly low signal intensity if the globus pallidus that surrounds a central region of high signal intensity in the anteromedial globus pallidus, producing an eye-of-the-tiger appearance.",HP:0000707,2,Synonym
+HP:0020204,Tubulointerstitial infiltration of bacteria identified on routine and/or special (Brown-Hopps) stains.,HP:0000119,2,Synonym
+HP:0010809,Increased width of the uvula (subjective finding).,HP:0000152,18,Synonym
+HP:0000171,Decreased length and width of the tongue.,HP:0000152,6,Synonym
+HP:0006347,Decreased size of the primary teeth.,HP:0000152,5,Synonym
+HP:0011340,"A subtle unilateral cleft of the upper lip, which may appear as a small indentation.",HP:0000152,6,Synonym
+HP:0004737,Complete and diffuse scarring of glomerulus.,HP:0000119,8,Synonym
+HP:0006358,Incisors with a thick marginal ridge surrounding a deep lingual fossa are termed shovel-shaped incisors.,HP:0000152,3,Synonym
+HP:0000581,A fixed reduction in the vertical distance between the upper and lower eyelids with short palpebral fissures.,HP:0000152,9,Synonym
+HP:0012889,Abnormal growth of endometrial cells (which are normally limited to the uterus) within the cervix.,HP:0000119,7,Synonym
+HP:0030279,Underdeveloped pedicle of the fifth lumbar vertebra.,HP:0000924,7,Synonym
+HP:0025005,Widening of the wall of capillary blood vessels in the glomerulus. This feature may be produced by deposits and other changes affecting either subepithelial and subendothelial regions or the glomerular basement membrane itself.,HP:0000119,9,Synonym
+HP:0001592,"Agenesis specifically affecting one of the classes incisor, premolar, or molar.",HP:0000152,6,Synonym
+HP:0031982,"Any structural anomaly of the putamen, a brain nucleus which together with the caudate nucleus and fundus striati makes up the striatum.",HP:0000707,1,Synonym
+HP:0000343,"Distance between nasal base and midline upper lip vermilion border more than 2 SD above the mean. Alternatively, an apparently increased distance between nasal base and midline upper lip vermilion border.",HP:0000152,4,Synonym
+HP:0000696,Delayed tooth eruption affecting the secondary dentition.,HP:0000152,6,Synonym
+HP:0011075,A green staining of teeth.,HP:0000152,12,Synonym
+HP:0032609,"A type of renal tubular atrophy characterized by endocrine-like appearance of tubules, which are small and have narrow lumina, clear cells, and relatively thin basement membranes.",HP:0000119,6,Synonym
+HP:0012650,"Polymicrogyria (an excessive number of small gyri or convolutions) that is maximal in perisylvian regions (the regions that surround the Sylvian fissures), which may be symmetric or asymmetric and may extend beyond perisylvian regions. The Sylvian fissures often extend posteriorly and superiorly.",HP:0000707,3,Synonym
+HP:0006290,The presence of discolored lateral incisors.,HP:0000152,3,Synonym
+HP:0011191,Epileptiform discharges being identified at multiple locations in one hemisphere.,HP:0000707,4,Synonym
+HP:0001967,"Diffuse sclerosis of the mesangium, as manifestated by diffuse mesangial matrix expansion.",HP:0000119,8,Definition
+HP:0012014,EEG with focal sharp transient waves of a duration less than 80 msec in the central region.,HP:0000707,2,Synonym
+HP:0000636,A short discontinuity of the margin of the upper eyelid.,HP:0000152,7,Synonym
+HP:0012413,The presence of a V-shaped indentation (notch) in the primary central incisor.,HP:0000152,6,Synonym
+HP:0001593,Decreased size of the maxillary permanent incisor.,HP:0000152,5,Synonym
+HP:0011289,EEG with sharp slow waves in the temporal region. Sharp slow waves are focal sharp transient waves of a duration between 80 and 200 msec followed by a slow wave.,HP:0000707,3,Synonym
+HP:0032410,Symmetric generalized polymicrogyria with no obvious gradient or region of maximal severity; may have abnormal high signal in white matter.,HP:0000707,4,Synonym
+HP:0009099,Cleft palate of the midline of the palate.,HP:0000152,5,Synonym
+HP:0012010,"EEG with focal sharp transient waves in the frontal region, i.e., focal sharp waves of a duration less than 80 msec followed by a slow wave.",HP:0000707,3,Synonym
+HP:0030762,"Dissolution or attenuation of mesangial matrix and degeneration of mesangial cells. In essence, mesangiolysis is an injurious process which affects the glomerular mesangium without causing obvious damage to the capillary basement membranes. The matrix swells, loosens, and eventually dissolves; the mesangial cells may show only edema and vacuolization, or may undergo severe degeneration and necrosis.",HP:0000119,8,Synonym
+HP:0030303,Underdevelopment of the anterior commissure.,HP:0000707,4,Synonym
+HP:0012430,Underdevelopment of the cerebral white matter.,HP:0000707,4,Synonym
+HP:0011293,"EEG with sharp waves in the central region, i.e., sharp transient waves of a duration between 80 and 200 msec.",HP:0000707,1,Synonym
+HP:0006821,A type of polymicrogyria with a gradient of severity (anterior more severe than posterior) extending from frontal poles posteriorly to precentral gyrus and inferiorly to frontal operculum.,HP:0000707,4,Synonym
+HP:0006353,"Developmental hypoplasia of the tooth germ, i.e., of the structure that forms in odontogenesis that will develop into a tooth.",HP:0000152,13,Synonym
+HP:0000215,"Height of the vermilion of the upper lip in the midline more than 2 SD above the mean. Alternatively, an apparently increased height of the vermilion of the upper lip in the frontal view (subjective).",HP:0000152,4,Synonym
+HP:0025123,Areas of white discoloration visible on the surface of the teeth (enamel) in the form of streaks or specks.,HP:0000152,6,Synonym
+HP:0010847,The presence of complexes of slow spikes and slow waves (<2.5 Hz) in electroencephalography (EEG).,HP:0000707,2,Synonym
+HP:0007132,"Neurodegeneration involving the globus pallidus,a part of the basal ganglia that is involved in the regulation of voluntary movement.",HP:0000707,1,Synonym
+HP:0012105,Atrophy of the occipital cortex.,HP:0000707,3,Synonym
+HP:0002392,The presence of complexes of repetitive spikes and waves in EEG.,HP:0000707,2,Synonym
+HP:0011292,"EEG with sharp waves in the occipital region, i.e., sharp transient waves of a duration between 80 and 200 msec.",HP:0000707,2,Synonym
+HP:0011071,An abnormality of morphology of permanent molar.,HP:0000152,6,Synonym
+HP:0006352,Lack of tooth eruption of the secondary dentition.,HP:0000152,7,Synonym
+HP:0030797,A diminished volume of the central part of the bed nucleus of the stria terminalis.,HP:0000707,0,Synonym
+HP:0002711,Increased depth of the median tongue furrow.,HP:0000152,4,Synonym
+HP:0011090,The union of two separately developing tooth germs typically leading to one less tooth than normal in the affected dental arch.,HP:0000152,7,Synonym
+HP:0030302,Absence of the anterior commissure.,HP:0000707,6,Synonym
+HP:0001302,"Pachygyria is a malformation of cortical development with abnormally wide gyri with sulci 1,5-3 cm apart and abnormally thick cortex measuring more than 5 mm (radiological definition). See also neuropathological definitions for 2-, 3-, and 4-layered lissencephaly.",HP:0000707,3,Synonym
+HP:0011189,Epileptiform discharges being identified at multiple locations in both hemispheres.,HP:0000707,2,Synonym
+HP:0032952,A type of renal tubular atrophy in which the tubules show thick tubular basement membranes lined by small cuboidal or flat cells. Generally accompanied by fibrosis.,HP:0000119,6,Synonym
+HP:0000494,The palpebral fissure inclination is more than two standard deviations below the mean.,HP:0000152,9,Synonym
+HP:0010857,Periodically recurring abnormalities in the EEG.,HP:0000707,2,Synonym
+HP:0010848,The presence of complexes of spikes and waves (2.5-3.5 Hz) in electroencephalography (EEG).,HP:0000707,0,Synonym
+HP:0000319,"Flat skin surface, with no ridge formation in the central region of the upper lip between the nasal base and upper vermilion border.",HP:0000152,5,Synonym
+HP:0040329,An abnormal area of increased brightness (hyperintensity) that occurs in several distinct areas.,HP:0000707,14,Synonym
+HP:0033048,Hypointence (dark) appearance of the substantia nigra inmagnetic resonance imaging using susceptibility weighted imaging (SWI).,HP:0000707,2,Synonym
+HP:0020133,Increase in size of the podocytes of the renal glomerulus.,HP:0000119,10,Synonym
+HP:0200017,Congenital defect with failure of the development of the cerebral white matter.,HP:0000707,3,Synonym
+HP:0011291,EEG with sharp slow waves in the central region. Sharp slow waves are focal sharp transient waves of a duration between 80 and 200 msec followed by a slow wave.,HP:0000707,3,Synonym
+HP:0006927,Excessive number of small gyri (convolutions) on the surface of one side of the brain.,HP:0000707,1,Synonym
+HP:0002195,Defective development of the vermis of cerebellum.,HP:0000707,3,Synonym
+HP:0030891,Areas of brighter than expected signal on magnetic resonance imaging emanating from the cerebral white matter that surrounds the cerebral ventricles.,HP:0000707,3,Synonym
+HP:0010849,The presence of complexes of spikes and waves (>3.5 Hz) in electroencephalography (EEG).,HP:0000707,2,Synonym
+HP:0500045,A unilateral or bilateral eyelid retraction due to midbrain lesions.,HP:0000152,5,Synonym
+HP:0031882,A congenital abnormality of the cerebral hemisphere characterized by lack of gyrations (convolutions) of the cerebral cortex. Agyria is defined as cortical regions lacking gyration with sulci great than 3 cm apart and cerebral cortex thicker than 5 mm.,HP:0000707,4,Synonym
+HP:0007678,Narrowing of a tear duct (lacrimal duct).,HP:0000152,7,Synonym
+HP:0032047,A type of focal cortical dysplasia that is characterized by abnormal cortical layering.,HP:0000707,4,Synonym
+HP:0010293,Underdevelopment or absence of the uvula.,HP:0000152,24,Synonym
+HP:0007183,A lighter than expected T2 signal on magnetic resonance imaging (MRI) of the basal ganglia. This term refers to a localized hyperintensity affecting a particular region of the basal ganglia.,HP:0000707,2,Synonym
+HP:0000668,"A developmental anomaly characterized by a reduced number of teeth, whereby up to 6 teeth are missing.",HP:0000152,6,Synonym
+HP:0000674,The congenital absence of all teeth.,HP:0000152,4,Synonym
+HP:0002002,"Accentuated, prominent philtral ridges giving rise to an exaggerated groove in the midline between the nasal base and upper vermillion border.",HP:0000152,5,Synonym
+HP:0033049,Hypointence (dark) appearance of the globus pallidus inmagnetic resonance imaging using susceptibility weighted imaging (SWI).,HP:0000707,2,Synonym
+HP:0011960,Focal proliferation of glial cells in the substantia nigra.,HP:0000707,4,Synonym
+HP:0040328,An abnormal area of increased brightness (hyperintensity) that is limited to one particular area.,HP:0000707,15,Synonym
+HP:0004729,Acute inflammation of the kidney affecting the interstitium of the kidneys surrounding the tubules.,HP:0000119,3,Synonym
+HP:0007321,Multiple areas of darker than expected signal on magnetic resonance imaging emanating from the deep cerebral white matter.,HP:0000707,3,Synonym
+HP:0500048,A very common condition in which the extreme end of the nasolacrimal duct underneath the inferior turbinate fails to complete its canalization in the newborn period.,HP:0000152,8,Synonym
+HP:0006311,A generalized form of microdontia.,HP:0000152,7,Synonym
+HP:0030892,Areas of brighter than expected signal on magnetic resonance imaging emanating from locations distant from the ventricular system.,HP:0000707,6,Synonym
+HP:0000219,"Height of the vermilion of the upper lip in the midline more than 2 SD below the mean. Alternatively, an apparently reduced height of the vermilion of the upper lip in the frontal view (subjective).",HP:0000152,4,Synonym
+HP:0006313,Increased space between the primary teeth. Note this phenotype should be distinguished from increased space due purely to microdontia.,HP:0000152,12,Synonym
+HP:0031627,Pathological deposition of calcium salts in the globus pallidus.,HP:0000707,5,Synonym
+HP:0010803,"Inner aspect of the upper lip vermilion (normally apposing the teeth) visible in a frontal view, i.e., the presence of an everted upper lip.",HP:0000152,3,Synonym
+HP:0003771,Multiple punctate calcifications in the dental pulp.,HP:0000152,10,Synonym
+HP:0006349,"A congenital defect characterized by the absence of one or more permanent teeth, including oligodontia, hypodontia, and adontia of the of permanent teeth.",HP:0000152,8,Synonym
+HP:0009101,A cleft of the lip with overlying mucous membrane.,HP:0000152,9,Synonym
+HP:0006346,"An abnormality of morphology of the incisor tooth in which the tooth is shaped like a screwdriver blade, i.e., having a rhomboid shape.",HP:0000152,4,Synonym
+HP:0010811,Decreased width of the uvula.,HP:0000152,20,Synonym
+HP:0003244,Location of the urethral opening on the inferior aspect of the penis.,HP:0000119,1,Synonym
+HP:0006334,Developmental hypoplasia of the primary teeth.,HP:0000152,5,Synonym
+HP:0012854,Hypospadias with location of the urethral meatus in the middle of the inferior shaft of the penis.,HP:0000119,1,Synonym
+HP:0006302,Dagger-shaped calcifications in the dental pulp.,HP:0000152,8,Synonym
+HP:0002339,Any structural abnormality of the caudate nucleus.,HP:0000707,1,Synonym
+HP:0009102,A type of malocclusion in which there is a gap between the anterior teeth (incisors).,HP:0000152,3,Synonym
+HP:0012574,"Increased numbers of mesangial cells per glomerulus, defined as four or more nuclei in a peripheral mesangial segment.",HP:0000119,6,Synonym
+HP:0011288,EEG with sharp slow waves in the parietal region. Sharp slow waves are focal sharp transient waves of a duration between 80 and 200 msec followed by a slow wave.,HP:0000707,3,Synonym
+HP:0032051,A type of focal cortical dysplasia that is characterized by disrupted cortical lamination and specific cytological abnormalities.,HP:0000707,6,Synonym
+HP:0006315,"The presence of a single, median maxillary incisor, affecting both the primary maxillary incisor and the permanent maxillary incisor.",HP:0000152,5,Synonym
+HP:0000695,Erupted tooth or teeth at birth.,HP:0000152,5,Synonym
+HP:0011287,EEG with sharp slow waves in the occipital region. Sharp slow waves are focal sharp transient waves of a duration between 80 and 200 msec followed by a slow wave.,HP:0000707,3,Synonym
+HP:0000637,"Distance between medial and lateral canthi is more than two standard deviations above the mean for age (objective); or, apparently increased length of the palpebral fissures.",HP:0000152,3,Synonym
+HP:0006989,"Dysplasia and dysgenesis of the corpus callosum are nonspecific descriptions that imply defective development of the corpus callosum. The term dysplasia is applied when the morphology of the corpus callosum is altered as a congenital trait. For instance, the corpus callosum may be hump-shaped, kinked, or a striped corpus callosum that lacks an anatomically distinct genu and splenium.",HP:0000707,6,Synonym
+HP:0011079,A tooth that has not erupted because of local impediments (overcrowding or fibrous gum overgrowth).,HP:0000152,4,Synonym
+HP:0007656,A congenital defect of development characterized by absence of the lacrimal gland.,HP:0000152,12,Synonym
+HP:0007370,Absence or underdevelopment of the corpus callosum.,HP:0000707,4,Synonym
+HP:0025009,The upper incisors deviate from the normal angle of being roughly parallel to the surface of the face and instead slant outwards.,HP:0000152,3,Synonym
+HP:0100308,"Atrophy of one side of the brain, characterized by findings including thinning of the cerebral cortex, reduced volume of the cerebral white matter with abnormal myelination, and enlargement of the ispilateral fourth ventricle.",HP:0000707,3,Synonym
+HP:0032608,"A type of renal tubular atrophy characterized by a thyroid-like appearance, with small round tubules with markedly flattened, simplified epithelium and uniform intratubular casts.",HP:0000119,6,Synonym
+HP:0031206,Abnormally bright T2 signal from the striatum on brain magnetic resonance imaging.,HP:0000707,4,Synonym
+HP:0002263,More pronounced paramedian peaks and median notch of the Cupid's bow.,HP:0000152,6,Synonym
+HP:0007187,A congenital absence of the convolutions of the cerebral cortex and a poorly formed sylvian fissure that affects a particular part of the cortex.,HP:0000707,3,Synonym
+HP:0011296,"EEG with sharp waves in the temporal region, i.e., sharp transient waves of a duration between 80 and 200 msec.",HP:0000707,2,Synonym
+HP:0006283,The presence of multiple embedded tooth germs which have failed to erupt.,HP:0000152,8,Synonym
+HP:0010810,Increased length of the uvula.,HP:0000152,20,Synonym
+HP:0000051,Hypospadias with location of the urethral meatus in the perineal region.,HP:0000119,1,Synonym
+HP:0006855,Wasting (atrophy) of the vermis of cerebellum.,HP:0000707,3,Synonym
+HP:0012677,An abnormal build up of iron (Fe) in the globus pallidus.,HP:0000707,7,Synonym
+HP:0032610,Renal tubulointerstitial infiltration of mycobacteria identified on acid-fast or Fite stains. Can be associated with granulomatous inflammation.,HP:0000119,5,Synonym
+HP:0011932,An anomaly of the superior cerebellar peduncle.,HP:0000707,2,Synonym
+HP:0011088,"An abnormality of the incisor characterized by invagination of the enamel, giving a radiographic appearance that suggests a tooth within a tooth.",HP:0000152,5,Synonym
+HP:0012730,Absence of the tongue owing to a developmental abnormality.,HP:0000152,3,Synonym
+HP:0410031,Soft and hard-palate submucous clefts are characterized by bony defects in the midline of the soft and hard palate that are covered by the lining (ie mucous membrane) of the roof of the mouth.,HP:0000152,9,Synonym
+HP:0000677,"A developmental anomaly characterized by a reduced number of teeth, whereby more than 6 teeth are missing.",HP:0000152,6,Synonym
+HP:0006332,"The presence of a supernumerary, i.e., extra, maxillary incisor, either the primary maxillary incisor or the permanent maxillary incisor.",HP:0000152,5,Synonym
+HP:0012678,An anomalous build up of iron (Fe) in the substantia nigra.,HP:0000707,3,Synonym
+HP:0000322,"Distance between nasal base and midline upper lip vermilion border more than 2 SD below the mean. Alternatively, an apparently decreased distance between nasal base and midline upper lip vermilion border.",HP:0000152,6,Synonym
+HP:0025119,An alteration of the color of the lip to take on a violet color. This term does not include cyanosis.,HP:0000152,19,Synonym
+HP:0006913,Atrophy of the frontal cortex.,HP:0000707,3,Synonym
+HP:0100335,Clefting of the upper lip affecting the lateral portions of the upper lip rather than the midline/median region.,HP:0000152,5,Synonym
+HP:0500040,A benign tumor composed of adipose tissue and dense connective tissue usually located near the temporal fornix.,HP:0000152,6,Synonym
+HP:0011087,Talon cusp is an accessory cusp located near the cingulum (the portion of the lingual or palatal aspect of the tooth that forms a convex protuberance at the cervical third of the anatomic crown).,HP:0000152,4,Synonym
+HP:0010464,"A developmental disorder characterized by the progressive loss of primordial germ cells in the developing ovaries of an embryo, leading to hypoplastic ovaries composed of wavy connective tissue with occasional clumps of granulosa cells, and frequently mesonephric or hilar cells.",HP:0000119,8,Synonym
+HP:0000794,The presence of immunoglobulin A deposits in the glomerulus.,HP:0000119,6,Definition
+HP:0012853,Hypospadias with location of the urethral meatus in the scrotum.,HP:0000119,1,Synonym
+HP:0006333,"A type of dental misalignment with crowded central incisors, i.e., of maxillary secondary incisor, or of maxillary central primary incisor.",HP:0000152,2,Synonym
+HP:0004743,Chronic inflammation of the kidney affecting the interstitium of the kidneys surrounding the tubules.,HP:0000119,4,Synonym
+HP:0500088,Loss of pigment in the fovea centralis.,HP:0000478,1,Synonym
+HP:0032054,"A type of focal cortical dysplasia that is characterized by cortical lamination abnormalities associated with a principal lesion, usually adjacent to or affecting the same cortical area/lobe.",HP:0000707,4,Synonym
+HP:0007371,The presence of atrophy (wasting) of the corpus callosum.,HP:0000707,5,Synonym
+HP:0012009,"EEG with focal sharp transient waves in the central region, i.e., focal sharp waves of a duration less than 80 msec followed by a slow wave.",HP:0000707,3,Synonym
+HP:0032409,A form of subcortical heterotopia with mislocalized gray matter within the white matter.It is defined as longitudinal bands of gray matter located deep to the cerebral cortex and separated from it by a thin layer of normal appearing white matter. It is part of the lissencephaly spectrum.,HP:0000707,4,Synonym
+HP:0012794,Multiple areas of darker than expected signal on magnetic resonance imaging emanating from the cerebral white matter that surrounds the cerebral ventricles.,HP:0000707,3,Synonym
+HP:0011829,"Distance between the philtral ridges, measured just above the vermilion border, more than 2 standard deviations below the mean. Alternatively, an apparently decreased distance between the ridges of the philtrum.",HP:0000152,21,Synonym
+HP:0011826,Narrow ridge in the midline of the philtral groove.,HP:0000152,5,Synonym
+HP:0010804,Triangular appearance of the oral aperture with the apex in the midpoint of the upper vermilion and the lower vermilion forming the base.,HP:0000152,5,Synonym
+HP:0006337,Premature tooth eruption of the permanent dentition.,HP:0000152,10,Synonym
+HP:0010800,Lack of paramedian peaks and median notch of the upper lip vermilion.,HP:0000152,6,Synonym
+HP:0032457,"Pachygyria-agyria spectrum whereby at neuropathological examination the cortical plate consists of a two-three layered organization made up of a molecular layer, a relatively thin wavy layer with a higher cellular density and a third layer with lower cellularity.",HP:0000707,5,Synonym
+HP:0007697,Underdevelopment of the lower eyelid.,HP:0000152,9,Synonym
+HP:0012016,EEG with focal sharp transient waves of a duration less than 80 msec in the occipital region.,HP:0000707,3,Synonym
+HP:0001326,"EEG shows spikes (<80 ms) and waves, which are recorded over the entire scalp and do not have a specific frequency.",HP:0000707,1,Synonym
+HP:0006338,An abnormality of the morphology of secondary premolar tooth.,HP:0000152,12,Synonym
+HP:0025480,"A type of spinal dysraphism presenting as a subcutaneous fatty mass, that is, a spinal defect associated with lipomatous tissue, and covered by skin. The most usual location for lipomyelomeningocele is at the gluteal cleft.",HP:0000707,8,Synonym
+HP:0007099,Arnold-Chiari type I malformation refers to a relatively mild degree of herniation of the posteroinferior region of the cerebellum (the cerebellar tonsils) into the cervical canal with little or no displacement of the fourth ventricle.,HP:0000707,4,Synonym
+HP:0007732,Underdevelopment of the lacrimal gland.,HP:0000152,13,Synonym
+HP:0011081,Increased size of the incisor tooth.,HP:0000152,7,Synonym
+HP:0030752,A nasolacrimal duct obstruction presenting as a grey-blue cystic swelling just below the medial canthus. Believed to be a result of concomitant upper obstruction of the Rosenmuller valve and lower obstruction of the Hasner valve.,HP:0000152,11,Synonym
+HP:0040330,Areas of brighter than expected MRI signal in the white matter of the brain whereby individual patches run together.,HP:0000707,1,Synonym
+HP:0000185,"Cleft of the soft palate (also known as the velum, or muscular palate) as a result of a developmental defect occurring between the 7th and 12th week of pregnancy. Cleft soft palate can cause functional abnormalities of the Eustachian tube with resulting middle ear anomalies and hearing difficulties, as well as speech problems associated with hypernasal speech due to velopharyngeal insufficiency.",HP:0000152,10,Synonym
+HP:0031266,"An anomaly of podocyte morphology characterized by the loss of the interdigitating foot process pattern (generally called foot process effacement; FPE). The term FPE designates the loss of the usual interdigitating pattern of foot processes of neighboring podocytes, leading to relatively broad expanses of podocyte processes covering the glomerular basement membrane (GBM). It is widely viewed as a pathological derangement that is associated with leakage of macromolecules such as albumin through the glomerular filtration barrier.",HP:0000119,4,Synonym
+HP:0011067,The presence of a supernumerary tooth in the midline between the maxillary central incisors.,HP:0000152,4,Synonym
+HP:0008743,A mild form of hypospadias in which the urethra opens just under the corona glandis.,HP:0000119,2,Synonym
+HP:0007260,A form of lissencephaly characterized by an uneven cortical surface with a so called 'cobblestone' appearace. There are no distinguishable cortical layers.,HP:0000707,4,Synonym
+HP:0007095,An excessive number of small gyri (convolutions) on the surface of the brain in the frontoparietal region.,HP:0000707,3,Synonym
+HP:0006955,"Hypoplasia of the cerebellum, pontine nuclei, and inferior olivary nucleus.",HP:0000707,4,Synonym
+HP:0004746,"Electron dense deposits at the glomerular basement membrane,",HP:0000119,6,Synonym
+HP:0032456,A type of lissencephaly whereby upon neuropathological examination the cortical plate is severely disorganized with a festooned-like pattern and with neither lamination nor clear demarcation between white and grey matter.,HP:0000707,4,Synonym
+HP:0012576,The presence of complement 3 deposits in the glomerulus.,HP:0000119,9,Definition
+HP:0032471,Polymicrogyria affecting one or multiple small areas of the cerebral cortex.,HP:0000707,4,Synonym
+HP:0012753,A darker than expected T2 signal on magnetic resonance imaging (MRI) of the basal ganglia. This term refers to a diffuse hypointensity affecting all of the basal ganglia.,HP:0000707,2,Synonym
+HP:0000680,Delayed tooth eruption affecting the primary dentition.,HP:0000152,6,Synonym
+HP:0012018,EEG with focal sharp transient waves of a duration less than 80 msec in the temporal region.,HP:0000707,3,Synonym
+HP:0011093,Increased size and molar morphology of premolar tooth.,HP:0000152,8,Synonym
+HP:0011827,Absence of the usual parallel position of philtral ridges.,HP:0000152,8,Synonym
+HP:0012015,EEG with focal sharp transient waves of a duration less than 80 msec in the frontal region.,HP:0000707,3,Synonym
+HP:0006344,An abnormality of morphology of primary molar.,HP:0000152,5,Synonym
+HP:0032415,Polymicrogyria in parasagittal and mesial aspects of parieto-occipital cortex.,HP:0000707,4,Synonym
+HP:0011290,EEG with sharp slow waves in the frontal region. Sharp slow waves are focal sharp transient waves of a duration between 80 and 200 msec followed by a slow wave.,HP:0000707,3,Synonym
+HP:0011828,Pit in the midline of the philtral groove.,HP:0000152,10,Synonym
+HP:0012752,A darker than expected T2 signal on magnetic resonance imaging (MRI) of the basal ganglia. This term refers to a localized hypointensity affecting a particular region of the basal ganglia.,HP:0000707,2,Synonym
+HP:0011092,"Mulberry molars are irregular teeth generally affecting the first molars and are characterized by a grossly deformed crown imitating, as the name implies, the surface of a mulberry.",HP:0000152,10,Synonym
+HP:0020205,"Tubulointerstitial infiltration of yeast or hyphal-microrganisms identified on routine and/or special (PAS, silver) stains.",HP:0000119,6,Synonym
+HP:0006350,Obliteration of the pulp chambers owing to mineralization of the dental pulp.,HP:0000152,13,Synonym
+HP:0011065,An abnormal conical morphology of the incisor tooth.,HP:0000152,9,Synonym
+HP:0025415,"A type of urethral stricture affecting the bulbar urethra, which is the part of the urethra that traverses the root of the penis.",HP:0000119,0,Synonym
+HP:0000161,A type of cleft lip presenting as a midline (median) gap in the upper lip.,HP:0000152,5,Synonym
+HP:0011294,"EEG with sharp waves in the frontal region, i.e., sharp transient waves of a duration between 80 and 200 msec.",HP:0000707,1,Synonym
+HP:0011825,Prominence of a triangular soft tissue area of the philtrum with the apex to the columella.,HP:0000152,7,Synonym
+HP:0030708,"The severe form of a neural tube defect where the open neural tube appears as a flattened, plate-like mass of nervous tissue with no overlying membrane.",HP:0000707,3,Synonym
+HP:0011091,"The development of two teeth from a single tooth bud, leading to a larger fused tooth.",HP:0000152,13,Synonym
+HP:0012017,EEG with focal sharp transient waves of a duration less than 80 msec in the parietal region.,HP:0000707,4,Synonym
+HP:0031948,Centrally located corpus callosum hyperintensities said to resemble snowballs upon magnetic resonance imaging (with T2 or Sagittal fluid attenuated inversion recovery [FLAIR] sequences). The central location in the callosum makes them pathognomonic for Susac syndrome.,HP:0000707,4,Synonym
+HP:0008486,Narrowing (becoming gradually narrower) of the distance between lumbar vertebral pedicles that gets progressively more severe towards to caudal (lower) end of the vertebral column.,HP:0000924,9,Synonym
+HP:0005326,Underdevelopment of the philtrum.,HP:0000152,18,Synonym
+HP:0500035,"A mass of granulation tissue in response to chronic dacryocystitis as polypoid formations or they follow accidental injury, from probing and as a reaction to retained foreign bodies in the sac.",HP:0000152,18,Synonym
+HP:0007112,Atrophy of the temporal cortex.,HP:0000707,4,Synonym
+HP:0006817,Absence or underdevelopment of the vermis of cerebellum.,HP:0000707,4,Synonym
+HP:0000652,A short discontinuity of the margin of the lower eyelid.,HP:0000152,8,Synonym
+HP:0000808,A severe form of hypospadias in which the urethral opening is located at the junction of the penis and scrotum.,HP:0000119,2,Synonym
+HP:0012013,"EEG with focal sharp transient waves in the temporal region, i.e., focal sharp waves of a duration less than 80 msec followed by a slow wave.",HP:0000707,4,Synonym
+HP:0000289,"Distance between the philtral ridges, measured just above the vermilion border, more than 2 standard deviations above the mean, or alternatively, an apparently increased distance between the ridges of the philtrum.",HP:0000152,23,Synonym
+HP:0012557,"EEG with focal sharp transient waves in the centrotemporal region of the brain (also known as the central sulcus), i.e., focal sharp waves of a duration less than 80 msec followed by a slow wave.",HP:0000707,0,Synonym
+HP:0025413,"A type of urethral stricture affecting the fossa navicularis, which is the spongy part of the male urethra located at the glans penis.",HP:0000119,1,Synonym
+HP:0012011,"EEG with focal sharp transient waves in the occipital region, i.e., focal sharp waves of a duration less than 80 msec followed by a slow wave.",HP:0000707,3,Synonym
+HP:0006818,"A form of lissencephaly in which the cortex is thickened and has four more or less disorganized layers rather than six normal layers resulting from incomplete neuronal migration during brain development. At neuropathological examination, a 4-layered cortex consists of an upper molecular layer, a second thin cellular layer containing pyramidal neurons usually observed in layer V, a third pale poorly cellular layer and a fourth thick deep layer made up of neurons which had failed to migrate. Radiologocally would manifest as agyria or pachygyria with cortical thickness greater than 10 mm.",HP:0000707,5,Synonym
+HP:0045025,Reduction in the vertical distance between the upper and lower eyelids.,HP:0000152,6,Synonym
+HP:0030756,"Reddish, brown opalescent discoloration of teeth in normal light.",HP:0000152,8,Synonym
+HP:0007074,Increased vertical dimension of the corpus callosum. This feature can be visualized by sagittal sections on magnetic resonance tomography imaging of the brain.,HP:0000707,4,Synonym
+HP:0012745,"Distance between the medial and lateral canthi is more than 2 SD below the mean for age (objective); or, apparently reduced length of the palpebral fissures.",HP:0000152,4,Synonym
+HP:0007874,"A shape created by an acute downward arching of the upper eyelid and upward arching of the lower eyelid, toward the medial canthus, which gives the outline of the palpebral fissures the configuration of an almond. Thus, the maximum distance between the fissures is offset from, and medial to, the center point.",HP:0000152,10,Synonym
+HP:0011190,Epileptiform discharges identified at multiple locations temporarily in both hemispheres and temporarily in one hemisphere.,HP:0000707,2,Synonym
+HP:0012104,Atrophy of the parietal cortex.,HP:0000707,4,Synonym
+HP:0011194,Focal spikes occurring for several seconds.,HP:0000707,5,Synonym
+HP:0012012,"EEG with focal sharp transient waves in the parietal region, i.e., focal sharp waves of a duration less than 80 msec followed by a slow wave.",HP:0000707,3,Synonym
+HP:0045028,"Severe microcephaly and lissencephaly with granular surfaces with immature cortical plate, reduced in thickness, with focal polymicrogyria and immature small neurons with rare processes, intermingled with a considerable number of glial elements.",HP:0000707,5,Synonym
+HP:0041052,A developmental defect characterized by the absence of the putamen owing to its failure to develop.,HP:0000707,4,Synonym
+HP:0025192,Areas of brighter than expected signal on magnetic resonance imaging emanating from the cerebral white matter that surrounds the fourth cerebral ventricle (which is located beneath the tentorium of the cerebellum).,HP:0000707,3,Synonym
+HP:0012644,An elevated concentration of lactate in the caudate nucleus. This finding can be elicited by magnetic resonance spectroscopy imaging.,HP:0000707,6,Synonym
+HP:0002335,Congenital absence of the vermis of cerebellum.,HP:0000707,3,Synonym
+HP:0001320,Underdevelopment of the vermis of cerebellum.,HP:0000707,2,Synonym
+HP:0002079,Underdevelopment of the corpus callosum.,HP:0000707,3,Synonym
+HP:0030081,Multiple pointlike areas of high T2 signal observed upon magnetic resonance imaging of the periventricular cerebral white matter.,HP:0000707,3,Synonym
+HP:0006342,Peg-shaped upper lateral secondary incisor tooth.,HP:0000152,4,Synonym
+HP:0032049,A subtype of focal cortical dysplasia type I that is characterized by abnormal tangential cortical lamination.,HP:0000707,7,Synonym
+HP:0032056,"A subtype of focal cortical dysplasia type III that is characterized by altered architectural (cortical dyslamination, hypoplasia without six-layered structure) and/or cytoarchitectural composition (hypertrophic neurons) of the neocortex, which occur adjacent to glial or glioneuronal tumor.",HP:0000707,5,Synonym
+HP:0020192,Pachygyria with a mildly thickend cerebral cortex measuring 5-10 mm. Note that cortical thickness cannot be measured reliably on scans done between 3 and 24 months of age.,HP:0000707,4,Synonym
+HP:0011819,A cleft of the muscular (soft) portion of the palate that is covered by mucous membrane. Soft-palate submucous clefts are characterized by a midline deficiency or lack of muscle tissue.,HP:0000152,10,Synonym
+HP:0007946,A fixed reduction in the vertical distance between the upper and lower eyelids with short palpebral fissures on one side only.,HP:0000152,12,Synonym
+HP:0032058,"A subtype of focal cortical dysplasia type III that is characterized by altered architectural (cortical dyslamination, hypoplasia without six-layered structure) or cytoarchitectural composition (hypertrophic neurons) of the neocortex, which occur adjacent to other lesions acquired during early life (not included into FCD Type IIIa-c). These lesions comprise a large spectrum including traumatic brain injury, glial scarring after prenatal or perinatal ischemic injury or bleeding, and inflammatory or infectious diseases, i.e. Rasmussen encephalitis, limbic encephalitis, bacterial or viral infections.",HP:0000707,2,Synonym
+HP:0000176,Hard-palate submucous clefts are characterized by bony defects in the midline of the bony palate that are covered by the mucous membrane of the roof of the mouth. It may be possible to detect a submucous cleft hard palate upon palpation as a notch in the bony palate.,HP:0000152,6,Synonym
+HP:0032055,"A subtype of focal cortical dysplasia type III that is characterized by alterations in architectural organisation (cortical dyslamination) or cytoarchitectural composition (hypertrophic neurons outside Layer 5) in patients with hippocampal sclerosis (HS, syn. Ammon's horn sclerosis).",HP:0000707,4,Synonym
+HP:0012738,Agenesis of canine tooth.,HP:0000152,4,Synonym
+HP:0002951,Congenital absence of a part of the vermis of cerebellum.,HP:0000707,3,Synonym
+HP:0010856,Periodically occurring generalized periodic complexes.,HP:0000707,7,Synonym
+HP:0002404,Increased width of the superior cerebellar peduncle.,HP:0000707,4,Synonym
+HP:0032048,A subtype of focal cortical dysplasia type I that is characterized by abnormal radial cortical lamination.,HP:0000707,8,Synonym
+HP:0010292,Lack of the uvula.,HP:0000152,16,Synonym
+HP:0032057,"A subtype of focal cortical dysplasia type III that is characterized by alterations in architectural (cortical dyslamination, hypoplasia) or cytoarchitectural composition of the neocortex (hypertrophic neurons), which occur adjacent to vascular malformations (cavernomas, arteriovenous malformations, leptomeningeal vascular malformations, telangiectasias, meningioangiomatosis).",HP:0000707,5,Synonym
+HP:0010812,Decreased length of the uvula.,HP:0000152,20,Synonym
+HP:0032053,A subtype of focal cortical dysplasia type II that is characterized by dysmorphic neurons (significantly enlarged with accumulation of neurofilament proteins) and balloon cells.,HP:0000707,5,Synonym
+HP:0010289,"A gap (cleft) affecting one of the alveolar ridges, which are the protuberances in the mouth that contain the sockets (alveoli) of the teeth. An alveolar cleft can affect all structures of the alveolar ridge, including the gingiva, other mucosa, periosteum, alveolar bone, and teeth.",HP:0000152,9,Synonym
+HP:0011051,Agenesis of premolar tooth.,HP:0000152,5,Synonym
+HP:0032052,"A subtype of focal cortical dysplasia type II that is characterized by dysmorphic neurons, which present with a significantly enlarged cell body and nucleus, malorientation, abnormally distributed intracellular Nissl substance and cytoplasmic accumulation of neurofilament proteins.",HP:0000707,4,Synonym
+HP:0020187,Pachygyria with a very thick cerebral cortex measuring 10-20 mm. Note that cortical thickness cannot be measured reliably on scans done between 3 and 24 months of age.,HP:0000707,4,Synonym
+HP:0030286,Atrophy of the superior cerebellar peduncle.,HP:0000707,4,Synonym
+HP:0100337,Nonmidline cleft palate on the left and right sides.,HP:0000152,4,Synonym
+HP:0008501,Cleft lip or palate affecting the midline region of the palate.,HP:0000152,4,Synonym
+HP:0011933,Increased length of the superior cerebellar peduncle.,HP:0000707,4,Synonym
+HP:0032406,A type of perisylvian polymicrogyria that largely affects one side of the brain.,HP:0000707,3,Synonym
+HP:0011054,Agenesis of molar tooth.,HP:0000152,4,Synonym
+HP:0500036,Benign tumor of the nasolacrimal sac.,HP:0000152,4,Synonym
+HP:0000675,Increased size of the maxillary central secondary incisor tooth.,HP:0000152,4,Synonym
+HP:0011083,An abnormal conical morphology of either maxillary primary incisor tooth or maxillary permanent incisor tooth or both.,HP:0000152,3,Synonym
+HP:0001274,"Absence of the corpus callosum as a result of the failure of the corpus callosum to develop, which can be the result of a failure in any one of the multiple steps of callosal development including cellular proliferation and migration, axonal growth or glial patterning at the midline.",HP:0000707,2,Synonym
+HP:0100333,A non-midline cleft of the upper lip on one side only.,HP:0000152,4,Synonym
+HP:0006485,Agenesis of incisor.,HP:0000152,3,Synonym
+HP:0011082,An abnormal conical morphology of the primary incisor.,HP:0000152,10,Synonym
+HP:0006336,Short dental root.,HP:0000152,4,Synonym
+HP:0006339,An abnormal conical morphology of the primary or permanent mandibular incisors.,HP:0000152,4,Synonym
+HP:0012225,Reduced number of primary teeth.,HP:0000152,7,Synonym
+HP:0000679,Increased volume of dental pulp of permanent molar.,HP:0000152,5,Synonym
+HP:0032413,Longitudinal bands of gray matter located deep to the cerebral cortex and separated from it by a thin layer of normal appearing white matter visible along the whole brain.,HP:0000707,2,Synonym
+HP:0100336,A non-midline cleft of the upper lip on the left and right sides.,HP:0000152,7,Synonym
+HP:0001571,The presence of multiple impacted teeth.,HP:0000152,3,Synonym
+HP:0032411,Longitudinal bands of gray matter located deep to the cerebral cortex and separated from it by a thin layer of normal appearing white matter visible along the occipital cortex.,HP:0000707,3,Synonym
+HP:0032407,A type of perisylvian polymicrogyria that affects both sides of the brain.,HP:0000707,3,Synonym
+HP:0030285,Abnormal splayed configuration (spreading out) of the superior cerebellar peduncle.,HP:0000707,4,Synonym
+HP:0032412,Longitudinal bands of gray matter located deep to the cerebral cortex and separated from it by a thin layer of normal appearing white matter visible in the frontal and temporal lobes.,HP:0000707,4,Synonym
+HP:0000193,Uvula separated into two parts most easily seen at the tip.,HP:0000152,19,Synonym
+HP:0020189,"Pachygyria with cortical thickness above 10 mm with and a posterior predominant severety gradient. The severety gradient is determined based on the gyral width, with gyri typically wider than 5mm over the more severely affected regions. Posterior predominant gradient indicates pachygyria more severe other the occipital lobes but also includes a rare perisylvian-predominant pachygyria and a temporal predominant pachygyria.",HP:0000707,3,Synonym
+HP:0020191,"Pachygyria with cortical thickness greater than 10 mm and an anterior predominant severity gradient. The severety gradient is determined based on the gyral width, with gyri typically wider than 5mm over the more severely affected regions. Anterior predominant gradient indicates pachygyria more severe over the frontal and temporal lobes.",HP:0000707,1,Synonym
+HP:0011055,Agenesis of secondary molar tooth.,HP:0000152,5,Synonym
+HP:0020188,"Pachygyria with cortical thickness between 5 and 10 mm with and a posterior predominant severety gradient. The severety gradient is determined based on the gyral width, with gyri typically over 5mm over the more severely affected regions. Posterior predominant gradient indicates pachygyria more severe other the occipital lobes but also includes a rare perisylvian-predominant pachygyria and a temporal predominant pachygyria.",HP:0000707,3,Synonym
+HP:0410034,Nonmidline alveolar cleft of the maxilla.,HP:0000152,3,Synonym
+HP:0011053,Agenesis of mandibular premolar.,HP:0000152,3,Synonym
+HP:0001566,Increased distance between the maxillary central permanent incisor tooth.,HP:0000152,4,Synonym
+HP:0011052,Agenesis of maxillary premolar.,HP:0000152,4,Synonym
+HP:0410033,One sided alveolar cleft of the maxilla.,HP:0000152,4,Synonym
+HP:0032050,A subtype of focal cortical dysplasia type I that is characterized by abnormal radial and tangential cortical lamination.,HP:0000707,7,Synonym
+HP:0002744,Cleft lip and cleft palate affecting both sides of the face.,HP:0000152,4,Synonym
+HP:0020190,"Pachygyria with cortical thickness greater than 10 mm and a perisylvian predominant severity gradient. The severity gradient is determined based on the gyral width, with gyri typically wider than 5mm over the more severely affected regions. Perisylvian predominant gradient indicates pachygyria more severe other the occipital lobes but also includes a rare perisylvian-predominant pachygyria and a temporal predominant pachygyria.",HP:0000707,3,Synonym
+HP:0006289,"Agenesis of one or more central incisors, i.e., of lower secondary incisor, lower primary incisor, upper secondary incisor, or of upper central primary incisor.",HP:0000152,6,Synonym
+HP:0001338,A partial failure of the development of the corpus callosum.,HP:0000707,3,Synonym
+HP:0007068,Underdevelopment of the inferior portion of the vermis of cerebellum.,HP:0000707,3,Synonym
+HP:0006355,Agenesis of lower secondary incisor or lower primary incisor.,HP:0000152,3,Synonym
+HP:0011056,Agenesis of either maxillary first permanent molar or mandibular first permanent molar or both.,HP:0000152,4,Synonym
+HP:0011057,Agenesis of either mandibular second permanent molar or maxillary second permanent molar.,HP:0000152,4,Synonym
+HP:0000690,"Agenesis of one or more maxillary lateral incisor, comprising the maxillary lateral primary incisor and maxillary lateral secondary incisor.",HP:0000152,5,Synonym
+HP:0006293,Agenesis of upper secondary incisor or of upper central primary incisor.,HP:0000152,3,Synonym
+HP:0011049,"Agenesis of one or more maxillary lateral incisor, comprising the maxillary lateral primary incisor.",HP:0000152,4,Synonym
+HP:0011046,Agenesis of upper central primary incisor.,HP:0000152,5,Synonym
+HP:0011047,Agenesis of lower primary incisor.,HP:0000152,6,Synonym
+HP:0011045,Agenesis of upper secondary incisor.,HP:0000152,5,Synonym
+HP:0011048,Agenesis of lower secondary incisor.,HP:0000152,5,Synonym
+HP:0011050,Agenesis of one or more upper lateral secondary incisor.,HP:0000152,3,Synonym

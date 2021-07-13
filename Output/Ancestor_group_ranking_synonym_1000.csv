@@ -1,0 +1,1002 @@
+HPO_ID,Sentence,Ancestor,Rank,Remarks
+HP:0025461,Any anomaly of cell structure.,HP:0025354,3,Definition
+HP:0031352,An unpleasant sensation of tightness or pressure in the chest.,HP:0025142,3,Definition
+HP:0000464,An abnormality of the neck.,HP:0000152,0,Synonym
+HP:0031863,The presence of an infectious agent in the blood circulation.,HP:0001939,10,Synonym
+HP:0001928,"An abnormality of the process of blood coagulation. That is, altered ability or inability of the blood to clot.",HP:0001871,4,Synonym
+HP:0009088,Impairment in the physical production of speech sounds.,HP:0001608,0,Synonym
+HP:0041079,"The percentage of fat as a part of total body weight below the norm, usually defined as less than 14% for females and less than 8% for males.",HP:0001507,0,Synonym
+HP:0012379,An altered ability of any enzyme or their cofactors to act as catalysts. This term includes changes due to altered levels of an enzyme.,HP:0001939,3,Synonym
+HP:0011024,An abnormality of the gastrointestinal tract.,HP:0025031,1,Definition
+HP:0100685,"An abnormality of Sharpey's fibers (bone fibers, or perforating fibers), which are a matrix of connective tissue consisting of bundles of strong collagenous fibres connecting periosteum to bone.",HP:0003549,1,Definition
+HP:0031838,Presence of a chemical substance found within an individual that is not naturally produced or expected to be present in human tissues or bodily fluids.,HP:0001939,8,Synonym
+HP:0011805,A structural abnormality of a skeletal muscle.,HP:0003011,3,Synonym
+HP:0001622,The birth of a baby of less than 37 weeks of gestational age.,HP:0001197,0,Synonym
+HP:0001621,Reduced intensity (volume) of speech.,HP:0001608,1,Synonym
+HP:0012639,A structural anomaly of the nervous system.,HP:0000707,1,Synonym
+HP:0000828,An abnormality of the parathyroid gland.,HP:0000818,1,Definition
+HP:0011034,The presence of amyloid deposition in one or more tissues. Amyloidosis may be defined as the extracellular deposition of amyloid in one or more sites of the body.,HP:0001939,11,Synonym
+HP:0010978,A functional abnormality of the immune system.,HP:0002715,0,Definition
+HP:0033047,"Body ache is a complaint that is often used to denote vague symptoms of mild fatigue, lethargy, or dull aches. We will define it here to mean a dull and poorly localizable pain that is described by the affected individual to affect multiple joints or body parts or even the entire body.",HP:0025142,0,Definition
+HP:0100536,An abnormality of fascia.,HP:0003549,1,Definition
+HP:0031434,"An anomaly of the expressive patterns of speech that involve intonation, stress pattern, loudness variations, pausing, articulatory force, and rhythm.",HP:0001608,0,Synonym
+HP:0010300,An abnormally low-pitched voice.,HP:0001608,0,Synonym
+HP:0031550,"Any abnormal result of flow cytometry, a method that suspends cells in a stream of fluid and passes them through an electronic detection apparatus in order to assess cell count or measure biomarkers or surface molecules.",HP:0025354,0,Definition
+HP:0011425,An finding upon obstetric ultrasound examination performed at around 16 to 20 weeks of gestation that is abnormal but not clearly identifiable as a fetal anatomic malformation or growth restriction. Such findings are known as soft markers since they are associated with increased risk for fetal aneuploidy or other disorders.,HP:0001197,1,Synonym
+HP:0500015,Abnormal test result of cardiovascular physiology.,HP:0001626,0,Synonym
+HP:0000234,An abnormality of the head.,HP:0000152,1,Synonym
+HP:0011138,"An abnormality of the skin adnexa (skin appendages), which are specialized skin structures located within the dermis and focally within the subcutaneous fatty tissue, comprising three histologically distinct structures: (1) the pilosebaceous unit (hair follicle and sebaceous glands); (2) the eccrine sweat glands; and (3) the apocrine glands.",HP:0001574,3,Definition
+HP:0001510,A deficiency or slowing down of growth pre- and postnatally.,HP:0001507,0,Synonym
+HP:0031093,Any anomaly of the structure of the breast.,HP:0000769,0,Definition
+HP:0500001,A perceived unpleasant smell given off by the body.,HP:0025142,2,Definition
+HP:0100271,Hyponasal speech is when there is an abnormally reduced nasal airflow during speech often in a setting of nasal obstruction or congestion.,HP:0001608,1,Synonym
+HP:0031217,"Sudden feelings of warmth that are generally most pronounced over the face, neck and chest.",HP:0025142,3,Definition
+HP:0020169,An anomlous response to a medication related to individual variation in metabolic or immune response to drugs varying from potentially from potentially life-threatening adverse drug reactions to alteration of therapeutic efficacy.,HP:0001939,1,Definition
+HP:0009124,"An abnormality of adipose tissue, which is loose connective tissue composed of adipocytes.",HP:0003549,1,Definition
+HP:0012372,"A structural anomaly of the globe of the eye, or bulbus oculi.",HP:0000478,1,Definition
+HP:0002817,An abnormality of the arm.,HP:0040064,13,Synonym
+HP:0041090,A fractured in which a fragment of the pelvic region of trunk bone tears away from the main mass of bone as a result of physical trauma.,HP:0041161,0,Definition
+HP:0025429,"Any anomaly of the vocalizing of an infant's crying, i.e.,the typically loud voice production that is accompanied by tears and agitation.",HP:0001608,1,Synonym
+HP:0001218,Spontaneous detachment (amputation) of an appendage from the body.,HP:0040064,6,Synonym
+HP:0001892,"An abnormal susceptibility to bleeding, often referred to as a bleeding diathesis. A bleeding diathesis may be related to vascular, platelet and coagulation defects.",HP:0001871,4,Synonym
+HP:0025144,Involuntary contraction or twitching of the muscles.,HP:0025142,9,Definition
+HP:0012029,An abnormal concentration of a hormone in the urine.,HP:0000818,1,Definition
+HP:0100589,The presence of a fistula affecting the genitourinary system.,HP:0000119,0,Synonym
+HP:0012373,A functional anomaly of the eye.,HP:0000478,1,Definition
+HP:0001787,An abnormality of the birth process.,HP:0001197,0,Synonym
+HP:0032483,Abnormal level of metabolite or other abnormal analyte result in a stool test.,HP:0001939,0,Synonym
+HP:0009025,The presence of an abnormally increased amount of connective tissue.,HP:0003549,0,Definition
+HP:0410008,Any abnormality of the part of the nervous system that consists of the nerves and ganglia outside of the brain and spinal cord.,HP:0000707,0,Synonym
+HP:0011842,"An abnormality of the form, structure, or size of the skeletal system.",HP:0000924,2,Synonym
+HP:0001194,An abnormality of the placenta (the organ that connects the developing fetus to the uterine wall) or of the umbilical cord (the cord that connects the fetus to the placenta).,HP:0001197,0,Synonym
+HP:0020047,"Any structural anomaly of a cell of the monocyte, granulocyte, mast cell, megakaryocyte, or erythroid lineage.",HP:0001871,2,Synonym
+HP:0005561,An anomaly of the form or number of cells in the bone marrow.,HP:0001871,2,Synonym
+HP:0002012,An abnormality of the viscera of the abdomen.,HP:0025031,1,Definition
+HP:0012638,A functional anomaly of the nervous system.,HP:0000707,1,Synonym
+HP:0031704,Any functional anomaly of the ear.,HP:0000598,0,Synonym
+HP:0033012,Any deviation from the normal concentration of a metabolite in saliva.,HP:0001939,1,Synonym
+HP:0012252,A structural anomaly of the respiratory system.,HP:0002086,0,Definition
+HP:0011843,An abnormality of the function of the skeletal system.,HP:0000924,0,Synonym
+HP:0012378,A subjective feeling of tiredness characterized by a lack of energy and motivation.,HP:0025142,3,Definition
+HP:0010948,An abnormality of the fetal circulation system or fetal echocardiogram.,HP:0001626,1,Synonym
+HP:0012531,"An unpleasant sensory and emotional experience associated with actual or potential tissue damage, or described in terms of such damage.",HP:0025142,12,Definition
+HP:0032479,"It is estimated that about 40-70 percent of human embryos produced in vitro fertilization (IVF) and intracytoplasmic sperm injection (ICSI) are viable embryos, whereas others arrest at different early stages of development. The phenotype of preimplantation lethality is inferred if IVF and ICSI cycles fail because all of an individual's embryos are arrested at early stages of development.",HP:0001197,0,Synonym
+HP:0001877,Any structural abnormality of erythrocytes (red-blood cells).,HP:0001871,2,Synonym
+HP:0025406,A state characterized by a feeling of weakness and loss of strength leading to a generalized weakness of the body.,HP:0025142,1,Definition
+HP:0041118,A partial or complete breakage of the upper limb segment.,HP:0040064,3,Synonym
+HP:0001557,An abnormality of fetal movement.,HP:0001197,0,Synonym
+HP:0000079,An abnormality of the urinary system.,HP:0000119,1,Definition
+HP:0002814,An abnormality of the leg.,HP:0040064,6,Synonym
+HP:0025276,"Any functional anomaly of the skin adnexa (skin appendages), which are specialized skin structures located within the dermis and focally within the subcutaneous fatty tissue, comprising three histologically distinct structures: (1) the pilosebaceous unit (hair follicle and sebaceous glands); (2) the eccrine sweat glands; and (3) the apocrine glands.",HP:0001574,0,Definition
+HP:0011792,Neoplasm categorized according to type of histological abnormality.,HP:0002664,0,Definition
+HP:0025116,"An intrauterine state characterized by suboptimal values in the fetal heart rate, oxygenation of fetal blood, or other parameters indicative of compromise of the fetus. Signs of fetal distress include repetitive variable decelerations, fetal tachycardia or bradycardia, late decelerations, or low biophysical profile.",HP:0001197,0,Synonym
+HP:0032243,Any deviation from the normal concentration of a metabolite in a tissue.,HP:0001939,0,Synonym
+HP:0031169,A pregnancy that extends to 42 weeks of gestation or beyond.,HP:0001197,0,Synonym
+HP:0001438,"A structural abnormality of the abdomen ('belly'), that is, the part of the body between the pelvis and the thorax.",HP:0025031,14,Definition
+HP:0001609,"Hoarseness refers to a change in the pitch or quality of the voice, with the voice sounding weak, very breathy, scratchy, or husky.",HP:0001608,0,Synonym
+HP:0032180,An abnormal level of an analyte measured in the blood.,HP:0001939,4,Synonym
+HP:0012337,An anomaly in the processes involved in the maintenance of an internal equilibrium.,HP:0001939,1,Definition
+HP:0011793,Neoplasm categorized according to the anatomical site of origin of the neoplasm.,HP:0002664,0,Definition
+HP:0031703,Any structural anomaly of the ear.,HP:0000598,0,Synonym
+HP:0010766,Deposition of calcium salts in a tissue or location in which calcification does not normally occur.,HP:0000924,11,Synonym
+HP:0041117,A partial or complete breakage of the lower limb segment.,HP:0040064,3,Synonym
+HP:0001872,An abnormality of platelets.,HP:0001871,2,Synonym
+HP:0025143,A sudden sensation of feeling cold.,HP:0025142,4,Definition
+HP:0410014,An abnormality of nerve cell cluster or a group of nerve cell bodies located in the autonomic nervous system.,HP:0000707,1,Synonym
+HP:0030680,Any structural anomaly of the heart and great vessels.,HP:0001626,1,Synonym
+HP:0030753,Loss of one twin occurring after midgestation (17 weeks gestation).,HP:0001197,0,Synonym
+HP:0000847,An abnormality of the renin-angiotensin system.,HP:0000818,4,Definition
+HP:0031058,"Difficulty in performing one or more activities normally performed every day, such as eating, bathing, dressing, grooming, work, homemaking, and leisure.",HP:0025142,6,Definition
+HP:0032245,"An abnormality in the function of the chemical reactions related to processes including conversion of food to enter, synthesis of proteins, lipids, nucleic acids, and carbohydrates, or the elimination of waste products.",HP:0001939,1,Synonym
+HP:0025521,"The percentage of fat as a part of total body weight above the norm, usually defined as 32% for females and 25% for males.",HP:0001507,0,Synonym
+HP:0004298,The presence of any abnormality affecting the abdominal wall.,HP:0025031,12,Definition
+HP:0020054,Any functional abnormality of erythrocytes (red-blood cells).,HP:0001871,2,Synonym
+HP:0031071,Any anomaly of the structure of an organ ofthe endocrine system.,HP:0000818,1,Definition
+HP:0012680,"An anomaly of the pineal gland,a small endocrine gland in the brain that produces melatonin.",HP:0000818,1,Definition
+HP:0031094,Any anomaly of the function of the breast.,HP:0000769,0,Definition
+HP:0011804,A functional abnormality of a skeletal muscle.,HP:0003011,3,Synonym
+HP:0004323,An abnormal increase or decrease of weight or an abnormal distribution of mass in the body.,HP:0001507,0,Synonym
+HP:0100658,A bacterial infection and inflammation of the skin und subcutaneous tissues.,HP:0003549,10,Definition
+HP:0001977,Venous or arterial thrombosis (formation of blood clots) of spontaneous nature and which cannot be fully explained by acquired risk (e.g. atherosclerosis).,HP:0001871,1,Synonym
+HP:0031072,Any anomaly of the function of the endocrine system.,HP:0000818,0,Definition
+HP:0000951,An abnormality of the skin.,HP:0001574,3,Definition
+HP:0025033,A structural anomaly of the digestive system.,HP:0025031,0,Definition
+HP:0000834,"Abnormality of the adrenal glands, i.e., of the endocrine glands located at the top of the kindneys.",HP:0000818,1,Definition
+HP:0031110,"As a result of sharing a single placenta, the blood supplies of monochorionic twin fetuses can become connected, so that they share blood circulation: although each fetus uses its own portion of the placenta, the connecting blood vessels within the placenta allow blood to pass from one twin to the other.Depending on the number, type and direction of the interconnecting blood vessels (anastomoses), blood can be transferred disproportionately from one twin (the donor) to the other (the recipient). This state of transfusion causes the donor twin to have decreased blood volume, retarding the donor's development and growth. The blood volume of the recipient twin is increased, which can strain the fetus's heart and eventually lead to heart failure.",HP:0001197,1,Synonym
+HP:0001978,"The process of hematopoiesis occurring outside of the bone marrow (in the liver, thymus, and spleen) in the postnatal organisms.",HP:0001871,1,Synonym
+HP:0000002,Deviation from the norm of height with respect to that which is expected according to age and gender norms.,HP:0001507,0,Synonym
+HP:0000873,A state of excessive water intake and hypotonic (dilute) polyuria. Diabetes insipidus may be due to failure of vasopressin (AVP) release (central or neurogenic diabetes insipidus) or to a failure of the kidney to respond to AVP (nephrogenic diabetes insipidus).,HP:0000818,1,Definition
+HP:0011025,Abnormal functionality of the cardiovascular system.,HP:0001626,0,Synonym
+HP:0002597,An abnormality of the vasculature.,HP:0001626,1,Synonym
+HP:0025032,A functional anomaly of the digestive system.,HP:0025031,0,Definition
+HP:0031801,Any functional anomaly of the vocal cord.,HP:0001608,1,Synonym
+HP:0001560,"Abnormality of the amniotic fluid, which is the fluid contained in the amniotic sac surrounding the developing fetus.",HP:0001197,0,Synonym
+HP:0010932,An abnormality of a nucleobase metabolic process.,HP:0001939,1,Definition
+HP:0100555,A growth pattern that displays an abnormal difference between the left and the right side.,HP:0001507,0,Synonym
+HP:0031462,Abnormal reduction in length of a tendon which tends to pull (retract) the attached muscle tissue with shortening of the muscle fibers often accompanied by atrophy and fatty degeneration of the affected muscle tissue.,HP:0003549,0,Definition
+HP:0031170,Fetal masculinization of female external genitalia.,HP:0001197,0,Synonym
+HP:0032207,Any deviation from the normal concentration of a metabolite in cerebrospinal fluid.,HP:0001939,2,Synonym
+HP:0003117,An abnormal concentration of a hormone in the blood.,HP:0000818,1,Synonym
+HP:0030853,An abnormality in which the internal thoraco-abdominal organs demonstrate abnormal arrangement across the left-right axis of the body.,HP:0001507,3,Synonym
+HP:0001620,An abnormal increase in the pitch (frequency) of the voice.,HP:0001608,0,Synonym
+HP:0000078,An abnormality of the genital system.,HP:0000119,1,Definition
+HP:0000864,"Abnormality of the pituitary gland (also known as hypophysis), which is an endocrine gland that protrudes from the bottom of the hypothalamus at the base of the brain. The pituitary gland secretes the hormones ACTH, TSH, PRL, GH, endorphins, FSH, LH, oxytocin, and antidiuretic hormone. The secretion of hormones from the anterior pituitary is under the strict control of hypothalamic hormones, and the posterior pituitary is essentially an extension of the hypothalamus, so that hypothalamus and pituitary gland may be regarded as a functional unit.",HP:0000818,2,Definition
+HP:0100758,A serious and potentially life-threatening condition that arises when a considerable mass of body tissue dies (necrosis).,HP:0025142,8,Definition
+HP:0030166,Occurence of excessive sweating during sleep.,HP:0025142,6,Definition
+HP:0001611,A type of speech characterized by the presence of an abnormally increased nasal airflow during speech.,HP:0001608,1,Synonym
+HP:0025021,"A deviation from normal range of the erythrocyte sedimentation rate (ESR), a test that measures the distance that erythrocytes have fallen after one hour in a vertical column of anticoagulated blood under the influence of gravity. The ESR is a nonspecific finding. An elevation may indicate inflammation or may be caused by any condition that elevates fibrinogen. A decreased ESR may be seen in polycythemia or in certain blood diseases in which red blood cells have an irregular or smaller shape that causes slower settling.",HP:0001939,3,Synonym
+HP:0001946,Presence of elevated levels of ketone bodies in the body.,HP:0001939,2,Synonym
+HP:0000820,An abnormality of the thyroid gland.,HP:0000818,1,Definition
+HP:0001623,A position of the fetus at delivery in which the fetus enters the birth canal with the buttocks or feet first.,HP:0001197,0,Synonym
+HP:0004447,The presence of abnormally shaped erythrocytes.,HP:0001871,1,Synonym
+HP:0010496,Abnormal increase in size of the lower limbs (due to an increase of the size of cells).,HP:0040064,3,Synonym
+HP:0020110,A partial or complete breakage of the continuity of a bone.,HP:0000924,10,Synonym
+HP:0100022,An abnormality of movement with a neurological basis characterized by changes in coordination and speed of voluntary movements.,HP:0000707,1,Synonym
+HP:0012769,A deviation from normal of the length of the arm span (length from one end of an individual's arms measured at the fingertips to the other when raised parallel to the ground at shoulder height at a one-hundred eighty degree angle),HP:0040064,4,Synonym
+HP:0410016,An abnormality of nerve cell cluster or a group of nerve cell bodies located in the autonomic nervous system of the cranium.,HP:0000707,1,Synonym
+HP:0031205,Reduction in the activity of lysosomal acid lipase (LAL) in the blood. Lysosomal lipase activity is measured. LAL hydrolyzes cholesteryl esters derived from cell internalization of plasma lipoproteins.,HP:0001939,2,Synonym
+HP:0001965,"Any anomaly of the scalp, the skin an subcutaneous tissue of the head on which head hair grows.",HP:0000152,1,Synonym
+HP:0032519,"Burr cells, also known as echinocytes, have a speculated border over the entire cell surface. Burr cells are commonly found in both end-stage renal disease and liver disease. Small numbers of Burr cells are commonly found in healthy individuals.",HP:0001871,6,Synonym
+HP:0025008,Downward movement of the trachea during inspiration due to downward traction on the tracheobronchial tree.,HP:0002086,0,Synonym
+HP:0031835,An abnormal level of catalysis of the reaction: 2 superoxide + 2 H+ = O2 + hydrogen peroxide.,HP:0001939,0,Definition
+HP:0031063,Applies to an individual who needs partial or total help with feeding or requires parenteral feeding.,HP:0025142,14,Definition
+HP:0001732,An abnormality of the pancreas.,HP:0025031,2,Definition
+HP:0410019,Pain that is localized to the region of the upper abdomen immediately below the ribs.,HP:0025142,2,Definition
+HP:0500005,Pain in and around the anus or rectum (perianal region).,HP:0025142,3,Definition
+HP:0031411,"Any structural anomaly of a chromosome, which is a thread like molecule consisting of DNA and proteins (chromatin) that contains DNA sequences for genes and other genetic elements in linear order.",HP:0025354,6,Definition
+HP:0006536,Obstruction of conducting airways of the lung.,HP:0002086,0,Synonym
+HP:0410144,"An abnormality in the biotinidase level, an enzyme that releases biotin from biocytin, the product of biotin-dependent carboxylases degradation.",HP:0001939,1,Definition
+HP:0025421,The presence of free air in the mediastinum.,HP:0045027,1,Definition
+HP:0002973,An abnormality of the lower arm.,HP:0040064,15,Synonym
+HP:0001279,"Syncope refers to a generalized weakness of muscles with loss of postural tone, inability to stand upright, and loss of consciousness. Once the patient is in a horizontal position, blood flow to the brain is no longer hindered by gravitation and consciousness is regained. Unconsciousness usually lasts for seconds to minutes. Headache and drowsiness (which usually follow seizures) do not follow a syncopal attack. Syncope results from a sudden impairment of brain metabolism usually due to a reduction in cerebral blood flow.",HP:0001626,1,Synonym
+HP:0001635,The presence of an abnormality of cardiac function that is responsible for the failure of the heart to pump blood at a rate that is commensurate with the needs of the tissues or a state in which abnormally elevated filling pressures are required for the heart to do so. Heart failure is frequently related to a defect in myocardial contraction.,HP:0001626,0,Synonym
+HP:0040286,A structural anomaly of the muscles of the trunk and head.,HP:0003011,1,Definition
+HP:0000475,Increased side-to-side width of the neck.,HP:0000152,1,Synonym
+HP:0004303,"Any abnormality of the skeletal muscle cell. Muscle fibers are subdivided into two types. Type I fibers are fatigue-resistant and rich in oxidative enzymes (they stain light with the myosin ATPase reaction), and type II fibers are fast-contracting, fatigue-prone, and rich in glycolytic enzymes (these fibers stain darkly). Normal muscle tissue has a random distribution of type I and type II fibers.",HP:0003011,0,Synonym
+HP:0012420,Amniotic fluid containing the earliest stools of a mammalian infant.,HP:0001197,0,Synonym
+HP:0030157,"An unpleasant sensation characterized by physical discomfort (such as pricking, throbbing, or aching) and perceived to originate in the flank.",HP:0025142,0,Definition
+HP:0011875,"An anomaly in platelet form, ultrastructure, or intracellular organelles.",HP:0001871,5,Synonym
+HP:0041053,A partial or complete breakage of the head.,HP:0000152,2,Synonym
+HP:0040127,An abnormality of the composition of sweat or the levels of its components.,HP:0001939,4,Definition
+HP:0031062,Applies to an individual who needs help in moving from bed to chair or requires a complete transfer.,HP:0025142,5,Definition
+HP:0001311,An abnormality of the function of the electrical signals with which nerve cells communicate with each other or with muscles as measured by electrophysiological investigations.,HP:0000707,1,Synonym
+HP:0100886,An abnormality in the placement of the ocular globe (eyeball).,HP:0000478,1,Definition
+HP:0012021,Persistence of blood flow through the ductus venosus for longer than the normal time after birth.,HP:0001626,3,Synonym
+HP:0020071,The presence of virus in the blood.,HP:0001939,10,Synonym
+HP:0025132,A deviation from normal concentration of the hormone estrogen in the blood circulation.,HP:0000818,0,Synonym
+HP:0012640,A deviation from the norm of the intracranial pressure.,HP:0000707,5,Synonym
+HP:0011437,A medical history of a fetus or child born to a mother with an autoimmune disease.,HP:0001197,0,Synonym
+HP:0012309,The presence of amyloid deposition in the superficial dermis.,HP:0001939,13,Synonym
+HP:0031101,"Any deviation from the normal range of the antimullerian hormone, a peptide produced by the granulosa cells of follicles. Anti-Mullerian hormone (AMH), also known as Mullerian inhibiting substance, is produced by the granulosa cells of small antral follicles of the ovary. AMH has an inhibiting role in the ovary, contributing to follicular arrest. AMH levels in women are low until the age of 8, rise rapidly until puberty and decline steadily from the age of 25 until menopause, when AMH production ceases.",HP:0000818,0,Definition
+HP:0031821,Altered level of the enzyme that catalyzes conversion of hypoxanthine to inosine monophosphate and guanine to guanosine monophosphate via transfer of the 5-phosphoribosyl group from 5-phosphoribosyl 1-pyrophosphate.,HP:0001939,1,Definition
+HP:0030637,"Retinal phenotype characterised by cone photoreceptor dysfunction and preserved rod system. The abnormality is typically stationary or very slowly progressive and findings may include reduced central vision, colour vision abnormalities, nystagmus and photophobia.",HP:0000478,2,Synonym
+HP:0031898,"Increased amount of stacking of erythrocytes into long chains. Rouleaux (singular: rouleau) is derived from a French word that can refer to a stack of coins put into a cylindircal paper roll. Rouleaux formation is observed with increased serum proteins, particularly fibrinogen and globulins, and represents the cause of increased erythrocte sedimentation rate because rouleaux sediment more readily than isolated red blood cells.",HP:0001871,2,Synonym
+HP:0012130,"An anomaly of erythroid lineage cells, that is, of the erythropoietic cells in the lineage leading to and including erythrocytes.",HP:0001871,1,Synonym
+HP:0000098,A height above that which is expected according to age and gender norms.,HP:0001507,0,Synonym
+HP:0001324,Reduced strength of muscles.,HP:0003011,3,Synonym
+HP:0011410,Delivery of a fetus through surgical incisions made through the abdominal wall (laparotomy) and the uterine wall (hysterotomy).,HP:0001197,0,Synonym
+HP:0040222,An increased tendency towards thrombosis in the mother during a pregnancy.,HP:0001197,0,Synonym
+HP:0003643,Abnormally reduced sulfite oxidase level.,HP:0001939,4,Definition
+HP:0008897,Slow or limited growth after birth.,HP:0001507,0,Synonym
+HP:0500020,"Abnormal blood test results measuring creatine kinase (CK), CK-MB, troponin (TROPI), myoglobin, and/or cardiac enzymes.",HP:0001626,0,Synonym
+HP:0001155,An abnormality affecting one or both hands.,HP:0040064,16,Synonym
+HP:0010876,An abnormal level of a circulating protein in the blood.,HP:0001939,5,Definition
+HP:0011013,A deviation from the normal concentration of a carbohydrate in the blood circulation.,HP:0001939,2,Definition
+HP:0031061,"This term applies to an individual who requires help transferring to the toilet, cleaning self or who uses bedpan or commode.",HP:0025142,6,Definition
+HP:0032192,"Hydatidiform mole (HM) is an aberrant human pregnancy with absence of, or abnormal embryonic development, hydropic degeneration of chorionic villi, and excessive proliferation of the trophoblast.",HP:0001197,0,Synonym
+HP:0012022,"A congenital defect of the vasculature such that there is a shunt (by-pass) of blood directly from the portal vein to the vena cava (i.e., the blood from the portal vein is not filtered through the liver).",HP:0001626,2,Synonym
+HP:0500012,A deviation from the normal circulating concentration of the normal gonadotropin-releasing hormone level secreted from the pituitary gland.,HP:0000818,0,Definition
+HP:0040214,An abnormal concentration of insulin in the body.,HP:0000818,5,Definition
+HP:0002960,The occurrence of an immune reaction against the organism's own cells or tissues.,HP:0002715,0,Definition
+HP:0031218,A state of increased circulating antidiuretic hormone despite hyponatremia and hypo-osmolality with normal or increased plasma volume.,HP:0000818,0,Definition
+HP:0000271,An abnormality of the face.,HP:0000152,2,Synonym
+HP:0012113,"A deviation from the normal concentration of creatine in the blood circulation. Creatine is a derivative of glycine having methyl and amidino groups attached to the nitrogen. Creatine is naturally produced from amino acids, primarily in liver and kidney, and acts as an energy source for cells, primarly for muscle cells.",HP:0001939,0,Synonym
+HP:0011122,Any abnormality of the physiological function of the skin.,HP:0001574,1,Definition
+HP:0003326,Pain in muscle.,HP:0025142,7,Definition
+HP:0011428,A short femur length is defined as either a measurement below the 2.5th percentile for gestational age or a measurement that is less than 0.9 of that predicted by the measured biparietal diameter. The femur should be measured with the bone perpendicular to the ultrasound beam and with epiphyseal cartilages visible but not included in the measurement (PMID:16100637).,HP:0001197,1,Synonym
+HP:0025427,Any anomaly of the function of the bronchi.,HP:0002086,2,Definition
+HP:0025431,A type of cry that is abnormal because it is consists of unusually shortened and detached vocalizations.,HP:0001608,1,Synonym
+HP:0500018,Abnormal results of exercise on heart function.,HP:0001626,0,Synonym
+HP:0003655,"An abnormality of glycoprotein metabolism related to a decreased level of alpha-1,6-mannosylglycoprotein 2-beta-N-acetylglucosaminyltransferase activity.",HP:0001939,0,Synonym
+HP:0410169,Any abnormality of the shoulder muscles.,HP:0003011,0,Definition
+HP:0012380,"Reduced carnitine O-palmitoyltransferase level, leading to a reduced activity of the reaction: palmitoyl-CoA + L-carnitine = CoA + L-palmitoylcarnitine.",HP:0001939,0,Definition
+HP:0031215,A reduced concentration of dehydroepiandrosterone-sulfate in the blood.,HP:0000818,0,Synonym
+HP:0011873,"Abnormal number of platelets per volume of blood. In a healthy adult, a normal platelet count is between 150,000 and 450,000 per microliter of blood.",HP:0001871,7,Synonym
+HP:0100000,"An early onset of puberty, in this case early does not refer to precocious.",HP:0000818,3,Definition
+HP:0001563,Abnormally increased production of urine by the fetus resulting in polyhydramnios.,HP:0001197,0,Synonym
+HP:0032329,An abnormally elevated concentration of 11-deoxycortisol in the urine.,HP:0000818,0,Definition
+HP:0003198,A disorder of muscle unrelated to impairment of innervation or neuromuscular junction.,HP:0003011,0,Synonym
+HP:0001597,Abnormality of the nail.,HP:0001574,2,Definition
+HP:0003492,"An elevated concentration of a gonadotropin hormone (stimulating hormone or luteinizing hormone) in the urine, consistent with the diagnosis of primary hypogonadism.",HP:0000818,0,Definition
+HP:0012345,"An anomaly of a glycosylation process, i.e., a process involved in the covalent attachment of a glycosyl residue to a substrate molecule.",HP:0001939,4,Synonym
+HP:0410009,Any abnormality of the part of the peripheral nervous system associated with sensation and skeletal muscle voluntary control of body movements.,HP:0000707,0,Synonym
+HP:0032655,A reduced concentration of tocopherol in fat tissue.,HP:0001939,3,Synonym
+HP:0020193,"An abnormally increased duration of the reptilase time. Reptilase time is a functional plasma clotting assay, which is based on the enzymatic activity of batroxobin. By specifically cleaving fibrinogen A from fibrinogen, batroxobin leads to the formation of a stable fibrin clot. The time, starting from the addition of batroxobin to the plasma sample, until clot formation is the reptilase time and is given in seconds.",HP:0001871,5,Synonym
+HP:0003267,An abnormal decrease in orotidine 5'-phosphate decarboxylase level.,HP:0001939,2,Definition
+HP:0011121,Any morphological abnormality of the skin.,HP:0001574,1,Definition
+HP:0031459,"A tumor (abnormal growth of tissue) that arises from the soft tissue. The most common types are lipomatous (fatty), vascular, smooth muscle, fibrous, and fibrohistiocytic neoplasms.",HP:0002664,1,Synonym
+HP:0005982,A reduction in phenylalanine 4-monooxygenase level.,HP:0001939,3,Synonym
+HP:0001561,The presence of excess amniotic fluid in the uterus during pregnancy.,HP:0001197,0,Synonym
+HP:0011890,Prolonged or protracted bleeding following an invasive procedure or intervention.,HP:0001871,10,Synonym
+HP:0020174,Absent or significantly reduced efficacy of drug intervention characterized by lack of measurable benefit or deterioration of disease course.,HP:0001939,12,Definition
+HP:0004312,A reticulocyte abnormality.,HP:0001871,0,Synonym
+HP:0003552,A condition in which muscles cannot be moved quickly without accompanying pain or spasm.,HP:0003011,0,Synonym
+HP:0025231,A structural anomaly of a synovial bursa.,HP:0000924,10,Synonym
+HP:0031456,A pregnancy in which the fertilized egg inserts in a location outside of the main cavity of the uterus (usually in the Fallopian tube).,HP:0001197,0,Synonym
+HP:0001627,Any structural anomaly of the heart.,HP:0001626,1,Synonym
+HP:0020170,High plasma concentration of a drug as compared to previously measured thresholds given the expected concentration for the applied dosage regime.,HP:0001939,2,Definition
+HP:0004324,Abnormally increased body weight.,HP:0001507,0,Synonym
+HP:0011427,The cisterna magna is measured on a transaxial view of the fetal head angled 15 degrees caudal to the canthomeatal line. The anterior/posterior diameter is taken between the inferior/posterior surface of the vermis of the cerebellum to the inner surface of the cranium. An enlarged cisternal magna is defined by an anterior/posterior diameter of 10 mm or more (PMID:16100637).,HP:0001197,0,Synonym
+HP:0011431,"Fifth finger clinodactyly is defined by a hypoplastic or absent mid-phalanx of the fifth digit. Ultrasound identification of the fetal hand must first be undertaken and then appropriate magnification accomplished. The evaluation requires stretching of the 5 fingers. The diagnosis is established when the middle phalanx of the fifth finger is markedly smaller than normal or absent, which often causes the finger to be curved inward (PMID:16100637).",HP:0001197,0,Synonym
+HP:3000052,An abnormality of a hyoid bone.,HP:0000924,5,Synonym
+HP:0200046,The presence of a characteristic high-pitched cry that sounds similar to the meowing of a kitten.,HP:0001608,3,Synonym
+HP:0010977,"An abnormal functioning of phagocytosis. Phagocytosis is an elegant but complex process for the ingestion and elimination of pathogens, but it is also important for the elimination of apoptotic cells and hence fundamental for tissue homeostasis. Phagocytosis can be divided into four main steps: (i) recognition of the target particle, (ii) signaling to activate the internalization machinery, (iii) phagosome formation, and (iv) phagolysosome maturation.",HP:0002715,1,Definition
+HP:0002659,An abnormally increased tendency to fractures of bones caused by an abnormal reduction in bone strength that is generally associated with an increased risk of fracture.,HP:0000924,1,Synonym
+HP:0031273,"The state in which profound and widespread reduction of effective tissue perfusion leads first to reversible, and then if prolonged, to irreversible cellular injury.",HP:0001626,8,Synonym
+HP:0012111,An abnormality of the concentration of a glucocorticoid in the blood.,HP:0000818,2,Definition
+HP:0012316,Any neoplasm composed of fibrous tissue.,HP:0002664,0,Synonym
+HP:0004360,"An abnormality of the balance or maintenance of the balance of acids and bases in bodily fluids, resulting in an abnormal pH.",HP:0001939,1,Definition
+HP:0025433,Reduced level of the enzyme lecithin cholesterol acyl transferase.,HP:0001939,1,Synonym
+HP:0004364,Any deviation from the normal concentration of a nitrogen compound in the blood circulation.,HP:0001939,5,Definition
+HP:0003645,"Increased time to coagulation in the partial thromboplastin time (PTT) test, a measure of the intrinsic and common coagulation pathways. Phospholipid, and activator, and calcium are mixed into an anticoagulated plasma sample, and the time is measured until a thrombus forms.",HP:0001871,3,Synonym
+HP:0000539,An abnormality in the process of focusing of light by the eye in order to produce a sharp image on the retina.,HP:0000478,0,Definition
+HP:0001562,Diminished amniotic fluid volume in pregnancy.,HP:0001197,0,Synonym
+HP:0500017,Abnormal results from the diagnostic tests resulting from cardiac catheterization.,HP:0001626,0,Synonym
+HP:0032274,An abnormally increased concentration of N-Acetylaspartic acid in the cerebrospinal fluid (CSF).,HP:0001939,4,Definition
+HP:0012415,An abnormality of the partial pressure of oxygen or carbon dioxide in the arterial blood.,HP:0002086,3,Definition
+HP:0031178,Head is bent in the posterior direction in a permanent fashion.,HP:0000152,2,Synonym
+HP:0030829,An anomalous (adventitious) sound produced by the breathing process.,HP:0002086,2,Synonym
+HP:0000472,Increased inferior-superior length of the neck.,HP:0000152,0,Synonym
+HP:0001595,An abnormality of the hair.,HP:0001574,4,Definition
+HP:0004352,Any deviation from the normal concentration of a purine in the blood circulation.,HP:0001939,5,Definition
+HP:0012535,"An anomaly in the communication from a neuron to a target across a synapse. This is a four step process, comprising (i) synthesis and storage of neurotransmitters; (ii) neurotransmitter release; (iii) activation of postsynaptic receptors by the neurotransmitter; and (iv) inactivation of the neurotransmitter. Thus, this term is defined as an anomaly of neurotransmitter metabolic process.",HP:0000707,3,Synonym
+HP:0040084,"A deviation from the normal concentration of renin in the blood, a central hormone in the control of blood pressure and various other physiological functions.",HP:0000818,1,Definition
+HP:0032226,Any structural anomaly of the sebaceous glands.,HP:0001574,2,Definition
+HP:0003144,A increased concentration of serotonin in the blood.,HP:0000818,6,Definition
+HP:3000060,An abnormality of an infraorbital artery.,HP:0001626,2,Synonym
+HP:0003524,A reduction in methionine synthase activity.,HP:0001939,4,Synonym
+HP:0032016,"Abnormal appearance of material expectorated (coughed up) from the respiratory system and that is composed of mucus but may contain other substances such as pus, blood, microorganisms, and fibrin.",HP:0002086,0,Synonym
+HP:0012447,Any anomaly in the process by which myelin sheaths are formed and maintained around neurons.,HP:0000707,2,Synonym
+HP:0001681,Paroxysmal chest pain that occurs with exertion or stress and is related to myocardial ischemia.,HP:0001626,0,Synonym
+HP:0032331,An abnormally elevated concentration or amount of 11-deoxytetrahydrocorticosterone the urine.,HP:0000818,2,Definition
+HP:0032019,Eosinophil infiltration of skeletal muscle.,HP:0003011,6,Synonym
+HP:0003649,Abnormality of glycoside metabolism.,HP:0001939,0,Synonym
+HP:0030449,Delivery by means of therapeutic termination of pregnancy. Therapeutic abortion may be done to end a pregnancy if the mother's life is in danger or if the baby has abnormalities involving the major organ systems and is not expected to survive after birth or by choice.,HP:0001197,1,Synonym
+HP:0031416,"Any deviation from the normal quantity of secretion of nasal mucus, a thick viscous liquid produced by the mucous membranes of the nose.",HP:0002086,1,Definition
+HP:0410075,An increase in the level of xylitol in the cerebrospinal fluid.,HP:0001939,3,Definition
+HP:0100829,"Spontaneous flow of milk from the breast, unassociated with childbirth or nursing.",HP:0000769,2,Definition
+HP:0100247,"A contraction of the diaphragm that repeats several times per minute. In humans, the abrupt rush of air into the lungs causes the epiglottis to close, creating a hic sound. Also known as synchronous diaphragmatic flutter (SDF), or singultus, from the Latin singult, the act of catching one's breath while sobbing. The hiccup is an involuntary action involving a reflex arc.",HP:0002086,0,Synonym
+HP:0012143,"Any structural anomaly of megakaryocytes. Mature blood platelets are released from the cytoplasm of megakaryocytes, which are bone-marrow resident cells.",HP:0001871,2,Synonym
+HP:0002200,"Pseudobulbar signs result from injury to an upper motor neuron lesion to the corticobulbar pathways in the pyramidal tract. Patients have difficulty chewing, swallowing and demonstrate slurred speech (often initial presentation) as well as abnormal behavioral symptoms such as inappropriate emotional outbursts of uncontrolled laughter or weeping etc.",HP:0000707,3,Synonym
+HP:0004420,The formation of a blood clot inside an artery.,HP:0001871,2,Synonym
+HP:0000359,An abnormality of the inner ear.,HP:0000598,1,Synonym
+HP:0001788,Premature rupture of membranes (PROM) is a condition which occurs in pregnancy when the amniotic sac ruptures more than an hour before the onset of labor.,HP:0001197,0,Synonym
+HP:0000589,A developmental defect characterized by a cleft of some portion of the eye or ocular adnexa.,HP:0000478,2,Definition
+HP:0410020,"Body odor characterized by an offensive body odor and the smell of rotting fish due to the excessive excretion of trimethylamine (TMA) in the urine, sweat, and breath of affected individuals.",HP:0025142,8,Definition
+HP:0032481,Any deviation from the normal concentration of circulating alpha polypeptide of glycoprotein hormones (NCBI Gene 1081).,HP:0000818,2,Synonym
+HP:0032367,"Any deviation from the normal level of growth hormone (GH) in the blood circulation. GH or somatotropin is a peptide hormone that stimulates growth, cell reproduction, and cell regeneration. Its secretion from the pituitary is regulated by the neurosecretory nuclei of the hypothalamus, which can release Growth hormone-releasing hormone (GHRH or somatocrinin) and Growth hormone-inhibiting hormone (GHIH or somatostatin) into the hypophyseal portal venous blood surrounding the pituitary. GH is secreted in a pulsatile manner, which is one of the reasons why an isolated measurement of its blood concentration is not meaningful.",HP:0000818,1,Synonym
+HP:0025368,"A structural anomaly of the growth plates (epiphyseal plates), areas of cartilage located near the ends of long bones that are located between the metaphysis (widened part of the shaft of the bone) and the epiphysis (end of the bone) and in which growth occurs in the developing bone. After conclusion of bone growth, the growth plates ossify (harden into solid bone).",HP:0000924,2,Synonym
+HP:0030271,"This term refers to an inappropriate low 2,3-DPG concentration in erythrocytes. 2,3-diphosphoglycerate (2,3-DPG) controls the movement of oxygen from red blood cells to tissues. Anemia is usually accompanied by an increased level of 2,3-DPG in order to promote tissue oxygenation.",HP:0001871,0,Synonym
+HP:0004379,An abnormality of alkaline phosphatase level.,HP:0001939,8,Definition
+HP:0000356,An abnormality of the external ear.,HP:0000598,1,Synonym
+HP:0410167,Any abnormality of the chest muscles.,HP:0003011,0,Synonym
+HP:0003560,"The term dystrophy means abnormal growth. However, muscular dystrophy is used to describe primary myopathies with a genetic basis and a progressive course characterized by progressive skeletal muscle weakness and wasting, defects in muscle proteins, and histological features of muscle fiber degeneration (necrosis) and regeneration. If possible, it is preferred to use other HPO terms to describe the precise phenotypic abnormalities.",HP:0003011,2,Synonym
+HP:0410263,An anomaly of metabolism or structure of the brain identified by imaging.,HP:0000707,4,Synonym
+HP:0011884,Abnormal bleeding of the umbilical stump following separation of the cord at approximately 7-10 days after birth.,HP:0001871,4,Synonym
+HP:0011429,A short humerus length is defined as a length below the 2.5th percentile for gestational age or as a measurement less than 0.9 of that predicted by the measured biparietal diameter. The humerus should be measured with the bone perpendicular to the ultrasound beam and with epiphyseal cartilages visible but not included in the measurement (PMID:16100637).,HP:0001197,1,Synonym
+HP:0000600,"An anomaly of the pharynx, i.e., of the tubular structure extending from the base of the skull superiorly to the esophageal inlet inferiorly.",HP:0000152,11,Synonym
+HP:0031109,Failure of secretion of milk following childbirth associated with an inability to breastfeed an infant.,HP:0000769,1,Definition
+HP:0031083,An anomalous response to intravenous stimulation by human chorionic gonadotrophin. Stimulation with hCG stimulates testicular Leydig cells to secrete androgens via the Leydig hormone receptors.,HP:0000818,1,Synonym
+HP:0012537,"A detrimental reaction to a food, beverage, food additive, or compound found in foods that produces symptoms in one or more body organs and systems that is not mediated by an immune reaction.",HP:0001939,9,Definition
+HP:0500016,Abnormal results of a MRI for the heart.,HP:0001626,0,Synonym
+HP:0000667,Atrophy of the eyeball with blindness and decreased intraocular pressure due to end-stage intraocular disease.,HP:0000478,0,Synonym
+HP:0010943,Echogenic bowel is defined as fetal bowel with homogenous areas of echogenicity that are equal to or greater than that of surrounding bone.,HP:0001197,0,Synonym
+HP:0012632,An anomaly in the amount of force per unit area exerted by the intraocular fluid within the eye.,HP:0000478,0,Definition
+HP:0031910,"A functional abnormality affecting one or more of the cranial nerves, which emerge directly from the brain stem.",HP:0000707,4,Synonym
+HP:0002270,An abnormality of the autonomic nervous system.,HP:0000707,0,Synonym
+HP:0000632,Abnormality of tear production.,HP:0000478,2,Definition
+HP:0410168,Any abnormality of the back muscles.,HP:0003011,0,Definition
+HP:0011426,"Fetal choroid plexus cysts (CPCs) are sonographically discrete, small cysts found in the choroid plexus within the lateral cerebral ventricles of the developing fetus at 14 to 24 weeks gestation. Imaging of the choroid plexus is performed in the transverse plane of the fetal head at the same level that the lateral cerebral ventricle is evaluated. The choroid plexus should be inspected bilaterally for the presence of cysts. The size of CPCs is not of clinical relevance (PMID:16100637).",HP:0001197,0,Synonym
+HP:0030347,"An anomaly in the blood concentration of an androgen, that is, of a steroid hormone that controls development and maintenance of masculine characteristics. The androgens include testosterone and Dehydroepiandrosterone.",HP:0000818,1,Definition
+HP:0025520,Deposition of calcium in the skin.,HP:0000924,14,Synonym
+HP:0004353,Any deviation from the normal concentration of a pyrimidine in the blood circulation.,HP:0001939,5,Definition
+HP:0500019,"Resting energy expenditure (REE) can be measured with indirect calorimetry using a metabolic cart, which is used to measure the oxygen consumption (VO2) and carbon dioxide production (VCO2).",HP:0001626,1,Synonym
+HP:0003656,"Reduced level of the enzyme beta-glucosidase, an enzyme that catalyzes the hydrolysis of glucosylceramide into ceramide and glucose.",HP:0001939,1,Synonym
+HP:0030893,"Pulmonary vasodilator testing is performed during right-heart catheterization and involves a short-acting vasoactive agent such as adenosine, epoprostenol, or inhaled nitric oxide. The current definition of a normal (positive) response is a drop in mean pulmonary artery pressure of at least 10 mm Hg (or 20 percent) to below 40 mm Hg.",HP:0002086,2,Synonym
+HP:0410192,"An abnormality in uridine diphosphate glucose-4-epimerase level, an enzyme that catalyzes the reaction: UDP-glucose = UDP-galactose.",HP:0001939,1,Synonym
+HP:0012735,"A sudden, audible expulsion of air from the lungs through a partially closed glottis, preceded by inhalation.",HP:0002086,0,Synonym
+HP:0030800,"An anomaly in the process of visual accommodation, which is the process of adjustment of the eye to enable sharp vision of objects at different distances. Accommodation is mediated by contraction of the ciliary muscles, which alter the convexity of the lens and, consequently, its refractive power.",HP:0000478,0,Definition
+HP:0002094,Difficult or labored breathing.,HP:0002086,3,Synonym
+HP:0011772,A structural abnormality of the thyroid gland.,HP:0000818,1,Definition
+HP:0012243,A structural or developmental anomaly of any of the tissues involved in the genital system.,HP:0000119,2,Synonym
+HP:0020058,Any deviation from the normal number of red blood cells per volume in the circulation.,HP:0001871,1,Synonym
+HP:0032314,An abnormal appearance or structure of the ring of pigmented skin that surrounds the nipple.,HP:0000769,2,Definition
+HP:0030838,"An unpleasant sensation characterized by physical discomfort (such as pricking, throbbing, or aching) localized to the hip.",HP:0025142,0,Definition
+HP:0002958,"Altered immune function characterized by lymphoid proliferation, immune activation, and excessive autoreactivity often leading to autoimmune/inflammatory complications.",HP:0002715,0,Synonym
+HP:0031925,A halo or spoke-wheel arrangement of cells surrounding a central core or hub. The central hub may consist of an empty-appearing lumen or a space filled with cytoplasmic processes. The cytoplasm of each of the cells in the rosette is often wedge-shaped with the apex directed toward the central core; the nuclei of the cells participating in the rosette are peripherally positioned and form a ring or halo around the hub.,HP:0025354,2,Definition
+HP:0002486,An involuntary and painless delay in the relaxation of skeletal muscle following contraction or electrical stimulation.,HP:0003011,0,Definition
+HP:0032530,Reduced level of succinic semialdehyde dehydrogenase (SSADH).,HP:0001939,2,Synonym
+HP:0010947,A first-trimester prenatal ultrasound finding of abnormal blood flow in the ductus venosus.,HP:0001626,2,Synonym
+HP:0031087,The abrupt and transient increase in the annual growth rate normally observed in adolescent individuals does not occur.,HP:0001507,0,Synonym
+HP:0000970,Inability to sweat.,HP:0001574,13,Definition
+HP:0012533,Pain due to a stimulus that does not normally provoke pain.,HP:0025142,3,Definition
+HP:0011902,"Anomaly in the level or the function of hemoglobin, the oxygen-carrying protein of erythrocytes.",HP:0001871,1,Synonym
+HP:0012700,A functional anomaly of the large intestine.,HP:0025031,3,Definition
+HP:0005521,"Disseminated intravascular coagulation is characterized by the widespread activation of coagulation, which results in the intravascular formation of fibrin and ultimately thrombotic occlusion of small and midsize vessels.",HP:0001871,2,Synonym
+HP:0031965,Red blood cell distribution width (RDW) is a simple parameter of the standard full blood count and a measure of heterogeneity in the size of circulating erythrocytes. It is provided by automated hematology analyzers and it reflects the range of the red cell size. It is calculated by dividing the standard deviation of erythrocyte volume by the mean corpuscular volume (MCV) and multiplied by 100 to convert to a percentage.,HP:0001871,0,Synonym
+HP:0030687,A deviation from the normal concentration of glucagon in the blood circulation.,HP:0000818,0,Definition
+HP:0100242,A connective tissue neoplasm formed by proliferation of mesodermal cells. Bone and soft tissue sarcomas are the main types of sarcoma. Sarcoma is usually highly malignant.,HP:0002664,0,Synonym
+HP:0031099,"Any deviation from the normal concentration of inhibins, which are heterodimeric protein hormones secreted by granulosa cells of the ovary in females and Sertoli cells of the testis in males. Inhibins suppress the secretion of pituitary follicle-stimulating hormone.",HP:0000818,0,Synonym
+HP:0031850,Any deviation from the normal ratio of the volume of red blood cells to the total volume of blood.,HP:0001871,1,Synonym
+HP:0004825,An abnormal increase in the binding affinity of hemoglobin for oxygen.,HP:0001871,4,Synonym
+HP:0000591,An abnormality of the sclera.,HP:0000478,1,Definition
+HP:0010497,A developmental defect in which the legs are fused together.,HP:0040064,6,Synonym
+HP:0100774,Excessive growth or abnormal thickening of bone tissue.,HP:0000924,6,Synonym
+HP:0025590,A functional anomaly of the muscles of the eye.,HP:0000478,0,Definition
+HP:0012099,An abnormal catecholamine concentration in the blood.,HP:0000818,2,Definition
+HP:0410073,An increase in the level of ribose in the cerebrospinal fluid.,HP:0001939,3,Definition
+HP:0002011,A structural abnormality of the central nervous system.,HP:0000707,1,Synonym
+HP:0025181,"An abscess-like lesion located within the abdomen. The lesions are localized in the spleen, liver, abdominal lymph nodes. The lesions represent visceral sterile collections of mature neutrophils that do not respond to antibiotics but regress quickly when treated with corticosteroids, but relapses occur frequently.",HP:0025031,9,Definition
+HP:0030352,An anomalous level of insulin-like growth factor 1 (IGF1) in the blood circulation.,HP:0000818,2,Synonym
+HP:0010519,An abnormal increase in quantity or strength of fetal movements.,HP:0001197,0,Synonym
+HP:0003534,An abnormal reduction in xanthine dehydrogenase level.,HP:0001939,4,Synonym
+HP:0031500,An abnormal enlargement or swelling in the abdomen.,HP:0025031,8,Definition
+HP:0011876,Anomalous size of platelets. Most normal sized platelets are 1.5 to 3 micrometers in diameter. Large platelets are 4 to 7 micrometers. Giant platelets are larger than 7 micrometers and usually 10 to 20 micrometers.,HP:0001871,3,Synonym
+HP:0032485,Abnormal concentration of feces as assessed by the total number of solute particles per kilogram.,HP:0001939,4,Synonym
+HP:0000927,"The bones of the skeleton undergo a series of characteristic changes in size, shape, and calcification from fetal life until puberty. An abnormality of this process can include delayed or accelerated skeletal maturation, or deviation of some, but not all bones from the expected patterns of maturation.",HP:0000924,3,Synonym
+HP:0000840,"Adrenogenital syndrome is also known as congenital adrenal hyperplasia, which results from disorders of steroid hormone production in the adrenal glands leading to a deficiency of cortisol. The pituitary gland reacts by increased secretion of corticotropin, which in turn causes the adrenal glands to overproduce certain intermediary hormones which have testosterone-like effects.",HP:0000818,1,Definition
+HP:0031840,The presence of a xenobiotic in urine.,HP:0001939,2,Synonym
+HP:0012532,"Persistent pain, usually defined as pain that has lasted longer than 3 to 6 months.",HP:0025142,3,Definition
+HP:0500166,An abnormal concentration of gastrin in the blood.,HP:0000818,3,Definition
+HP:0002652,A general term describing features characterized by abnormal development of bones and connective tissues.,HP:0000924,6,Synonym
+HP:0025321,An anomalous build up of copper (Cu) in the liver.,HP:0001939,1,Definition
+HP:0000476,A cystic lymphatic lesion of the neck.,HP:0000152,1,Synonym
+HP:0025546,"A deviation from the normal range of the average amount of hemoglobin per red blood cell (27 to 31 picograms/cell). A reduced mean corpuscular hemoglobin (MCH) may indicate a hypochromic anemia, but the MCH may be normal if both the total hemoglobin and the red blood cell count are reduced.",HP:0001871,0,Synonym
+HP:0031476,Any structural anomaly of the cells of the mucosa of the oral cavity in the region of the cheek (buccal mucosa cells).,HP:0025354,12,Definition
+HP:0004936,"Formation of a blood clot (thrombus) inside a vein, causing the obstruction of blood flow.",HP:0001871,0,Synonym
+HP:0011043,An abnormal concentration of corticotropin in the blood.,HP:0000818,1,Definition
+HP:0031451,An abnormal increase in the amount of subcutaneous fat in the legs.,HP:0003549,9,Definition
+HP:0100767,"An abnormality of the placenta, the organ that connects the developing fetus to the uterine wall to enable nutrient uptake, waste elimination, and gas exchange.",HP:0001197,0,Synonym
+HP:0020080,Nuclear or cytoplasmic aggregates of substances in red blood cells.,HP:0001871,3,Synonym
+HP:0410071,An increase in the level of ribitol in the cerebral spinal fluid.,HP:0001939,3,Definition
+HP:0000504,Abnormality of eyesight (visual perception).,HP:0000478,1,Definition
+HP:0009115,Absence (due to failure to form) or underdevelopment of one or more components of the skeleton.,HP:0000924,2,Synonym
+HP:0031209,Reduction in the level of lipoprotein lipase in the blood.,HP:0001939,4,Synonym
+HP:0011436,An abnormally elevated or decreased level of a maternal serum marker analytes used in screening for aneuploidy.,HP:0001197,0,Synonym
+HP:0032488,"Any deviation from the normal pH of feces. The pH reflects the acidity or alkalinity of a solution on a logarithmic scale on which 7 is neutral, whereby lower values are more acid and higher values more alkaline.",HP:0001939,4,Synonym
+HP:0020048,A reduction in the numbers of pro-B cells (defined by coexpression of CD34 and CD19). Earlier B-cell precursors are defined by expressing surface CD34 and cytoplasmic TdT in the absence of CD19.,HP:0001871,4,Synonym
+HP:0012253,"Any structural anomaly of the pseudostratified ciliated epithelium that lines much of the conducting portion of the airway, including part of the nasal cavity and larynx, the trachea, and bronchi.",HP:0002086,1,Definition
+HP:0011730,"An abnormality of sensation related to CNS function. Assuming the primary sensory modalities are intact and the patient is alert and cooperative, the presence of an abnormality of sensory function may indicate a lesion of a parietal cortex, the thalamocortical projections to the parietal cortex, or the spinal cord.",HP:0000707,3,Synonym
+HP:0410015,An abnormality of nerve cell cluster or a group of nerve cell bodies located in the peripheral autonomic nervous system.,HP:0000707,1,Synonym
+HP:0500183,Any deviation from the normal concentration of a carboxylic acid in the cerebrospinal fluid.,HP:0001939,3,Definition
+HP:0033013,Any deviation from the normal concentration of cortisol in saliva.,HP:0001939,4,Definition
+HP:0100887,An abnormality in the size of the ocular globe (eyeball).,HP:0000478,1,Definition
+HP:0000364,An abnormality of the sensory perception of sound.,HP:0000598,1,Synonym
+HP:0032504,"An electric shock-like sensation that occurs on flexion of the neck. This sensation radiates down the spine, often into the legs, arms, and sometimes to the trunk.",HP:0000707,5,Synonym
+HP:0003116,An abnormality detectable by sonography of the heart (echocardiography).,HP:0001626,0,Synonym
+HP:0410175,An increase in the level of ketone bodies in the blood.,HP:0001939,3,Definition
+HP:0031590,"Eye strain, i.e., a feeling of fatigue or discomfort of the eyes related to 'overuse' of the eyes in activities such as reading or working at the computer and often accompanied by lacrimation or headache.",HP:0000478,0,Definition
+HP:0012338,Any anomaly in the utilization of energy (calories).,HP:0001939,3,Synonym
+HP:0010566,"A disordered proliferation of mature tissues that is native to the site of origin, e.g., exostoses, nevi and soft tissue hamartomas. Although most hamartomas are benign, some histologic subtypes, e.g., neuromuscular hamartoma, may proliferate aggressively such as mesenchymal cystic hamartoma, Sclerosing epithelial hamartoma, Sclerosing metanephric hamartoma.",HP:0002664,0,Synonym
+HP:0004871,The presence of a fistula between the bowel and the perineum.,HP:0000119,1,Synonym
+HP:0004404,An abnormality of the nipple.,HP:0000769,1,Definition
+HP:0008771,The presence of aplasia or developmental hypoplasia of the ear.,HP:0000598,1,Synonym
+HP:0003119,An abnormality in the of lipid metabolism.,HP:0001939,0,Synonym
+HP:0100806,Systemic inflammatory response to infection.,HP:0002715,5,Definition
+HP:0031389,A deviation from the normal level of major histocompatibility complex class II molecules expressed at the cell surface.,HP:0002715,4,Definition
+HP:0002861,"The presence of a melanoma, a malignant cancer originating from pigment producing melanocytes. Melanoma can originate from the skin or the pigmented layers of the eye (the uvea).",HP:0002664,0,Synonym
+HP:0011844,"An abnormality of the appendicular skeletal system, consisting of the of the limbs, shoulder and pelvic girdles.",HP:0000924,1,Synonym
+HP:0002926,An abnormal functionality of the thyroid gland.,HP:0000818,0,Definition
+HP:0009131,A disease or lesion affecting the muscles of the thorax.,HP:0003011,1,Synonym
+HP:0031972,"Presyncope is a state of lightheadedness, muscular weakness, blurred vision, and feeling faint. Presyncope is most often cardiovascular in cause.",HP:0001626,0,Synonym
+HP:0025145,Severe chills with violent shivering. A rigor is an episode of shaking or exaggerated shivering which can occur with a high fever.,HP:0025142,0,Definition
+HP:0003637,An abnormal reduction in 4-hydroxyphenylpyruvate dioxygenase level.,HP:0001939,0,Definition
+HP:0031436,A speech pattern characterized by abnormally elevated variability of the pitch of the voice.,HP:0001608,0,Synonym
+HP:0031052,Increased blood concentration of vascular endothelial growth factor (VEGF).,HP:0000818,5,Synonym
+HP:0000971,Any structural abnormality of the sweat gland.,HP:0001574,4,Definition
+HP:0032932,An increased level of triacylglycerol lipase in the blood circulation (can be measured in serum or plasma).,HP:0001939,1,Definition
+HP:0500099,Presence of xenobiotic in hair.,HP:0001939,6,Synonym
+HP:0031903,Any deviation from the normal circulating concentration of selenium.,HP:0001939,3,Definition
+HP:0030948,"Increased level of the enzyme gamma-glutamyltransferase (GGT). GGT is mainly present in kidney, liver, and pancreatic cells, but small amounts are present in other tissues.",HP:0001939,2,Synonym
+HP:0002781,Increased resistance to the passage of air in the upper airway.,HP:0002086,0,Synonym
+HP:0011888,Bleeding sufficiently severe as to require red cell transfusion (WHO Grade 3 or 4).,HP:0001871,2,Synonym
+HP:0100530,Any deviation from the normal concentration in the blood circulation of a hormone that is involved in the regulation of phosphate and calcium.,HP:0000818,0,Definition
+HP:0010969,An abnormality of glycolipid metabolism.,HP:0001939,0,Definition
+HP:0011733,A functional abnormality of the adrenal glands.,HP:0000818,1,Definition
+HP:0032147,"Recurrent episodes of redness, burning pain, and warmth of the extremities following exposure to heat or exercise with symptoms predominantly involving the feet.",HP:0025142,0,Definition
+HP:0031607,Weakness in the supporting structures of the pelvic floor allowing the pelvic viscera to descend or one or more of the pelvic organs drop from their normal position.,HP:0025031,15,Definition
+HP:0003570,"Absence of molybdenum cofactor(2-), a cofactor for enzymes including sulfite oxidase, xanthine oxidoreductase, and aldehyde oxidase.",HP:0001939,1,Synonym
+HP:0011442,An anomaly of the control or production of movement in the central nervous system.,HP:0000707,0,Synonym
+HP:0032148,"Intermittent pain, i.e., pain that occurs occasionally and at irregular intervals.",HP:0025142,0,Definition
+HP:0031901,An abnormally elevated concentration of total tryptase (alpha and beta tryptase) in the blood circulation.,HP:0001939,6,Definition
+HP:0009125,Degenerative changes of the fat tissue.,HP:0003549,3,Definition
+HP:0045081,"Anomaly in the weight-to-height squared ratio, calculated by dividing the individual's weight in kilograms by the square of the individual's height in meters and used as an indicator of obesity and underweight compared to averages.",HP:0001507,0,Synonym
+HP:0003568,A decreased level of glucose-6-phosphate isomerase.,HP:0001939,0,Synonym
+HP:0001298,"Encephalopathy is a term that means brain disease, damage, or malfunction. In general, encephalopathy is manifested by an altered mental state.",HP:0000707,2,Synonym
+HP:0011970,"Amyloid deposition in the walls of leptomeningeal and cortical arteries, arterioles, and less often capillaries and veins of the central nervous system.",HP:0001939,15,Synonym
+HP:0032533,An increased level of acetone in the blood circulation. Acetone is one of the predominant ketone bodies.,HP:0001939,0,Synonym
+HP:0031285,Any structural anomaly in the areas surrounding the hair follicles.,HP:0001574,8,Definition
+HP:0012772,"A deviation from normal of the relation between the upper and the lower segment of the body, where the lower segment is defined as the length between the top of pubic symphysis to floor, and the upper segment is defined as the top of head to top of pubic symphysis.",HP:0001507,5,Synonym
+HP:0012759,"A deviation from normal of the neurological development of a child, which may include any or all of the aspects of the development of personal, social, gross or fine motor, and cognitive abilities.",HP:0000707,2,Synonym
+HP:0012288,"A tumor (abnormal growth of tissue) of the head and neck region with origin in the lip, oral cavity, nasal cavity, paranasal sinuses, pharynx, or larynx.",HP:0002664,1,Synonym
+HP:0012718,Abnormal structure of the gastrointestinal tract.,HP:0025031,0,Definition
+HP:0012546,A deviation from equal (50%) inactivation of each parental X chromosome in maternal cells.,HP:0001197,0,Synonym
+HP:0025443,An abnormality of the function of the cardiac atria.,HP:0001626,1,Synonym
+HP:0011732,Any structural anomaly of the adrenal glands.,HP:0000818,1,Definition
+HP:0000809,Congenital absence of the normal opening of a structure of the urinary tract.,HP:0000119,1,Synonym
+HP:0002981,"An abnormality of the calf, i.e. of the posterior part of the lower leg.",HP:0040064,6,Synonym
+HP:0030878,"Any anomaly measure by pulmonary function testing, which includes spirometry, measures of diffusing capacity, and plethysmography.",HP:0002086,0,Synonym
+HP:0025155,A functional anomaly of the hepatobiliary system,HP:0025031,3,Definition
+HP:0000841,"An abnormally increased activity of the renin-angiotensin system, causing hypertension by a combination of volume excess and vasoconstrictor mechanisms.",HP:0000818,2,Definition
+HP:0012517,An abnormally decreased amount of catalase level.,HP:0001939,4,Definition
+HP:0000496,An abnormality in voluntary or involuntary eye movements or their control.,HP:0000478,0,Definition
+HP:0003533,Decreased level of acetaldehyde dehydrogenase (ADH). ADH and alcohol dehydrogenase (ALDH) are the primary enzymes involved in alcohol metabolism.,HP:0001939,0,Synonym
+HP:0000771,Abnormal development of large mammary glands in males resulting in breast enlargement.,HP:0000769,4,Definition
+HP:0000501,Glaucoma refers loss of retinal ganglion cells in a characteristic pattern of optic neuropathy usually associated with increased intraocular pressure.,HP:0000478,0,Synonym
+HP:0030060,A neoplasm derived from nervous tissue (not necessarily a neoplasm located in the nervous system).,HP:0002664,0,Definition
+HP:0003565,An increased erythrocyte sedimentation rate (ESR). The ESR a test that measures the distance that erythrocytes have fallen after one hour in a vertical column of anticoagulated blood under the influence of gravity. The ESR is a nonspecific finding. An elevation may indicate inflammation or may be caused by any condition that elevates fibrinogen.,HP:0001939,1,Synonym
+HP:0031501,An abnormal enlargement or swelling in the pelvic region.,HP:0025031,15,Definition
+HP:0011767,A functional abnormality of the parathyroid gland.,HP:0000818,0,Definition
+HP:0032933,"An increased sensitivity of the airways to an inhaled constrictor agonist, a steeper slope of the dose-response curve, and a greater maximal response to the agonist.",HP:0002086,0,Definition
+HP:0031853,"Isomerism in the context of the congenitally malformed heart is defined as a situation where some paired structures on opposite sides of the left-right axis of the body are, in morphologic terms, symmetrical mirror images of each other.",HP:0001507,2,Synonym
+HP:0005368,"An abnormality of the humoral immune system, which comprises antibodies produced by B cells as well as the complement system.",HP:0002715,0,Definition
+HP:0002835,Inspiration of a foreign object into the airway.,HP:0002086,0,Synonym
+HP:0032252,"A compact, organized collection of mature mononuclear phagocytes, which may be but is not necessarily accompanied by accessory features such as necrosis.",HP:0002715,5,Definition
+HP:0000759,"A structural abnormality of the peripheral nervous system, which is composed of the nerves that lead to or branch off from the central nervous system. This includes the cranial nerves (olfactory and optic nerves are technically part of the central nervous system).",HP:0000707,2,Synonym
+HP:0001558,An abnormal reduction in quantity or strength of fetal movements.,HP:0001197,0,Synonym
+HP:0030872,An abnormality of the cardiac ventricular function.,HP:0001626,0,Synonym
+HP:0410021,Pungent body odor.,HP:0025142,7,Definition
+HP:0020155,An abnormal structure of the female germ cell (egg cell).,HP:0025354,1,Definition
+HP:0030163,Abnormality of vascular function.,HP:0001626,0,Synonym
+HP:0030951,Excessive formation of fibrous bands of scar tissue in between muscle fibers.,HP:0003011,5,Synonym
+HP:0032537,A delay in healing of a fracture past the expected duration.,HP:0000924,8,Synonym
+HP:0010472,"An abnormality in the synthesis or catabolism of heme. Heme is composed of ferrous iron and protoporphyrin IX and is an essential molecule as the prosthetic group of hemeproteins such as hemoglobin, myoglobin, mitochondrial and microsomal cytochromes.",HP:0001939,0,Synonym
+HP:0003330,Any anomaly in the composite material or the layered arrangement of the bony skeleton.,HP:0000924,2,Synonym
+HP:0000775,"Any abnormality of the diaphragm, the sheet of skeletal muscle that separates the thoracic cavity from the abdominal cavity.",HP:0003011,4,Synonym
+HP:0030943,Pain in the vulvar area,HP:0025142,3,Definition
+HP:0003457,Abnormal results of investigations using electromyography (EMG).,HP:0003011,4,Definition
+HP:0032484,An elevated concentration of sodium in feces.,HP:0001939,6,Synonym
+HP:0030268,"Increased growth of callus, the bony and cartilaginous material that forms a connecting bridge across a bone fracture during fracture healing.",HP:0000924,5,Synonym
+HP:0000370,An abnormality of the middle ear.,HP:0000598,1,Synonym
+HP:0031080,"An anomalous response to the glucagon stimulation test, which like the insulin tolerance test (ITT) stimulates the release of both adrenocorticotropic hormone (ACTH) and growth hormone (GH).",HP:0000818,0,Definition
+HP:0004354,Any deviation from the normal concentration of a carboxylic acid in the blood circulation.,HP:0001939,4,Definition
+HP:0000080,An abnormal functionality of the genital system.,HP:0000119,1,Definition
+HP:0032330,An abnormally elevated concentration or amount of 11-deoxycorticosterone in the urine.,HP:0000818,1,Definition
+HP:0001551,An abnormality of the structure or appearance of the umbilicus.,HP:0025031,7,Definition
+HP:0030138,An abnormally increased degree of bleeding following a superfical injury to the surface of the skin.,HP:0001871,8,Synonym
+HP:0011869,Any anomaly in the function of thrombocytes.,HP:0001871,1,Synonym
+HP:0000508,"The upper eyelid margin is positioned 3 mm or more lower than usual and covers the superior portion of the iris (objective); or, the upper lid margin obscures at least part of the pupil (subjective).",HP:0000478,0,Synonym
+HP:0003216,A diffuse form of amyloidosis.,HP:0001939,10,Synonym
+HP:0009121,"An abnormality of the axial skeleton, which comprises the skull, the vertebral column, the ribs and the sternum.",HP:0000924,2,Synonym
+HP:0010936,An abnormality of the lower urinary tract.,HP:0000119,1,Definition
+HP:0003349,A reduction in the rate of cholesterol esterification.,HP:0001939,3,Synonym
+HP:0002832,"An abnormal punctate (speckled, dot-like) pattern of calcifications in soft tissues within or surrounding bones (as observed on radiographs).",HP:0000924,7,Synonym
+HP:0002585,An abnormality of the peritoneum.,HP:0025031,5,Definition
+HP:0008226,Insufficient amount of androgenic activity.,HP:0000818,2,Definition
+HP:0032510,"An unpleasant sensation characterized by physical discomfort (such as pricking, throbbing, or aching) localized to a tendon.",HP:0025142,0,Definition
+HP:0100016,"Folds of membranous tissue (peritoneum, mesothelium) attached to the wall of the abdomen and enclosing viscera. Examples include the mesentery for the small intestine; the transverse mesocolon, which attaches the transverse portion of the colon to the back wall of the abdomen; and the mesosigmoid, which enfolds the sigmoid portion of the colon. Cells of the same embryologic origin also surround the other organs of the body such as the lungs (pleura) or the heart (pericardium).",HP:0025031,7,Definition
+HP:0031187,An abnormality of the concentration of pregnenolone in the blood.,HP:0000818,2,Definition
+HP:0030684,"A deviation from the normal circulating concentration of adiponectin, a 30-kDa complement C1-related protein that is the most abundant secreted protein expressed in adipose tissue, and that plays a crucial role in the regulation of insulin sensitivity and glucose metabolism.",HP:0000818,3,Synonym
+HP:0045040,"A deviation from the normal serum concentration/activity of lactate dehydrogenase (LDH), which catalyzes the reduction of pyruvate to form lactate.",HP:0001939,0,Synonym
+HP:0031602,"An anomaly in the system of mucociliary transport, which functions to transport the mucous layer lining the respiratory epithelium by ciliary 
+beating.",HP:0002086,0,Definition
+HP:0010987,An abnormality of the morphology or counts of the cells that make up the immune system.,HP:0002715,0,Definition
+HP:0100508,An anomaly in the metabolism of a vitamin.,HP:0001939,1,Definition
+HP:0003394,Sudden and involuntary contractions of one or more muscles.,HP:0003011,4,Synonym
+HP:0003538,An increased level of iduronate-2-sulfatase activity in the blood.,HP:0001939,5,Definition
+HP:0012188,"Excessive vomiting in early pregnancy, leading to the loss of 5% or more of body weight.",HP:0001197,0,Synonym
+HP:0410172,The presence of a xenobiotic in blood.,HP:0001939,4,Synonym
+HP:0001541,Accumulation of fluid in the peritoneal cavity.,HP:0025031,12,Definition
+HP:0000816,An abnormality of the tricarboxylic acid cycle.,HP:0001939,1,Definition
+HP:0032458,A reduction in diameter and volume of the central cavity of bone where red or yellow bone marrow is located.,HP:0000924,8,Synonym
+HP:0000708,"An abnormality of mental functioning including various affective, behavioural, cognitive and perceptual abnormalities.",HP:0000707,6,Synonym
+HP:0008187,No secondary sexual characteristics are present at puberty.,HP:0000818,4,Definition
+HP:0030366,The Odon device is an instrument for assisted vaginal deliveries that is applied on the head of the baby and used to apply traction to assist the birth process.,HP:0001197,0,Synonym
+HP:0031520,"An unpleasant sensation characterized by physical discomfort (such as pricking, throbbing, or aching) localized to the groin region.",HP:0025142,0,Definition
+HP:0100724,An abnormality of coagulation associated with an increased risk of thrombosis.,HP:0001871,5,Synonym
+HP:0040142,Decreased level of the reaction 5-oxo-L-proline + ATP + 2 H(2)O = L-glutamate + ADP + 2 H(+) + phosphate.,HP:0001939,1,Definition
+HP:0007686,A functional abnormality of the pupil.,HP:0000478,0,Definition
+HP:0030834,"An unpleasant sensation characterized by physical discomfort (such as pricking, throbbing, or aching) localized to the shoulder.",HP:0025142,0,Definition
+HP:0030369,"Vaginal delivery following induction of labor, a procedure used to stimulate uterine contractions during pregnancy before labor begins on its own.",HP:0001197,0,Synonym
+HP:0003761,Formation of calcium deposits in any soft tissue.,HP:0003011,14,Definition
+HP:0100603,Pregnancy-induced toxic reactions of the mother that can be as harmless as slight Maternal hypertension or as life threatening as Eclampsia.,HP:0001197,0,Synonym
+HP:0001658,"Necrosis of the myocardium caused by an obstruction of the blood supply to the heart and often associated with chest pain, shortness of breath, palpitations, and anxiety as well as characteristic EKG findings and elevation of serum markers including creatine kinase-MB fraction and troponin.",HP:0001626,0,Synonym
+HP:0001760,An abnormality of the skeleton of foot.,HP:0040064,8,Synonym
+HP:0031871,"Any functional anomaly of Langerhans cells, which are dendritic cells in the epidermis and some other locations. Langerhans cells play roles in immune surveillance and homeostasis.",HP:0025354,2,Definition
+HP:0003111,Abnormality of the homeostasis (concentration) of a monoatomic ion.,HP:0001939,1,Definition
+HP:0003201,Breakdown of muscle fibers that leads to the release of muscle fiber contents (myoglobin) into the bloodstream.,HP:0003011,0,Synonym
+HP:0025401,An abnormality in which the eyes are held permanently wide open.,HP:0000478,1,Synonym
+HP:0020173,Decreased response to a drug intervention in comparison to the expected response.,HP:0001939,9,Definition
+HP:0010866,An incomplete closure of the abdominal wall.,HP:0025031,5,Definition
+HP:0031059,"This term applies to an individual who requires help to bathe more than one part of the body, get in or out of the tub or shower, or who requires total bathing.",HP:0025142,5,Definition
+HP:0004915,An impairment of galactose metabolism.,HP:0001939,1,Definition
+HP:0012432,Subjective feeling of tiredness characterized by a lack of energy and motivation that persists for six months or longer.,HP:0025142,4,Definition
+HP:0031818,"A deviation from normal of the waist to hip ratio, defined as the waist measurement divided by hip measurement.",HP:0001507,1,Synonym
+HP:0002763,Any morphological abnormality of cartilage.,HP:0000924,13,Synonym
+HP:0031551,Reduced level of a protein that is normally present on the cell surface as assessed by flow cytometry.,HP:0025354,2,Definition
+HP:0025384,"Areas of subcutanous fat tissue that are resistant to (do not respond as expected to) diet, life-style alteration, or bariatric surgery.",HP:0003549,12,Definition
+HP:0100001,"Malignant mesothelioma is a form of cancer that originates from the cells of the mesothelium, a thin tissue layer surrounding the body's internal organs. Malignant mesothelioma is almost exclusively caused by asbestos exposure, pleural mesothelioma beeing the most common form, affecting the lining of the lungs called the pleura. Other forms such as perioneal-, percardial- or testicular- mesothelioma are much rarer.",HP:0002664,0,Synonym
+HP:0001281,A condition characterized by intermittent involuntary contraction of muscles (spasms) related to hypocalcemia or occasionally magnesium deficiency.,HP:0003011,1,Definition
+HP:0100326,Immunological states where the immune system produces harmful responses upon reexposure to sensitising antigens.,HP:0002715,0,Synonym
+HP:0032120,Any functional abnormality of the part of the nervous system that consists of the nerves and ganglia outside of the brain and spinal cord.,HP:0000707,0,Synonym
+HP:0030365,Vaginal birth after Caesarian (VBAC) refers to the situation where the mother has had a previous Cesarean delivery but has now delivered vaginally.,HP:0001197,0,Synonym
+HP:0012233,Blood clot formed within muscle tissue following leakage of blood into the tissue.,HP:0003011,3,Synonym
+HP:0032459,"Any deviation from the normal level of the enzyme phosphoribosyl pyrophosphatesynthetase, which catalyzes the synthesis of PP-ribose-P from ATP and ribose-5-phosphate.",HP:0001939,2,Definition
+HP:0001392,An abnormality of the liver.,HP:0025031,2,Definition
+HP:0031404,"An impaired immune response mediated by cells expressing specific receptors for antigen produced through a somatic diversification process, and allowing for an enhanced secondary response to subsequent exposures to the same antigen (immunological memory).",HP:0002715,0,Synonym
+HP:0011032,An abnormality of the regulation of body fluids.,HP:0001939,1,Definition
+HP:0012400,"An abnormal concentration of aldolase in the serum. Aldolase is an enzyme responsible for converting fructose 1,6-bisphosphate into the triose phosphates dihydroxyacetone phosphate and glyceraldehyde 3-phosphate.",HP:0001939,0,Synonym
+HP:0002829,Joint pain.,HP:0025142,3,Definition
+HP:0025430,A type of crying in an abnormally high-pitched voice.,HP:0001608,0,Synonym
+HP:0031427,A deviation from the normal concentration of osteocalcin in the blood circulation.,HP:0000818,8,Definition
+HP:0031657,Any abnormal noise generated by the beating heart.,HP:0001626,0,Synonym
+HP:0012135,"An anomaly of cells involved in the formation of a granulocytes, that is, of the granulocytopoietic cell.",HP:0001871,0,Synonym
+HP:0003750,"An abnormal, increased fatiguability of the musculature.",HP:0003011,0,Definition
+HP:0011273,Abnormally increased variability in the size of erythrocytes.,HP:0001871,1,Synonym
+HP:0020061,Any deviation from the normal concentration of hemoglobin in the blood.,HP:0001871,3,Synonym
+HP:0011111,An abnormality of the concentration or function of circulating immune proteins.,HP:0002715,1,Definition
+HP:0012431,Intermittent and recurrent bouts of a subjective feeling of tiredness characterized by a lack of energy and motivation.,HP:0025142,2,Definition
+HP:0010484,Abnormal increase in size of the upper limbs (due to an increase of the size of cells).,HP:0040064,3,Synonym
+HP:0025065,"A deviation from normal of the mean corpuscular volume, or mean cell volume (MCV) of red blood cells, usually taken to be 80 to 100 femtoliters.",HP:0001871,0,Synonym
+HP:0031492,"A benign or malignant neoplasm that arises from and is composed of epithelial cells. This category include adenomas, papillomas, and carcinomas [NCIT:C3709].",HP:0002664,0,Synonym
+HP:0004322,"A height below that which is expected according to age and gender norms. Although there is no universally accepted definition of short stature, many refer to ""short stature"" as height more than 2 standard deviations below the mean for age and gender (or below the 3rd percentile for age and gender dependent norms).",HP:0001507,0,Synonym
+HP:0002721,"Failure of the immune system to protect the body adequately from infection, due to the absence or insufficiency of some component process or substance.",HP:0002715,0,Definition
+HP:0000465,Pterygium colli is a congenital skin fold that runs along the sides of the neck down to the shoulders. It involves an ectopic fibrotic facial band superficial to the trapezius muscle. Excess hair-bearing skin is also present and extends down the cervical region well beyond the normal hairline.,HP:0000152,5,Synonym
+HP:0011028,An abnormality of blood circulation.,HP:0001626,1,Synonym
+HP:0012030,Abnormally increased concentration of cortisol in the urine.,HP:0000818,1,Definition
+HP:0011033,An impairment of a fructose metabolic process.,HP:0001939,2,Definition
+HP:0010963,By the 14th week of gestation it is nearly always possible to visualized the fluid-filled fetal stomach bubble on prenatal sonography. This term refers to the absence of a normal fetal stomach bubble on fetal ultrasonography performed at around 16 to 20 weeks' gestation.,HP:0001197,0,Synonym
+HP:0010935,An abnormality of the upper urinary tract.,HP:0000119,1,Definition
+HP:0020172,An unpleasant or harmful reaction resulting from treatment with a drug.,HP:0001939,15,Definition
+HP:0001907,"The formation of a blood clot inside a blood vessel that subsequently travels through the blood stream from the site where it formed to another location in the body, generally leading to vascular occlusion at the distant site.",HP:0001871,0,Synonym
+HP:0040175,Reduced level of platelet-activating factor acetylhydrolase.,HP:0001939,3,Synonym
+HP:0011430,"On prenatal ultrasound, the nasal bone is a thin echogenic line within the bridge of the fetal nose. The fetus is imaged facing the transducer with the fetal face strictly in the midline. The angle of insonation is 90 degrees, with the longitudinal axis of the nasal bone as the reference line. Calibres are placed at each end of the nasal bone. Absence of the nasal bone or measurements below 2.5th percentile are considered significant (PMID:16100637).",HP:0001197,0,Synonym
+HP:0012647,"Any anomaly of the inflammatory response, a response to injury or infection characterized by local vasodilation, extravasation of plasma into intercellular spaces and accumulation of white blood cells and macrophages.",HP:0002715,5,Definition
+HP:0410157,An increase in the level of N-acetylneuraminic acid in cultured fibroblasts.,HP:0001939,3,Definition
+HP:0001367,"An abnormal structure or form of the joints, i.e., one or more of the articulations where two bones join.",HP:0000924,2,Synonym
+HP:0008072,"Virilization (deepening of voice, facial hirsutism and scalp hair loss) with onset during pregnancy (usually towards the end of the first trimester) and regression several months post-partum.",HP:0001197,0,Synonym
+HP:0004361,An abnormal concentration of leptin in the blood.,HP:0000818,2,Definition
+HP:0032999,Abnormally high concentration of fecal porphyrins in feces.,HP:0001939,3,Definition
+HP:0010881,"An abnormality of the umbilical cord, which is the cord connecting the developing embryo or fetus to the placenta.",HP:0001197,0,Synonym
+HP:0020171,Low plasma concentration of a drug as compared to previously measured thresholds given the expected concentration for the applied dosage regime.,HP:0001939,2,Definition
+HP:0031073,An anomalous response to a test that is designed to probe the function of the endocrine system.,HP:0000818,0,Definition
+HP:0002315,"Cephalgia, or pain sensed in various parts of the head, not confined to the area of distribution of any nerve.",HP:0000707,2,Synonym
+HP:0003256,"An abnormality of the coagulation cascade, which is comprised of the contact activation pathway (also known as the intrinsic pathway) and the tissue factor pathway (also known as the extrinsic pathway) as well as cofactors and regulators.",HP:0001871,1,Synonym
+HP:0030139,An abnormal high amount of bleeding following the procedure of taking a blood sample.,HP:0001871,1,Synonym
+HP:0031383,Abnormal amount of a protein that is normally present on the cell surface of lymphocytes.,HP:0002715,6,Synonym
+HP:0001511,An abnormal restriction of fetal growth with fetal weight below the tenth percentile for gestational age.,HP:0001507,0,Synonym
+HP:0000553,"An abnormality of the uvea, the vascular layer of the eyeball.",HP:0000478,0,Definition
+HP:0004337,Abnormality of an amino acid metabolic process.,HP:0001939,1,Definition
+HP:0003271,Abnormal increased size of the viscera of the abdomen.,HP:0025031,4,Definition
+HP:0011446,"Cognitive, psychiatric or memory anomaly.",HP:0000707,9,Synonym
+HP:0010311,Absence or underdevelopment of the breasts.,HP:0000769,2,Definition
+HP:0030956,An anomaly of the electrical conduction physiology of the heart.,HP:0001626,1,Synonym
+HP:0032101,"A type of infection that is regarded as a sign of a pathological susceptibility to infection. There are five general subtypes. (i) Opportunistic infection, meaning infection by a pathogen that is not normally able to cause infection in a healthy host (e.g., pneumonia by Pneumocystis jirovecii or CMV); (ii) Unusual location (focus) of an infection (e.g., an aspergillus brain abscess); (iii) a protracted course or lack of adequate response to treatment (e.g., chronic rhinosinusitis); (iv) Unusual severity or intensity of an infection; and (v) unusual recurrence of infections.",HP:0002715,1,Synonym
+HP:0001903,A reduction in erythrocytes volume or hemoglobin concentration.,HP:0001871,4,Synonym
+HP:0025277,"Hyperhidrosis that occurs with gustatory stimulation (e.g., moisture on face from sweating that occurs after eating).",HP:0001574,11,Definition
+HP:0025156,"Inability to be weaned from intravenous (parenteral) nutrition, as judged by the hydration status (urine output, blood urea nitrogen, creatinine, urine sodium concentration), ability to maintain weight, stool output, and serum electrolyte status.",HP:0025031,8,Definition
+HP:0004325,Abnormally low body weight.,HP:0001507,0,Synonym
+HP:0001250,A seizure is an intermittent abnormality of nervous system physiology characterised by a transient occurrence of signs and/or symptoms due to abnormal excessive or synchronous neuronal activity in the brain.,HP:0000707,0,Synonym
+HP:0100261,"An abnormality of the structure or form of the tendons, also often called sinews.",HP:0000924,11,Synonym
+HP:0003010,Prolongation of the time taken for a standardized skin cut of fixed depth and length to stop bleeding.,HP:0001871,5,Synonym
+HP:0002792,"An abnormal reduction on the vital capacity, which is defined as the total lung capacity (volume of air in the lungs at maximal inflation) less the residual volume (i.e., volume of air in the lungs following maximal exhalation) of the lung.",HP:0002086,0,Synonym
+HP:0002904,An increased amount of bilirubin in the blood.,HP:0001939,5,Synonym
+HP:0500097,Presence of xenobiotic in stool.,HP:0001939,5,Synonym
+HP:0031437,"Exposure of pregnant women to toxins from any source, such as environmental toxins or chemicals, that may potentially cause problems such as miscarriage, preterm delivery, low birth weight, and, in some cases, developmental delays in infants.",HP:0001197,0,Synonym
+HP:0410349,An abnormal decrease in glycosyltransferase O-fucosylpeptide 3-beta-N-acetylglucosaminyltransferase enzymatic level.,HP:0001939,1,Synonym
+HP:0004370,An abnormality of temperature homeostasis.,HP:0001939,1,Definition
+HP:0002088,Any structural anomaly of the lung.,HP:0002086,3,Definition
+HP:0002932,A reduction in aldehyde oxidase level.,HP:0001939,4,Synonym
+HP:0020175,A decreased amount of cholinesterase in the blood circulation.,HP:0001939,5,Definition
+HP:0004392,"A kind of congenital defect of the anterior abdominal wall in which the intestines are evident through the thin, lax, and protruding abdominal wall in affected infants.",HP:0025031,3,Definition
+HP:0030338,"An anomaly of the circulating level of a gonadotropin, that is, of a protein hormone secreted by gonadotrope cells of the anterior pituitary of vertebrates. The primary gonadotropins are luteinizing hormone (LH) and follicle-stimulating hormone (FSH).",HP:0000818,0,Definition
+HP:0010885,A disease where there is cellular death (necrosis) of bone components due to interruption of the blood supply.,HP:0000924,9,Synonym
+HP:0030972,A chronic deviation from normal pressure in the systemic arterial system.,HP:0001626,0,Synonym
+HP:0009806,A form of diabetes insipidus caused by failure of the kidneys to respond to vasopressin (AVP).,HP:0000818,0,Synonym
+HP:0003353,An abnormality of amino acid metabolism characterized by a decreased level of propionyl-CoA carboxylase.,HP:0001939,0,Synonym
+HP:0004328,"An abnormality of the anterior segment of the eyeball (which comprises the structures in front of the vitreous humour: the cornea, iris, ciliary body, and lens).",HP:0000478,1,Definition
+HP:0012719,Abnormal functionality of the gastrointestinal tract.,HP:0025031,0,Definition
+HP:0009126,An increase in adipose tissue mass by hyperplastic growth (increase in the number of adipocytes) or by hypertrophic growth (increase in the size of adipocytes occurring primarily by lipid accumulation within the cell).,HP:0003549,8,Definition
+HP:0033036,Reduced level of nasal nitric oxide (nNO). Current American Thoracic Society/European Respiratory Society (ATS/ERS) guidelines for nNO measurements recommend air aspiration via a nasal probe while the subject exhales through the mouth against resistance in order to maintain velum closure.,HP:0002086,0,Synonym
+HP:0012498,A complication of pregnancy and delivery in which the umbilical cord wraps around the fetal neck once or multiple times.,HP:0001197,0,Synonym
+HP:0010312,The presence of asymmetrical breasts.,HP:0000769,0,Definition
+HP:0032408,"A breast lump is any discrete mass in a breast noticed by the patient, significant other, or physician.",HP:0000769,0,Definition
+HP:0009794,Congenital developmental defect arising from the primitive branchial apparatus.,HP:0000152,17,Synonym
+HP:0410069,An increase in the level of propylene glycol in the blood.,HP:0001939,6,Definition
+HP:0011413,Shoulder dystocia occurs when the fetal anterior shoulder impacts against the maternal symphysis following delivery of the vertex.,HP:0001197,0,Synonym
+HP:0005542,An abnormal prolongation (delay) in the time required by whole blood to produce a visible clot.,HP:0001871,0,Synonym
+HP:0012548,Muscle fibers degeneration resulting in fatty replacement of skeletal muscle fibers,HP:0003011,1,Synonym
+HP:0011014,Abnormality of glucose homeostasis.,HP:0001939,1,Synonym
+HP:0012757,A structural anomaly of a neuron.,HP:0000707,4,Synonym
+HP:0002793,An anomaly of the rhythm or depth of breathing.,HP:0002086,2,Definition
+HP:0031060,This applies to an individual who needs help with dressing or needs to be completely dressed.,HP:0025142,7,Definition
+HP:0011766,A structural abnormality of the parathyroid gland.,HP:0000818,1,Definition
+HP:0500101,Presence of a xenobiotic in gastric fluid.,HP:0001939,3,Synonym
+HP:0003343,"Reduced level of the enzyme glutathione synthetase, which catalyzes the last step in the synthesis of glutathione and a deficiency results in low levels of glutathione. Acidosis is due to reduced feedback inhibition of gamma-glutamyl cysteine synthetase in the gamma-glutamyl cycle, which ultimately leads to overproduction and accumulation of 5-oxoproline.",HP:0001939,1,Definition
+HP:0100548,"Eversion of a hollow organ and exposure, inside out, and protruded through the abdominal wall.",HP:0025031,9,Definition
+HP:0025477,Calcified deposits in soft tissue structures outside a joint.,HP:0000924,15,Synonym
+HP:0003654,An abnormal reduction in dihydropyrimidine dehydrogenase (NADP+) level.,HP:0001939,1,Definition
+HP:0030759,An increase in mean adipocyte cell size. This feature can be measured by determining the average cell diameter of adipocytes microscopically using abdominal subcutaneous adipose tissue obtained by biopsy.,HP:0003549,8,Definition
+HP:0005268,"A pregnancy that ends at a stage in which the fetus is incapable of surviving on its own, defined as the spontaneous loss of a fetus before the 20th week of pregnancy.",HP:0001197,0,Synonym
+HP:0030236,Abnormalities of the overall muscle bulk based on clinical observation.,HP:0003011,0,Synonym
+HP:0012131,"A deviation from the normal count of erythroid precursor cells, that is, erythroid lineage cells in the bone marrow.",HP:0001871,0,Synonym
+HP:0031064,Partial or total incontinence of bowel or bladder.,HP:0025142,6,Definition
+HP:0031435,A speech pattern characterized by abnormally reduced or lacking variability of the pitch of the voice.,HP:0001608,0,Synonym
+HP:0025022,A reduced erythrocyte sedimentation rate (ESR). The ESR is a test that measures the distance that erythrocytes have fallen after one hour in a vertical column of anticoagulated blood under the influence of gravity. The ESR is a nonspecific finding. A decreased ESR may be seen in polycythemia or in certain blood diseases in which red blood cells have an irregular or smaller shape that causes slower settling.,HP:0001939,2,Synonym
+HP:0040264,"An unpleasant sensation characterized by physical discomfort (such as pricking, throbbing, or aching) localized to the jaw.",HP:0025142,0,Definition
+HP:0031864,Presence of viable bacteria in the blood.,HP:0001939,9,Synonym
+HP:0012261,Any functional anomaly of the respiratory motile cilia.,HP:0002086,1,Synonym
+HP:0001901,"Polycythemia is diagnosed if the red blood cell count, the hemoglobin level, and the red blood cell volume all exceed the upper limits of normal.",HP:0001871,0,Synonym
+HP:0010313,The presence of hypertrophy of the breast.,HP:0000769,0,Definition
+HP:0025278,Sweating provoked by cold temperature rather than by heat.,HP:0001574,8,Definition
+HP:0031340,"A structural anomaly of lysosomes, membrane-enclosed organelles that contain an array of enzymes capable of catabolizing proteins, nucleic acids, carbohydrates, and lipids.",HP:0025354,3,Definition
+HP:0011726,"Systemic desaturation of a liveborn baby resulting from persistent pulmonary hypertension with a patent ductus arteriosus and patent foramen ovale, such that the circulation in postnatal life follows the fetal course.",HP:0001626,1,Synonym
+HP:0033050,"An unpleasant sensation characterized by physical discomfort (such as pricking, throbbing, or aching) and perceived to originate in the throat.",HP:0025142,0,Definition
+HP:0010727,Rupture of the eyeball not due to trauma.,HP:0000478,0,Definition
+HP:0011412,"Delivery of newborn by means of a ventouse, a vacuum device used to assist the delivery of a baby when the second stage of labour has not progressed adequately.",HP:0001197,0,Synonym
+HP:0010970,An abnormality of an erythrocyte cell surface molecule.,HP:0001871,3,Synonym
+HP:0010968,An abnormality of liposaccharide metabolism.,HP:0001939,0,Synonym
+HP:0040224,Clincial phenotype characterized by delayed bleeding accelerated break down of blood clot (fibrinolysis),HP:0001871,6,Synonym
+HP:0002087,An abnormality of the upper respiratory tract.,HP:0002086,1,Synonym
+HP:0031653,Any functional abnormality of a cardiac valve.,HP:0001626,0,Synonym
+HP:0025095,"A sudden violent, spasmodic, audible expiration of breath through the nose and mouth.",HP:0002086,0,Synonym
+HP:0011889,Significant bleeding or hemorrhage without significant precipitating factor.,HP:0001871,8,Synonym
+HP:0011729,An abnormality in the range and ease of motion of joints across their normal range.,HP:0000924,3,Synonym
+HP:0030973,A subjective feeling of tiredness characterized by a lack of energy and motivation and that is induced by exertion or exercise.,HP:0025142,1,Definition
+HP:0032171,"An unpleasant sensation characterized by physical discomfort (such as pricking, throbbing, or aching) localized to the urinary bladder. Bladder pain may be more pronounced with a full bladder and relieved upon urination, but this is not always the case.",HP:0025142,1,Definition
+HP:0006683,An abnormality of filling of a ventricle with blood during diastole.,HP:0001626,0,Synonym
+HP:0002756,"A pathologic fracture occurs when a bone breaks in an area that is weakened secondarily to another disease process such as tumor, infection, and certain inherited bone disorders. A pathologic fracture can occur without a degree of trauma required to cause fracture in healthy bone.",HP:0000924,5,Synonym
+HP:0030054,Presence of excess fibrous connective tissue surrounding hair follicules.,HP:0001574,15,Definition
+HP:0032463,A reduction below the normal concentration of fibronectin the the blood circulation.,HP:0001939,6,Definition
+HP:0030689,A reduced concentration of glucagon in the blood circulation.,HP:0000818,0,Definition
+HP:0033042,"Any structural anomaly of the fetal part of the placenta, which is known as the chorion.",HP:0001197,0,Synonym
+HP:0032064,"Eosinophilic infiltration of one or more gastrointestinal organs. Gastrointestinal eosinophilia is a broad term for abnormal eosinophil accumulation in the GI tract, involving many different disease identities. These diseases include primary eosinophil associated gastrointestinal diseases, gastrointestinal eosinophilia in HES and all gastrointestinal eosinophilic states associated with known causes. Each of these diseases has its unique features but there is no absolute boundary between them.",HP:0025031,7,Definition
+HP:0032435,An infection of the umbilicus and/or surrounding tissues occurring in the neonatal period.,HP:0001197,0,Synonym
+HP:0030854,A staphyloma is a localized defect in the eye wall with protrusion of uveal tissue due to alterations in scleral thickness and structure.,HP:0000478,0,Synonym
+HP:0003075,A decreased concentration of protein in the blood.,HP:0001939,6,Synonym
+HP:0002450,Any structural anomaly that affects the motor neuron.,HP:0000707,2,Synonym
+HP:0020122,Red blood cells that appear to have parts of them bitten away.,HP:0001871,3,Synonym
+HP:0010546,"Fine, rapid twitching of individual muscle fibers with little or no movement of the muscle as a whole. If a motor neuron or its axon is destroyed, the muscle fibers it innervates undergo denervation atrophy. This leads to hypersensitivity of individual muscle fibers to acetyl choline so that they may contract spontaneously. Isolated activity of individual muscle fibers is generally so fine it cannot be seen through the intact skin, although it can be recorded as a short-duration spike in the EMG.",HP:0000707,2,Synonym
+HP:0031460,"A benign mesenchymal neoplasm arising from smooth, skeletal, or cardiac muscle tissue [NCIT:C4882].",HP:0002664,0,Synonym
+HP:0001896,A reduced number of reticulocytes in the peripheral blood.,HP:0001871,0,Synonym
+HP:0002624,An anomaly of vein.,HP:0001626,5,Synonym
+HP:0032547,An abnormal decrease of the pressure within the eye.,HP:0000478,0,Definition
+HP:0025548,An elevation over the normal range of the average amount of hemoglobin per red blood cell (27 to 31 picograms/cell).,HP:0001871,0,Synonym
+HP:0002006,A congenital malformation with a cleft (gap or opening) in the face.,HP:0000152,3,Synonym
+HP:0031035,Presence of a protracted or persistent infection by a pathogen potentially related to an underlying abnormality of the immune system that is not able to clear the infection.,HP:0002715,0,Definition
+HP:0032007,A softening and breaking down of skin resulting from prolonged exposure to moisture. Macerated skin becomes soft and wrinkly and takes on a whitish hue.,HP:0001574,3,Definition
+HP:0025128,An abnormally reduced amount of adipose tissue in the abdominal cavity.,HP:0003549,9,Definition
+HP:0011811,"A reduced ability to identify precisely the site of a touch. This test is usually carried out by asking a patient, whose eyes are closed or covered, to touch the same site with a fingertip.",HP:0000707,9,Synonym
+HP:0030686,"An elevated circulating concentration of adiponectin, a 30-kDa complement C1-related protein that is the most abundant secreted protein expressed in adipose tissue.",HP:0000818,4,Synonym
+HP:0032807,A seizure occurring within the neonatal period (28 days beyond the full term date).,HP:0000707,3,Synonym
+HP:0001252,"Muscular hypotonia is an abnormally low muscle tone (the amount of tension or resistance to movement in a muscle), often involving reduced muscle strength. Hypotonia is characterized by a diminished resistance to passive stretching. Muscular hypotonia may be related to defects in skeletal muscle, neuromuscular junction, or peripheral nerve.",HP:0003011,0,Synonym
+HP:0000835,Developmental hypoplasia of the adrenal glands.,HP:0000818,2,Definition
+HP:0030850,"An anomaly of the pulse pressure, which is defined as the systolic pressured minus the diastolic pressure.",HP:0001626,0,Synonym
+HP:0011435,"An abnormally low concentration of serum PAPP-A (pregnancy associated plasma protein A), as compared to normal values for gestational-age.",HP:0001197,0,Synonym
+HP:0002930,Reduced sensitivity of end organs to thyroid hormone characterized by elevated serum levels of free thyroid hormone with nonsuppressed thyroid stimulating hormone.,HP:0000818,1,Synonym
+HP:0045017,Defect or defects of the morphogenesis of the left heart identifiable at birth.,HP:0001626,2,Synonym
+HP:0045049,An abnormal amount of oxygen passes into the blood from the lungs and/or an abnormal amount of carbon dioxide passes from the blood into the lungs.,HP:0002086,0,Synonym
+HP:0025133,A deviation from normal concentrations of estradiol in the circulation.,HP:0000818,0,Synonym
+HP:0003210,An abnormality of Krebs cycle metabolism that is characterized by a decreased rate of methylmalonyl-CoA mutase activity.,HP:0001939,0,Synonym
+HP:0410283,Detection of acetaminophen in the blood.,HP:0001939,5,Synonym
+HP:0011878,Presence of reduced amount of a membrane protein on the cell membrane of platelets. This feature is typically measured by flow cytometry.,HP:0001871,4,Synonym
+HP:0001899,An elevation above the normal ratio of the volume of red blood cells to the total volume of blood.,HP:0001871,0,Synonym
+HP:0025498,Absence of ceruloplasmin in the blood.,HP:0001939,6,Synonym
+HP:0003555,"Fiber splitting or branching is a common finding in human and rat skeletal muscle pathology. Fiber splitting refers to longitudinal halving of the complete fiber, while branching originates from a regenerating end of a necrotic fiber as invaginations of the sarcolemma. In fiber branching, one end of the fiber remains intact as a single entity, while the other end has several branches.",HP:0003011,0,Synonym
+HP:0031650,Any functional defect of the mitral or tricuspid valve.,HP:0001626,1,Synonym
+HP:0004359,A deviation from the normal concentration of a fatty acid in the blood circulation.,HP:0001939,3,Definition
+HP:0011812,Impaired ability to recognize letters or numbers drawn by an examiner's fingertip on the patient's skin (the patients eyes are closed or covered throughout this examination).,HP:0000707,8,Synonym
+HP:0040133,A deviation from the normal circulating concentration of ferritin. Ferritin concentration can be measured in serum or plasma.,HP:0001939,5,Synonym
+HP:0009888,"Abnormality of the growth of secondary sexual hair, which normally ensues during puberty. In males, secondary sexual hair usually comprises body hair, including underarm, abdominal, chest, and pubic hair. In females, secondary sexual hair usually comprises a lesser degree of body hair, most prominently underarm and pubic hair.",HP:0001574,6,Definition
+HP:0032438,Abnormally increased variability in the size of platelets.,HP:0001871,2,Synonym
+HP:0030313,"An anomalous structure of the periosteum, i.e., of the membrane that covers the outer surface of bones.",HP:0000924,4,Synonym
+HP:0011012,A deviation from the normal concentration of a polysaccharide in the blood circulation.,HP:0001939,6,Definition
+HP:0030731,"A malignant tumor arising from epithelial cells. Carcinomas that arise from glandular epithelium are called adenocarcinomas, those that arise from squamous epithelium are called squamous cell carcinomas, and those that arise from transitional epithelium are called transitional cell carcinomas (NCI Thesaurus).",HP:0002664,0,Synonym
+HP:0032489,"Abnormally high fecal pH, i.e., abnormal alkalinity of feces.",HP:0001939,4,Definition
+HP:0011947,An infection of the upper or lower respiratory tract.,HP:0002086,0,Synonym
+HP:0100529,An abnormality of phosphate homeostasis or concentration in the body.,HP:0001939,0,Definition
+HP:0001727,A cerebrovascular accident (stroke) that occurs because of thromboembolism.,HP:0001871,10,Synonym
+HP:0033009,Abnormally high concentration of coproporphyrin 3 in feces.,HP:0001939,4,Definition
+HP:0500013,Secretion of gonadotropin-releasing hormone that does not occur in a pulsatile fashion.,HP:0000818,0,Synonym
+HP:0032653,An abnormal increase in the molar ratio of lactate to pyruvate in the blood circulation.,HP:0001939,0,Definition
+HP:0031208,"An increased concentration of circulating alpha polypeptide of glycoprotein hormones (NCBI Gene 1081). This alpha subunit is common to luteinizing hormone (LH) , follicle stimulating hormone (FSH) , thyroid stimulating hormone (TSH) and human chorionic gonadotropin (hCG), which are glycoprotein hormones composed of an identical alpha subunit together with a beta subunit that confers biological specificity. The alpha subunit is used as a marker for tumors that produce these hormones.",HP:0000818,1,Synonym
+HP:0030087,An anomalous concentration of testosterone in the blood.,HP:0000818,1,Definition
+HP:0011104,An abnormality in the amount of volume occupied by intravascular blood.,HP:0001626,2,Synonym
+HP:0001533,"Asthenic habitus refers to a slender build with long limbs, an angular profile, and prominent muscles or bones.",HP:0001507,0,Synonym
+HP:0012412,Onset of adrenarche at an earlier age than usual.,HP:0000818,2,Definition
+HP:0500165,An abnormality of the partial pressure of oxygen in the arterial blood.,HP:0002086,3,Definition
+HP:0001697,"An abnormality of the pericardium, i.e., of the fluid filled sac that surrounds the heart and the proximal ends of the aorta, vena cava, and the pulmonary artery.",HP:0001626,1,Synonym
+HP:0100021,"Cerebral palsy describes a group of permanent disorders of the development of movement and posture, causing activity limitation, that are attributed to nonprogressive disturbances that occurred in the developing fetal or infant brain. The motor disorders of cerebral palsy are often accompanied by disturbances of sensation, perception, cognition, communication, and behaviour, by epilepsy, and by secondary musculoskeletal problems.",HP:0000707,1,Synonym
+HP:0005540,A form of poikilocytosis in which the abnormally shaped erythrocytes have notches that results in projections that look like horns.,HP:0001871,4,Synonym
+HP:0031823,Abnormally decreased level of the enzyme that catalyzes conversion of hypoxanthine to inosine monophosphate and guanine to guanosine monophosphate via transfer of the 5-phosphoribosyl group from 5-phosphoribosyl 1-pyrophosphate.,HP:0001939,0,Synonym
+HP:0032486,Abnormally high concentration of feces as assessed by the total number of solute particles per kilogram.,HP:0001939,3,Synonym
+HP:0011438,A medical history of exposure of the mother of a child or fetus to a teratogenic substance during pregnancy.,HP:0001197,0,Synonym
+HP:0005120,Any structural abnormality of a cardiac atrium.,HP:0001626,0,Synonym
+HP:0032340,"An abnormal spirometry test result. In this test, the individual being tested exhales into a tube connected to a machine called a spirometer, which measures the volume of air expired against time. Patients are asked to take a maximal inspiration and then to forcefully expel air for as long and as quickly as possible.",HP:0002086,0,Synonym
+HP:0002487,Motor hyperactivity with excessive movement of muscles of the body as a whole.,HP:0000707,3,Synonym
+HP:0003955,A descriptive term for a forearm bone that appears to have an additional bone within it on radiography.,HP:0040064,13,Synonym
+HP:0031424,"A deviation from the normal concentration of beta-C-terminal telopeptide of type I collagen in the blood circulation, a marker of the rate of bone turnover.",HP:0001939,3,Definition
+HP:0003558,Rhabdomyolysis induced by a viral infection.,HP:0003011,17,Definition
+HP:0031213,An increased level of 17-hydroxyprogesterone in the blood. 17-hydroxyprogesterone is an intermediate steroid in the adrenal biosynthetic pathway from cholesterol to cortisol and is the substrate for steroid 21-hydroxylase.,HP:0000818,1,Synonym
+HP:0000729,Persistent deficits in social interaction and communication and interaction as well as a markedly restricted repertoire of activity and interest as well as repetitive patterns of behavior.,HP:0000707,4,Synonym
+HP:0030148,An extra or unusual sound heard during a heartbeat caused vibrations resulting from the flow of blood through the heart.,HP:0001626,0,Synonym
+HP:0031103,A reduction below the normal range of the antimullerian hormone in the circulation.,HP:0000818,0,Definition
+HP:0033006,"Diffuse alveolar damage (DAD) describes a comon histologic injury pattern of the lung. The early stages are characterized by epithelial cell necrosis and sloughing, fibrous exsudate, edema, and hyaline membranes made of surfactant and proteins, filling the alveoli. This results in impaired gas exchange. In later stages, type II cells and myofibroblasts proliferate within the interstitium and airspaces. The corresponding clinical entity is acute respiratory distress syndrome (ARDS). DAD may result from pulmonary drug toxicity, occurs in immunosuppressed, severe viral infections, acute interstial pneumonitis and crack cocaine inhalation.",HP:0002086,0,Synonym
+HP:0031654,Any functional anomaly of the pumonary valve.,HP:0001626,1,Synonym
+HP:0040262,Middle ear is filled with glue-like fluid instead of air.,HP:0000598,0,Synonym
+HP:0010734,"Tumor-like growths that consist of replacement of the medullary bone with fibrous tissue, causing the expansion and weakening of the areas of bone involved. Especially when involving the skull or facial bones, the lesions can cause externally visible deformities. The skull is often, but not necessarily, affected, and any other bone or bones may be involved. Fibrous dysplasia can either effect isolated bones (Monostotic fibrous dysplasia) or also generalized all bones of the body (Polyostotic fibrous dysplasia).",HP:0000924,5,Synonym
+HP:0011545,A deviance in the normal connections between two cardiac segements.,HP:0001626,1,Synonym
+HP:0025385,"Areas of subcutanous fat tissue below the waist that are resistant to (do not respond as expected to) diet, life-style alteration, or bariatric surgery.",HP:0003549,11,Definition
+HP:0410196,An abnormality in uridine diphosphate glucose-4-epimerase level in red blood cells. Uridine diphosphate glucose-4-epimerase catalyzes the reaction: UDP-glucose = UDP-galactose.,HP:0001939,0,Synonym
+HP:0003077,An elevated lipid concentration in the blood.,HP:0001939,4,Definition
+HP:0011957,"An abnormality of the pectoral muscle, comprising the pectoralis major, a thick, fan-shaped muscle of the anterior chest and the pectoralis minor, a thin, triangular muscle situated underneath the pectoralis major.",HP:0003011,4,Definition
+HP:0032263,"Abnormal increase in blood pressure. An individual measurement of increased blood pressure does not necessarily imply hypertension. In practical terms, multiple measurements are recommended to diagnose the presence of hypertension.",HP:0001626,0,Synonym
+HP:0020059,An abnormal elevation above the normal number of red blood cells per volume in the circulation.,HP:0001871,1,Synonym
+HP:0000309,"An anomaly of the midface, which is a region and not an anatomical term. It extends, superiorly, from the inferior orbital margin to, inferiorly, the level of nasal base. It is formed by the maxilla (upper jaw) and zygoma and cheeks and malar region. Traditionally, the nose and premaxilla are not included in the midface.",HP:0000152,8,Synonym
+HP:0009887,An abnormality of hair pigmentation (color).,HP:0001574,12,Definition
+HP:0410282,"A deviation from the normal concentration of amylase in the blood, an enzyme which helps digest glycogen and starch. It is produced mainly in the pancreas and salivary glands.",HP:0001939,7,Synonym
+HP:0004445,"The presence of elliptical, cigar-shaped erythrocytes on peripheral blood smear.",HP:0001871,1,Synonym
+HP:0012146,Decreased quantity or activity of von Willebrand factor. Von Willebrand factor mediates the adhesion of platelets to the collagen exposed on endothelial cell surfaces.,HP:0001871,4,Synonym
+HP:0030364,"Delivery by Caesarian section representing where the mother has already had a previous Cesarean delivery, and this is a repeat Cesarean birth.",HP:0001197,0,Synonym
+HP:0032580,"Abnormal structure of the bulbus cordis, which is the single outflow tract of the heart during early embryogenesis.",HP:0001626,3,Synonym
+HP:0000969,"An abnormal accumulation of fluid beneath the skin, or in one or more cavities of the body.",HP:0001939,15,Synonym
+HP:0008208,Hyperplasia of the parathyroid gland.,HP:0000818,0,Synonym
+HP:0003548,"An abnormally increased number of mitochondria in the cytoplasma adjacent to the sarcolemma (muscle cell membrane), whereby the mitochondria also possess an abnormal morphology.",HP:0003011,4,Synonym
+HP:0010990,"An abnormality of blood coagulation, common pathway.",HP:0001871,3,Synonym
+HP:0100783,Failure to develop and congenital absence of the breast.,HP:0000769,1,Definition
+HP:0033079,Absence or underdevelopment of the thyroid gland.,HP:0000818,2,Synonym
+HP:0011354,An abnormality of the skin that is not localized to any one particular region.,HP:0001574,4,Definition
+HP:0010971,Absence of the Lutheran antigen (a type I integral membrane glycoprotein) from the surface of red blood cells.,HP:0001871,0,Synonym
+HP:0031837,Decreased level of catalysis of the reaction: 2 superoxide + 2 H+ = O2 + hydrogen peroxide.,HP:0001939,2,Definition
+HP:0000306,"An abnormality of the chin, i.e., of the inferior portion of the face lying inferior to the lower lip and including the central prominence of the lower jaw.",HP:0000152,1,Synonym
+HP:0033051,"A disturbance of executive functioning, which is broadly defined as the set of abilities that allow for the planning, executing, monitoring, and self-correcting of goal-directed behavior while inhibiting task-irrelevant behavior. At least some degree of executive skill is needed to complete most cognitive tasks, and deficits in executive abilities are central to many clinical conditions, including fronto-temporal dementia.",HP:0000707,1,Synonym
+HP:0012862,Any structural anomaly of a reproductive cell.,HP:0000119,1,Synonym
+HP:0003165,An abnormal increased concentration of parathyroid hormone.,HP:0000818,0,Definition
+HP:0012062,A fluid filled cavity that develops with a bone.,HP:0000924,17,Synonym
+HP:0000821,Deficiency of thyroid hormone.,HP:0000818,1,Definition
+HP:0025020,An increased concentration of prostate specific antigen (PSA) in the circulation.,HP:0001939,12,Synonym
+HP:0031037,Blood concentration of insulin-like factor 3 (ILF3) is below normal limits.,HP:0001939,4,Synonym
+HP:0003498,A kind of short stature in which different regions of the body are shortened to differing extents.,HP:0001507,0,Synonym
+HP:0000966,Abnormally diminished capacity to sweat.,HP:0001574,13,Definition
+HP:0030451,A closed fluid filled sac originating from the mesentary.,HP:0025031,7,Definition
+HP:0001637,A structural anomaly of the muscle layer of the heart wall.,HP:0001626,1,Synonym
+HP:0040210,A deviation from the normal concentration of biopterin in the blood circulation.,HP:0001939,6,Definition
+HP:0012224,Persistence of immune complexes in the blood circulation.,HP:0002715,2,Definition
+HP:0011422,An abnormality of chloride homeostasis or concentration in the body.,HP:0001939,1,Definition
+HP:0031929,A type of rosette in which a spoke-wheel arrangement of cells with tapered cellular processes radiates around a wall of a centrally placed vessel.,HP:0025354,3,Definition
+HP:0031983,"This term groups terms representing abnormal findings derived from chest X-ray investigation of the lung. In general, lung abnormalities can manifest as opacities (areas of increased density) or as regions with decreased density.",HP:0002086,1,Synonym
+HP:0025388,"A nodular lesion that develops in the thyroid gland. The term ""thyroid nodule"" refers to any abnormal growth that forms a lump in the thyroid gland.",HP:0000818,3,Synonym
+HP:0002076,Migraine is a chronic neurological disorder characterized by episodic attacks of headache and associated symptoms.,HP:0000707,1,Synonym
+HP:0025435,An elevated level of the enzyme lactate dehydrogenase in serum.,HP:0001939,4,Synonym
+HP:0033052,"Psychogenic non-epileptic seizures (PNES) are an important cause of apparently treatment-resistant epilepsy and remain a major diagnostic challenge in epileptology. The two main PNES groups are panic disorder (also occurring as a reaction in people with epilepsy) and dissociative disorder (pseudoseizure), often developing inpatients with no history of epilepsy. The main markers distinguishing PNES from epileptic seizures are (i) the way the patient tells the story (not focusing on the seizure symptoms, avoidance of the word seizure, etc); (ii) that they are prolonged (many minutes); (iii) associated with hyperventilation and eyes closed; and that they present as treatment-resistant epilepsy despite an often normal intellect and brain imaging.",HP:0000707,0,Synonym
+HP:0031102,An elevation above the normal range of the antimullerian hormone in the circulation.,HP:0000818,0,Definition
+HP:0010972,A kind of anemia characterized by inadequate production of erythrocytes.,HP:0001871,0,Synonym
+HP:0008352,"An abnormality of adhesion of thrombocytes. Normally, platelets adhere to collagen in the vascular subendothelium within seconds of injury via a receptor made up of glycoprotein Ia and IIa and GPVI and to vWF via receptor GPIb/IX/V. The adherent platelets then release granules that lead to platelet activation and aggregation.",HP:0001871,4,Synonym
+HP:0031822,Abnormally increased level of the enzyme that catalyzes conversion of hypoxanthine to inosine monophosphate and guanine to guanosine monophosphate via transfer of the 5-phosphoribosyl group from 5-phosphoribosyl 1-pyrophosphate.,HP:0001939,0,Definition
+HP:0410057,An increase in the level of D-threitol in the plasma.,HP:0001939,3,Definition
+HP:0500100,Presence of a xenobiotic in plasma and/or serum.,HP:0001939,4,Definition
+HP:0010518,An abnormality of the thyroid gland owing to the presence of a fibrous cyst resulting from the persistence of the thyroglossal duct.,HP:0000818,0,Definition
+HP:0011877,Average platelet volume above the upper limit of the normal reference interval.,HP:0001871,3,Synonym
+HP:0031926,A type of rosette in which the central lumen or hub is filled with fiber-like processes.,HP:0025354,2,Definition
+HP:0031275,"A hyperdynamic process resulting from excessive vasodilatation. Impaired blood flow causes inadequate tissue perfusion, which can lead to end-organ damage",HP:0001626,1,Synonym
+HP:0032165,"Placental mesenchymal dysplasia is an abnormality of the stem villi of the placenta that may be mistaken for a hydatidiform mole, and in particular, partial mole, owing to the mixture of cysts and normal-appearing parenchyma. The stem (anchoring) villi form as outgrowths of the chorionic plate early in placentogenesis and give rise to the branching villous trees.",HP:0001197,0,Synonym
+HP:0003805,"Presence of abnormal vacuoles (membrane-bound organelles) in the sarcolemma. On histological staining with hematoxylin and eosin, rimmed vacuoles are popcorn-like clear vacuoles with a densely blue rim. The vacuoles are often associated with cytoplasmic and occasionally intranuclear eosinophilic inclusions.",HP:0003011,2,Synonym
+HP:0020135,"A mesenchymal neoplasm characterized by solitary or multiple nodules involving the skin, striated muscles, bones and, sometimes, viscera. It usually appears as a subcutaneous nodule, but can also appear as an ulcer, pedunculated lesion, or similar to a hemangioma. Histology shows well-circumscribed tapered cell lobes, resembling smooth muscle cells. At its center, perivascular round cells (hemangiopericitoides) are usually observed, giving a biphasic appearance.",HP:0002664,0,Synonym
+HP:0001927,Acanthocytosis is a type of poikilocytosis characterized by the presence of spikes on the cell surface. The cells have an irregular shape resembling many-pointed stars.,HP:0001871,5,Synonym
+HP:0500167,An elevated amount of gastrin in the blood.,HP:0000818,2,Definition
+HP:0000014,An abnormality of the urinary bladder.,HP:0000119,1,Definition
+HP:0031688,"Dysplasia in the erythroid lineage, which presents with a variety of morphological changes in the bone marrow, including nuclear budding or irregular nuclear contour in erythroblasts.",HP:0001871,1,Synonym
+HP:0025547,"A reduction from the normal range of the average amount of hemoglobin per red blood cell (27 to 31 picograms/cell). A reduced mean corpuscular hemoglobin (MCH) may indicate a hypochromic anemia, but the MCH may be normal if both the total hemoglobin and the red blood cell count are reduced.",HP:0001871,0,Synonym
+HP:0100687,The presence of an extra auricle on one or both sides of the head.,HP:0000598,0,Synonym
+HP:0011433,An abnormally high concentration of maternal serum human chorionic gonadotropin as compared to normal values for gestational-age.,HP:0001197,0,Synonym
+HP:0040090,An abnormality of the tympanic membrane,HP:0000598,1,Synonym
+HP:0009914,Cyclopia is a congenital abnormality in which there is only one eye. That eye is centrally placed in the area normally occupied by the root of the nose.,HP:0000478,0,Synonym
+HP:0000290,An anomaly of the forehead.,HP:0000152,3,Synonym
+HP:0002269,"An abnormality resulting from an anomaly of neuronal migration, i.e., of the process by which neurons travel from their origin to their final position in the brain.",HP:0000707,4,Synonym
+HP:0025135,A deviation from normal concentration of estriol in the circulation.,HP:0000818,1,Synonym
+HP:0002617,"Abnormal outpouching or sac-like dilatation in the wall of an atery, vein or the heart.",HP:0001626,0,Synonym
+HP:0100831,Vitamin K is a fat-soluble vitamin with a role in promoting the coagulation cascade.,HP:0001939,3,Synonym
+HP:0020060,An abnormal reduction below the normal number of red blood cells per volume in the circulation.,HP:0001871,0,Synonym
+HP:0010524,"Inability to recognize objects not because of sensory deficit but because of the inability to combine components of sensory impressions into a complete pattern. Thus, agnosia is a neurological condition which results in an inability to know, to name, to identify, and to extract meaning from visual, auditory, or tactile impressions.",HP:0000707,0,Synonym
+HP:0008249,Hyperplasia of the thyroid gland.,HP:0000818,1,Definition
+HP:0031739,A functional anomaly of the inferior or superior oblique muscle.,HP:0000478,15,Definition
+HP:0001963,"A type of hearing impairment prominently characterized by a difficulty in understanding speech, rather than an inability to hear speech. Poor speech discrimination is a very common symptom of high frequency hearing loss.",HP:0000598,1,Synonym
+HP:0003470,"Paralysis of voluntary muscles means loss of contraction due to interruption of one or more motor pathways from the brain to the muscle fibers. Although the word paralysis is often used interchangeably to mean either complete or partial loss of muscle strength, it is preferable to use paralysis or plegia for complete or severe loss of muscle strength, and paresis for partial or slight loss. Motor paralysis results from deficits of the upper motor neurons (corticospinal, corticobulbar, or subcorticospinal). Motor paralysis is often accompanied by an impairment in the facility of movement.",HP:0000707,1,Synonym
+HP:0009026,"Underdevelopment of the latissimus dorsi muscle, which is involved in adduction, extension, internal rotation, and transverse extension of the shoulder and assists in movement of the scapula.",HP:0003011,2,Definition
+HP:0031865,Any functional anomaly of the liver.,HP:0025031,7,Definition
+HP:0025270,Any physiological abnormality of the esophagus.,HP:0025031,4,Definition
+HP:0000357,Abnormal location of the ear.,HP:0000598,0,Synonym
+HP:0020127,"A lump detected in the region that surrounds a joiny. In this context, mass is a general term for a lump or growth that may be caused by the abnormal growth of cells, a cyst, hormonal changes, or an immune reaction.",HP:0000924,21,Synonym
+HP:0004887,A state of respiratory distress that requires a life saving intervention in the form of gaining airway access and instituting positive pressure ventilation.,HP:0002086,0,Synonym
+HP:0012271,Intermittent episodes of increased resistance to the passage of air in the upper airway.,HP:0002086,0,Synonym
+HP:0002524,"A sudden and transient episode of bilateral loss of muscle tone, often triggered by emotions.",HP:0000707,3,Synonym
+HP:0041048,"A decrease in the protein expression fo GPI-anchor proteins, such as CD55 and CD59, at the cell surface, which suggests a defect in GPI-anchor biosynthesis.",HP:0025354,1,Definition
+HP:0032369,An abnormally high blood pH (usually defined as 7.41 or above).,HP:0001939,3,Synonym
+HP:0009109,Interruption of the innervation of the diaphragm.,HP:0003011,1,Definition
+HP:0010960,The presence of microscopic cystic masses of nonfunctioning pulmonary tissue that lack an obvious communication with the tracheobronchial tree.,HP:0002086,1,Definition
+HP:0032200,"The presence of thick collagen bundles around blood vessels, often in an onion-skin type whorling pattern.",HP:0001626,7,Synonym
+HP:0012108,"A type of glaucoma defined by an open, normal appearing anterior chamber angle and raised intraocular pressure,",HP:0000478,0,Synonym
+HP:0000736,Reduced attention span characterized by distractibility and impulsivity but not necessarily satisfying the diagnostic criteria for attention deficit hyperactivity disorder.,HP:0000707,3,Synonym
+HP:0009723,A lesion located beneath a fingernail or toenail.,HP:0001574,7,Definition
+HP:0012290,A tumor (abnormal growth of tissue) of the mouth.,HP:0002664,1,Synonym
+HP:0009484,Displacement of the hand or of fingers of the hand from their normal position.,HP:0040064,4,Synonym
+HP:0025197,"A benign tumor made up of mostly myofibroblasts that appears almost exclusively on the digits of the hands and feet, rarely involving the thumb or big toe. The lesion displays a proliferation of bland intradermal spindle cells arranged in whorls, fascicles, or a storiform pattern in a collagenous background of varying degrees. Also usually present are perpendicular tumor cell fascicles that extend to the epidermis. The small intracytoplasmic inclusions are said to appear similar to red blood cells. The inclusion bodies have been shown to be made up of densely packed vimentin and actin filaments. The tumor often causes a dome-shaped elevation of the overlying structures, forming a protuberant or polypoid nodule. The overlying epidermis can display a host of changes, including acanthosis, hyperkeratosis, parakeratosis, rete ridge flattening, entrapment of adnexal structures, and, rarely, ulceration.",HP:0002664,1,Synonym
+HP:0410042,"Any structural anomaly of the bile-secreting organ that is important for detoxification, for fat, carbohydrate, and protein metabolism, and for glycogen storage.",HP:0025031,3,Definition
+HP:0011849,"Any anomaly in the formation of bone or of a bony substance, or the conversion of fibrous tissue or of cartilage into bone or a bony substance.",HP:0000924,2,Synonym
+HP:0031384,A deficiency in the expression of the CD40 ligand on the surface of activated T-lymphocytes.,HP:0002715,4,Definition
+HP:0001989,"Decreased fetal activity associated with multiple joint contractures, facial anomalies and pulmonary hypoplasia. Ultrasound examination may reveal polyhydramnios, ankylosis, scalp edema, and decreased chest movements (reflecting pulmonary hypoplasia).",HP:0001197,0,Synonym
+HP:0006929,"Brain damage related to a lowering of blood glucose below a critical level (around 30 mg/dl), which may lead to confusion, lethargy and delirium followed by seizures and coma. Prolonged hypoglycemia may lead to irreversible brain damage.",HP:0000707,0,Synonym
+HP:0001923,An elevation in the number of reticulocytes (immature erythrocytes) in the peripheral blood circulation.,HP:0001871,0,Synonym
+HP:0032121,An abnormal result of a physical examination of the the hand that tests for palsy of the ulnar nerve. This nerve innervates the adductor pollicis and interossei muscles and thereby enables adduction of the thumb and extension of the interphalangeal joint. An abnormal result consists in reduced functionality and muscular weakness in the pinch grip between the thumb and index finger of the affected hand as the patient attempts to pinch a piece of paper that the examiner tries to pull away. The flexor pollicis longus muscle tries to compensate for the weakness by flexing the tip of the thumb at the interphalangeal joint.,HP:0000707,6,Synonym
+HP:0012091,An anomaly of the function of the pancreas.,HP:0025031,2,Definition
+HP:0025138,A deviation from the normal concentration of circulating estrone.,HP:0000818,0,Synonym
+HP:0002331,"Repeated episodes of headache with rapid onset, reaching a peak within minutes and of short duration (less than one hour) with pain that is throbbing, pulsating, or bursting in quality.",HP:0000707,1,Synonym
+HP:0410239,"Detection of norcotinine, a metabolite of nicotine, in urine.",HP:0001939,2,Synonym
+HP:0100754,"A state of abnormally elevated or irritable mood, arousal, and or energy levels.",HP:0000707,10,Synonym
+HP:0031868,"Difficulty reaching to visually guided goals in peripheral vision, with the deficit leaves voluntary eye movements largely unaffected.",HP:0000707,3,Synonym
+HP:0002047,Malignant hyperthermia is characterized by a rapid increase in temperature to 39-42 degrees C in response to inhalational anesthetics such as halothane or to muscle relaxants such as succinylcholine.,HP:0001939,12,Definition
+HP:0002019,Infrequent or difficult evacuation of feces.,HP:0025031,5,Definition
+HP:0000744,The feeling of frustration can be defined as an emotional reaction that occurs if a desired goal is not achieved. Frustration intolerance is defined as an age-inappropriate response to frustration characterized by crying or temper tantrums (in children) or aggressive or other undesirable behaviors.,HP:0000707,3,Synonym
+HP:0004305,"Involuntary contractions of muscle leading to involuntary movements of extremities, neck, trunk, or face.",HP:0000707,10,Synonym
+HP:0020100,An unusual fungal infection that is regarded as a sign of a pathological susceptibility to infection by a fungal agent.,HP:0002715,4,Synonym
+HP:0025404,"Any anomaly in the process of ocular fixation, which is the maintaining of the visual gaze on a single location.",HP:0000478,0,Definition
+HP:0002920,"An abnormal reduction in the concentration of corticotropin, also known as adrenocorticotropic hormone (ACTH), in the blood.",HP:0000818,1,Definition
+HP:0001722,"A form of heart failure characterized by elevated cardiac output. This may be seen in patients with heart failure and hyperthyroidism, anemia, pregnancy, arteriovenous fistulae, and others.",HP:0001626,0,Synonym
+HP:0031074,An anomolous response to stimulation by adminstration of the adrenocorticotropic hormone (ACTH). ACTH stimulation normally stimulates the adrenal glands to release cortisol and adrenaline.,HP:0000818,0,Definition
+HP:0031417,Increased discharge of mucus from the nose.,HP:0002086,2,Synonym
+HP:0012074,"An abnormality of the pupillary light reaction characterized by a marked slowing of the light reaction of usually just one pupil. The pupil tends to be relatively dilated, and there is reduced accommodation.",HP:0000478,0,Synonym
+HP:0010602,"An abnormal predominance of type II muscle fibers (in general, this feature can only be observed on muscle biopsy).",HP:0003011,0,Synonym
+HP:3000053,An abnormality of a hypopharynx.,HP:0000152,5,Synonym
+HP:0031987,Being unable to focus one's attention or mental effort on a particular object or activity.,HP:0000707,3,Synonym
+HP:0020104,An unusual protozoan infection that is regarded as a sign of a pathological susceptibility to infection by a protozoal agent.,HP:0002715,3,Definition
+HP:0002511,"A degenerative disease of the brain characterized by the insidious onset of dementia. Impairment of memory, judgment, attention span, and problem solving skills are followed by severe apraxia and a global loss of cognitive abilities. The condition primarily occurs after age 60, and is marked pathologically by severe cortical atrophy and the triad of senile plaques, neurofibrillary tangles, and neuropil threads.",HP:0000707,0,Synonym
+HP:0003200,"An abnormal appearance of muscle fibers observed on muscle biopsy. Ragged red fibers can be visualized with Gomori trichrome staining as irregular and intensely red subsarcolemmal zones, whereas the normal myofibrils are green. The margins of affect fibers appear red and ragged. The ragged-red is due to the accumulation of abnormal mitochondria below the plasma membrane of the muscle fiber, leading to the appearance of a red rim and speckled sarcoplasm.",HP:0003011,0,Synonym
+HP:0010507,A difference in size or shape between the left and right foot.,HP:0040064,5,Synonym
+HP:0032942,"Avoidance of or efforts to avoid distressing memories, thoughts, or feelings about or closely associated with the traumatic event(s). Avoidance of or efforts to avoid external reminders (people, places, conversations, activities, objects, situations) that arouse distressing memories, thoughts, or feelings about or closely associated with the traumatic event(s).",HP:0000707,4,Synonym
+HP:0001761,"The presence of an unusually high plantar arch. Also called high instep, pes cavus refers to a distinctly hollow form of the sole of the foot when it is bearing weight.",HP:0040064,9,Synonym
+HP:0100750,Collapse of part of a lung associated with absence of inflation (air) of that part.,HP:0002086,0,Synonym
+HP:0012874,An abnormal functionality of the male genital system.,HP:0000119,1,Definition
+HP:0032227,"A common, benign skin condition involving hypertrophy of the sebaceous glands characterized by single or multiple lesions that manifest as yellow, soft, small papules with umbilication. The lesions are located commonly on the central face (specifically, the nose, cheeks and forehead) but may also occur elswehere, including the chest, mouth, scrotum, foreskin, penile shaft, vulva, and areola.",HP:0001574,6,Definition
+HP:0030714,A large maternal clot that separates the chorionic plate from the villous chorion.,HP:0001197,0,Synonym
+HP:0032509,"Onychotillomania is characterized by the compulsive or irresistible urge in patients to pick at, pull off, or harmfully bite or chew their nails.",HP:0000707,10,Synonym
+HP:0025018,A functional anomaly of the tiny blood vessels that connect arterioles with venules and whose walls act as semipermeable membranes that mediate the diffusion of fluids and gases between the blood circulation and body tissues.,HP:0001626,3,Synonym
+HP:0032017,An increased proportion of eosinophils in sputum in the differentiated cell count.,HP:0002086,2,Definition
+HP:0025186,"Unilateral ptosis with associated upper eyelid contraction and contraction of either the external or the internal pterygoid muscle. It is thought to occur because of congenital miswiring of a branch of the fifth cranial nerve into the branch of the third cranial nerve supplying the levator muscle. In Marcus Gunn jaw winking synkinesis, elevation and even retraction of the affected eyelid is triggered by chewing, suction, lateral mandible movement, smiling, sternocleidomastoid contraction, protruding tongue, Valsalva manoeuvre and even by breathing.",HP:0000478,3,Synonym
+HP:0032231,"A qualitative impression that red blood cells have less color than normal when examined under a microscope, usually related to a reduced amount of hemoglobin in the red blood cells.",HP:0001871,0,Synonym
+HP:0031418,"Abnormally increased weight-to-height squared ratio, calculated by dividing the individual's weight in kilograms by the square of the individual's height in meters and used as an indicator of overweight compared to averages.",HP:0001507,0,Synonym
+HP:0032579,A benign focal growth composed of vascular tissue.,HP:0002664,0,Synonym
+HP:0011400,An abnormality of myelination of nerves in the central nervous system.,HP:0000707,0,Synonym
+HP:0000490,An eye that is more deeply recessed into the plane of the face than is typical.,HP:0000478,1,Definition
+HP:0032543,Expectoration (coughing up) of a broncholith. Broncholithiasis is defined as the presence of calculi in the tracheobronchial tree. It is a rare disease but can be characterized by clinical and radiological findings of a calcified lymph node eroding bronchial wall and opening into the bronchial lumen.,HP:0002086,0,Synonym
+HP:0500114,Abnormal concentration of urobilinogen present in the stool.,HP:0025031,2,Definition
+HP:0002615,"Low Blood Pressure, vascular hypotension.",HP:0001626,0,Synonym
+HP:0100550,Breakage (tear) of a tendon.,HP:0000924,21,Synonym
+HP:0410043,Any structural anomaly of the hollow epithelial tube found on the dorsal side of the vertebrate embryo that develops into the central nervous system (i.e. brain and spinal cord).,HP:0000707,1,Synonym
+HP:0032493,An abnormally high concentration of trypsinogen in the blood circulation.,HP:0001939,9,Definition
+HP:0000540,"An abnormality of refraction characterized by the ability to see objects in the distance clearly, while objects nearby appear blurry.",HP:0000478,1,Definition
+HP:0012544,"An increased concentration of fructose 1,6-bisphosphate aldolase in the serum.",HP:0001939,0,Synonym
+HP:0003270,Distention of the abdomen.,HP:0025031,3,Definition
+HP:0032094,"An increased concentration of a surfactant protein in the blood circulation. Pulmonary surfactant is a highly surface-active mixture of proteins and lipids that is synthesized and secreted onto the alveoli by type II epithelial cells. The protein part of surfactant constitutes of four types of surfactant proteins (SP), SP-A, SP-B, SP-C and SP-D. SP-A and SP-D are hydrophilic proteins that regulate surfactant metabolism and have immunologic functions. These two proteins are detectable in the bloodstream and an elevated level may reflect idiopathic pulmonary fibrosis.",HP:0001939,3,Definition
+HP:0006582,Repeated occurrences of acute noninflammatory encephalopathy and fatty degenerative liver failure.,HP:0025031,11,Definition
+HP:0030763,A sheet like projection that can result from uterine synechiae that has been encompassed by the expanding chorion and amnion.,HP:0001197,0,Synonym
+HP:0031403,Impaired response of CD8 T cells to pathogens. CD8 T cells direct the killing of a target cell through the release of granules containing cytotoxic mediators or through the engagement of death receptors.,HP:0002715,1,Synonym
+HP:0030448,"A type of sarcoma (A connective tissue neoplasm formed by proliferation of mesodermal cells) that develops from soft tissues like fat, muscle, nerves, fibrous tissues, blood vessels, or deep skin tissues.",HP:0002664,0,Synonym
+HP:0030142,An anomaly of the amount or nature of abdominal sounds. Abdominal sounds (bowel sounds) are made by the movement of the intestines as they promote passage of abdominal contents by peristalsis.,HP:0025031,2,Definition
+HP:0002577,An abnormality of the stomach.,HP:0025031,1,Definition
+HP:0001763,"A foot where the longitudinal arch of the foot is in contact with the ground or floor when the individual is standing; or, in a patient lying supine, a foot where the arch is in contact with the surface of a flat board pressed against the sole of the foot by the examiner with a pressure similar to that expected from weight bearing; or, the height of the arch is reduced.",HP:0040064,5,Synonym
+HP:0100272,"A congenital branchial sinus is a remnant of the embryonic branchial arches and their intervening clefts and pouches that has failed to regress completely. Sinuses typically have their external orifice inferior to the ramus of the mandible. They may traverse the parotid gland, and run in close vicinity to the facial nerve in the external auditory canal.",HP:0000152,4,Synonym
+HP:0011432,An abnormally high concentration of serum alpha-fetoprotein as compared to normal values for gestational-age.,HP:0001197,0,Synonym
+HP:0500110,Detection of delta-9-tetrahydrocannabinol (THC) or other cannabinoid metabolites in urine.,HP:0001939,0,Synonym
+HP:0033080,"Thyrotrophin-releasing hormone (TRH) is a hypothalamic tripeptide synthesised by, stored within and released from the hypothalamus. It stimulates the synthesis and release of thyroid-stimulating hormone (TSH) from the anterior pituitary gland. Following administration of exogenous TRH, a transient increase in serum TSH is expected. This term refers to an abnormal reponse in the TRH stimulation test.",HP:0000818,0,Definition
+HP:0030995,An increase in the amount of fluid present in the peritoneal cavity (between the layers of the peritoneum that lines the abdomen).,HP:0025031,4,Definition
+HP:0012112,An abnormality of the concentration of corticosterone in the blood.,HP:0000818,2,Definition
+HP:0032265,The presence of an antibody in the cerebrospinal fluid (CSF) that is directed against the organism's own cells or tissues.,HP:0002715,4,Definition
+HP:0040232,"Abnormal bleeding related to a procedure or trauma which does not start at the time of the initial insult, but after delay by at least 24 hours.",HP:0001871,1,Synonym
+HP:0012459,"A headache disorder that occurs exclusively at night, waking the affected individual from sleep.",HP:0000707,6,Synonym
+HP:0030962,"A structural anomaly affecting a blood vessel involved in the circulation of the heart, i.e., the superior or inferior vena cava, the pulmonary arteries, the pulmonary veins, and the aorta.",HP:0001626,1,Synonym
+HP:0025232,Inflammation of a synovial bursa.,HP:0000924,20,Synonym
+HP:0001693,Pattern of blood flow in the heart that deviates from the normal circuit of the circulatory system.,HP:0001626,0,Synonym
+HP:0003551,Reduced ability to climb stairs.,HP:0003011,14,Synonym
+HP:0009795,A congenital fistula in the neck resulting from incomplete closure of a branchial cleft.,HP:0000152,0,Synonym
+HP:0031160,Impaired egress of mature neutrophils from bone marrow causing neutropenia.,HP:0001871,2,Synonym
+HP:0030346,An anomaly of the circulating level of follicle-stimulating hormone (FSH).,HP:0000818,1,Definition
+HP:0012164,"A clinical sign indicating a lapse of posture and is usually manifest by a bilateral flapping tremor at the wrist, metacarpophalangeal, and hip joints.",HP:0000707,11,Synonym
+HP:0002045,Reduced body temperature due to failed thermoregulation.,HP:0001939,6,Synonym
+HP:0004307,Thickening of the left ventricle wall with congenital onset.,HP:0001626,1,Synonym
+HP:0011015,An abnormality of the concentration of glucose in the blood.,HP:0001939,2,Definition
+HP:0010720,An abnormality of the distribution of hair growth.,HP:0001574,12,Definition
+HP:0025616,"An abscess not caused by infection with pyogenic bacteria. Operationally, a sterile abscess is inferred if investigations of an abscess fail to reveal evidence of pathogenic organisms.",HP:0002715,6,Definition
+HP:0030786,Perceived flashes of light.,HP:0000478,1,Synonym
+HP:0008271,"Abnormal morphology of collagen fibers in cartilage. In cartilage, collagen II, actually a collagen II:IX:XI heterofibril, is by far the most important type of collagen. A number of abnormalities may be appreciated by electron micrography or biochemical investigations, including sparse collagen fibers in the cartilage matrix.",HP:0000924,12,Synonym
+HP:0001786,"A foot for which the measured width is below the 5th centile for age; or, a foot that appears disproportionately narrow for its length.",HP:0040064,4,Synonym
+HP:0003803,"An abnormal predominance of type I muscle fibers (in general, this feature can only be observed on muscle biopsy).",HP:0003011,0,Synonym
+HP:0031031,A deviation from normal blood concentration of retinol-binding protein (RBP). The most commonly used indicator of vitamin A status is the serum retinol concentration (retinol is one of the several compounds known as vitamin A). The serum RBP concentration is used as a surrogate measure for serum retinol.,HP:0001939,1,Synonym
+HP:0003265,A type of hyperbilirubinemia with neonatal onset.,HP:0001939,4,Definition
+HP:0030349,"A reduction in the blood concentration of an androgen, that is, of a steroid hormone that controls development and maintenance of masculine characteristics. The androgens include testosterone and Dehydroepiandrosterone.",HP:0000818,1,Synonym
+HP:0000316,"Interpupillary distance more than 2 SD above the mean (alternatively, the appearance of an increased interpupillary distance or widely spaced eyes).",HP:0000478,2,Synonym
+HP:0012669,An exaggerated response to carotid sinus baroreceptor stimulation resulting in syncope from transient diminished cerebral perfusion.,HP:0001626,0,Synonym
+HP:0011742,Abnormal anatomical location of the adrenal gland.,HP:0000818,3,Definition
+HP:0410052,An increase in the level of allantoin in the serum.,HP:0001939,4,Definition
+HP:0031111,A hamartoma (tissue malformation consisting of an abnormal mixture of constitutive components) originating in the skin.,HP:0002664,0,Synonym
+HP:0004839,A form of severe hemolytic anemia characterized by erythrocyte morphology reminiscent of that seen in patients after a thermal burn.,HP:0001871,0,Synonym
+HP:0011135,Absence or developmental hypoplasia of the sweat glands.,HP:0001574,8,Definition
+HP:0025034,Abnormal form of the progenitor cells committed to the erythroid lineage.,HP:0001871,3,Synonym
+HP:0003292,A decreased concentration of leptin in the blood.,HP:0000818,3,Synonym
+HP:0001600,An abnormality of the larynx.,HP:0002086,5,Definition
+HP:0025369,Increased thickness (dimension along the axis of the bone) of the growth plate.,HP:0000924,4,Synonym
+HP:0001373,Displacement or malalignment of joints.,HP:0000924,6,Synonym
+HP:0002977,Absence or underdevelopment of tissue in the central nervous system.,HP:0000707,2,Synonym
+HP:0031246,A cough that does not produce phlegm or mucus.,HP:0002086,0,Synonym
+HP:0001029,"Poikiloderma refers to a patch of skin with (1) reticulated hypopigmentation and hyperpigmentation, (2) wrinkling secondary to epidermal atrophy, and (3) telangiectasias.",HP:0001574,7,Definition
+HP:0003186,The presence of nipples that instead of pointing outward are retracted inwards.,HP:0000769,2,Definition
+HP:0032657,An abnormal increase in the level of globotriaosylsphingosine (Lyso-Gb3) in the blood circulation.,HP:0001939,3,Synonym
+HP:0012536,The presence of circulating autoantibodies to anticardiolipin in the mother.,HP:0001197,0,Synonym
+HP:0030247,"The term splanchnic vein thrombosis encompasses Budd-Chiari syndrome (hepatic vein thrombosis), extrahepatic portal vein obstruction (EHPVO), and mesenteric vein thrombosis; the word splanchnic is used to refer to the visceral organs (of the abdominal cavity).",HP:0001871,8,Synonym
+HP:0025428,"A spasm (sudden, involuntary constriction) of the bronchioles.",HP:0002086,0,Synonym
+HP:0500073,Any deviation from the normal ocular alignment.,HP:0000478,0,Definition
+HP:0000597,Ophthalmoplegia is a paralysis or weakness of one or more of the muscles that control eye movement.,HP:0000478,0,Synonym
+HP:0410064,An increase in the level of galactitol in the red blood cells.,HP:0001939,3,Definition
+HP:0002655,A disorder of bone growth affecting the vertebrae and the ends of the long bones (epiphyses).,HP:0000924,2,Synonym
+HP:0031245,A cough that produces phlegm or mucus.,HP:0002086,0,Synonym
+HP:0000633,"Abnormally decreased lacrimation, that is, reduced ability to produce tears.",HP:0000478,2,Definition
+HP:0045041,A decreased or reduced level of the enzyme lactate dehydrogenase in serum.,HP:0001939,2,Synonym
+HP:0002017,"Nausea is a commonly encountered symptom that has been defined as an unpleasant painless subjective feeling that one will imminently vomit. Vomiting has been defined as the forceful expulsion of the contents of the stomach, duodenum, or jejunum through the oral cavity. While nausea and vomiting are often thought to exist on a temporal continuum, this is not always the case. There are situations when severe nausea may be present without emesis and less frequently, when emesis may be present without preceding nausea.",HP:0025031,1,Definition
+HP:0032482,An reduced concentration of circulating alpha polypeptide of glycoprotein hormones (NCBI Gene 1081).,HP:0000818,1,Definition
+HP:0025513,Breakage of the sclera.,HP:0000478,3,Definition
+HP:0012710,Excessive growth of a nail laterally into the nail fold.,HP:0001574,10,Definition
+HP:0031419,A decreased concentration of sex-hormone binding protein in the circulation.,HP:0001939,8,Definition
+HP:0046502,Inability of individual to reach orgasm.,HP:0000119,3,Synonym
+HP:0031989,A sudden involuntary contraction of the musculature surrounding the mouth.,HP:0003011,0,Definition
+HP:0000989,Pruritus is an itch or a sensation that makes a person want to scratch. This term refers to an abnormally increased disposition to experience pruritus.,HP:0001574,6,Definition
+HP:0000372,An abnormality of the External acoustic tube (also known as the auditory canal).,HP:0000598,1,Synonym
+HP:0012315,A neoplasm containing histiocytes.,HP:0002664,0,Synonym
+HP:0031372,Increased muscle weakness upon exposure to cold temperatures.,HP:0003011,1,Synonym
+HP:0008066,"The presence of one or more bullae on the skin, defined as fluid-filled blisters more than 5 mm in diameter with thin walls.",HP:0001574,7,Definition
+HP:0000710,A tendency or compulsion to examine objects by mouth.,HP:0000707,5,Synonym
+HP:0410262,"A functional abnormality affecting the lower cranial nerves, which include the paired 9th (glossopharyngeal), 10th (vagal), 11th (accessory) and 12th (hypoglossal) cranial nerves.",HP:0000707,4,Synonym
+HP:0012628,"An anomaly of the suspensory ligament of lens, also known as the ciliary zonule. These ligaments represent a series of fibers connecting the ciliary body and lens of the eye, holding the lens in place.",HP:0000478,1,Definition
+HP:0012633,A difference in the amount of intraocular pressure in the right and left eye.,HP:0000478,0,Definition
+HP:0002046,The inability to maintain a comfortably body temperature in warm or hot weather.,HP:0001939,4,Definition
+HP:0001868,Spontaneous detachment of a foot from the body.,HP:0040064,6,Synonym
+HP:0000722,"Recurrent obsessions or compulsions that are severe enough to be time consuming (i.e., they take more than 1 hour a day) or cause marked distress or significant impairment (DSM-IV).",HP:0000707,9,Synonym
+HP:0009796,A branchial cyst is a remnant of embryonic development resulting from a failure of obliteration of a branchial cleft and consists of a subcutaneous cystic mass. Cysts are located anterior or posterior to the ear or in the submandibular region.,HP:0000152,5,Synonym
+HP:0031082,Failure of growth hormone levels to respond adequately (by increasing) to the glucagon stimulation test.,HP:0000818,1,Definition
+HP:0030345,An anomaly of the circulating level of luteinizing hormone (LH).,HP:0000818,1,Definition
+HP:0030177,An abnormality of the function of the electrical signals with which peripheral nerve cells communicate with each other or with muscles.,HP:0000707,1,Synonym
+HP:0410193,An abnormality in uridine diphosphate glucose-4-epimerase level in plasma. Uridine diphosphate glucose-4-epimerase catalyzes the reaction: UDP-glucose = UDP-galactose.,HP:0001939,0,Synonym
+HP:0012670,Syncope following a quick change in position from lying down to standing.,HP:0001626,0,Synonym
+HP:0003482,"Electromyographic (EMG) findings characteristic of axonal neuropathy, with normal or slightly decreased nerve conduction velocities, normal or slightly prolonged distal latencies, but significantly reduced motor potentials and sensory amplitudes. There may be spontaneous activity upon needle EMG studies, such as increased insertional activity, positive sharp waves, and fibrillation potentials.",HP:0003011,5,Synonym
+HP:0011140,"A spherical hollow structure with a smooth muscle coat, lined by a mucous membrane, and attached to any part of the gastrointestinal tract, from the base of the tongue to the anus.",HP:0025031,1,Definition
+HP:0031390,A reduction from the normal level of major histocompatibility complex class II molecules expressed at the cell surface.,HP:0002715,4,Definition
+HP:0008247,An abnormality of thyroid physiology (HP:0002926) characterized by increased levels of thyroxine without evidence of clinical thyroid disease.,HP:0000818,0,Definition
+HP:0032304,Any deviation from the normal concentration of mannose-binding protein in the blood circulation.,HP:0001939,6,Definition
+HP:0031081,Failure of cortisol levels to respond adequately (by increasing) to the glucagon stimulation test.,HP:0000818,0,Definition
+HP:0008883,"Intrauterine growth retardation that is at least 2 standard deviations (SD) below average, but not as low as 3 SD, corrected for sex and gestational age.",HP:0001507,1,Synonym
+HP:0012318,"A distinct type of headache characterized by piercing, throbbing, or electric-shock-like chronic pain in the upper neck, back of the head, and behind the ears, usually on one side.",HP:0000707,6,Synonym
+HP:0030828,A high-pitched whistling sound associated with labored breathing.,HP:0002086,3,Synonym
+HP:0031179,"Resistance of the extensor muscles of the neck to being bent forwards (i.e., impaired neck flexion) as a result of muscle spasm of the extensor muscles of the neck. Nuchal rigidity is not a fixed rigidity. Nuchal rigidity has been used as a bedside test for meningism, although its sensitivity for this purpose has been debated.",HP:0000152,0,Synonym
+HP:0025483,"A deviation from the normal concentration of thyroglobulin, a protein produced in the thyroid gland that acts as a precursor to thyrroid hormones.",HP:0001939,8,Synonym
+HP:0031795,Any deviation from the normal concentration of glycerol in the blood.,HP:0001939,5,Definition
+HP:0410210,"An abnormality in any umbilical cord measurement performed after birth, such as the blood gas level.",HP:0001197,0,Synonym
+HP:0003713,"Abnormal cell death involving muscle fibers usually associated with break in, or absence of, muscle surface fiber membrane and resulting in irreversible damage to muscle fibers.",HP:0003011,2,Synonym
+HP:0001999,An abnormal morphology (form) of the face or its components.,HP:0000152,1,Synonym
+HP:0011964,History of repeated intermittent involuntary muscle contractions that were painful.,HP:0003011,5,Definition
+HP:0040187,Systemic inflammatory response to infection in newborn babies.,HP:0002715,4,Synonym
+HP:0100026,An anomalous configuration of blood vessels that shunts arterial blood directly into veins without passing through the capillaries.,HP:0001626,1,Synonym
+HP:0030402,"An abnormality in the rate and degree to which platelets aggregate after the addition of an agonist that stimulates platelet clumping. Platelet aggregation is measured using aggregometer to measure the optical density of platelet-rich plasma, whereby platelet aggregation causes the plasma to become more transparent.",HP:0001871,5,Synonym
+HP:0004823,A type of poikilocytosis characterized by the presence in the blood of erythrocytes of varying sizes and abnormal shapes.,HP:0001871,2,Synonym
+HP:0008216,Abnormal development of the adrenal gland.,HP:0000818,1,Definition
+HP:0010647,Any abnormal increase or reduction in skin elasticity.,HP:0001574,6,Definition
+HP:0031538,Any anomaly of the structure of the acellular zone that is between the dermis and the epidermis and which functions to bind the epidermis to the dermis and to serve as a selective barrier allowing the control of molecular and cellular exchanges between the two compartments.,HP:0001574,2,Definition
+HP:0004343,An abnormality of glycosphingolipid metabolism.,HP:0001939,0,Definition
+HP:0030348,"An elevation of the blood concentration of an androgen, that is, of a steroid hormone that controls development and maintenance of masculine characteristics. The androgens include testosterone and Dehydroepiandrosterone.",HP:0000818,1,Synonym
+HP:0030833,"An unpleasant sensation characterized by physical discomfort (such as pricking, throbbing, or aching) localized to the neck.",HP:0025142,1,Definition
+HP:0003327,"Reduced strength of the axial musculature (i.e., of the muscles of the head and neck, spine, and ribs).",HP:0003011,1,Definition
+HP:0001833,Increased back to front length of the foot.,HP:0040064,6,Synonym
+HP:0020006,A coloboma of the ciliary body.,HP:0000478,3,Synonym
+HP:0002197,"A generalized-onset seizure is a type of seizure originating at some point within, and rapidly engaging, bilaterally distributed networks. The networks may include cortical and subcortical structures but not necessarily the entire cortex.",HP:0000707,1,Synonym
+HP:0000738,"Perceptions in a conscious and awake state in the absence of external stimuli which have qualities of real perception, in that they are vivid, substantial, and located in external objective space.",HP:0000707,2,Synonym
+HP:0009113,A decrease in the strength of the diaphragm.,HP:0003011,4,Definition
+HP:0008390,"Recurrent loss, or shedding, of the nails of the fingers and toes.",HP:0001574,6,Definition
+HP:0031247,A type of cough characterized by a burst of numerous and rapid coughs followed by a long inhaling effort that is accompanied by a high-pitched whooping sound produced by the inhalation of air.,HP:0002086,0,Synonym
+HP:0031029,"An increased blood concentration of the carcinoembryonic antigen (CEA). CEA is a member of the immunoglobulin supergene family. The human CEA gene family is clustered on chromosome 19q and comprises 29 genes. CEA is highly expressed in embryonic tissue and in some cancers, and is a widely used tumor marker.",HP:0001939,11,Synonym
